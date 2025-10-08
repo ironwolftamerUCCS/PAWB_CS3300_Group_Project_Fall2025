@@ -1,0 +1,10 @@
+C:\Users\Caleb\Desktop\CS 3300\PAWBLE\Test PAWBLE Database\Test PAWBLE Database\bin\Debug\Test PAWBLE Database.dacpac
+C:\Users\Caleb\Desktop\CS 3300\PAWBLE\Test PAWBLE Database\Test PAWBLE Database\obj\Debug\Test PAWBLE Database.sqlproj.AssemblyReference.cache
+C:\Users\Caleb\Desktop\CS 3300\PAWBLE\Test PAWBLE Database\Test PAWBLE Database\obj\Debug\Model.xml
+C:\Users\Caleb\Desktop\CS 3300\PAWBLE\Test PAWBLE Database\Test PAWBLE Database\obj\Debug\refactor.xml
+C:\Users\Caleb\Desktop\CS 3300\PAWBLE\Test PAWBLE Database\Test PAWBLE Database\obj\Debug\postdeploy.sql
+C:\Users\Caleb\Desktop\CS 3300\PAWBLE\Test PAWBLE Database\Test PAWBLE Database\obj\Debug\predeploy.sql
+C:\Users\Caleb\Desktop\CS 3300\PAWBLE\Test PAWBLE Database\Test PAWBLE Database\obj\Debug\Test_PAWBLE_Database.dll
+C:\Users\Caleb\Desktop\CS 3300\PAWBLE\Test PAWBLE Database\Test PAWBLE Database\obj\Debug\Test_PAWBLE_Database.pdb
+C:\Users\Caleb\Desktop\CS 3300\PAWBLE\Test PAWBLE Database\Test PAWBLE Database\bin\Debug\Test_PAWBLE_Database.dll
+C:\Users\Caleb\Desktop\CS 3300\PAWBLE\Test PAWBLE Database\Test PAWBLE Database\bin\Debug\Test_PAWBLE_Database.pdb
