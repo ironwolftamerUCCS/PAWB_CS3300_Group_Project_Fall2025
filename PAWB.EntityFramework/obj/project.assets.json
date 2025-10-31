@@ -4727,23 +4727,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bstampe2\\.nuget\\packages\\": {},
+    "C:\\Users\\Brock\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\PAWB\\PAWB.EntityFramework\\PAWB.EntityFramework.csproj",
+      "projectUniqueName": "D:\\Github\\PAWB\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\PAWB.EntityFramework.csproj",
       "projectName": "PAWB.EntityFramework",
-      "projectPath": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\PAWB\\PAWB.EntityFramework\\PAWB.EntityFramework.csproj",
-      "packagesPath": "C:\\Users\\bstampe2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\PAWB\\PAWB.EntityFramework\\obj\\",
+      "projectPath": "D:\\Github\\PAWB\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\PAWB.EntityFramework.csproj",
+      "packagesPath": "C:\\Users\\Brock\\.nuget\\packages\\",
+      "outputPath": "D:\\Github\\PAWB\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\bstampe2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Brock\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4758,8 +4758,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\PAWB\\PAWB.Domain\\PAWB.Domain.csproj": {
-              "projectPath": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\PAWB\\PAWB.Domain\\PAWB.Domain.csproj"
+            "D:\\Github\\PAWB\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\PAWB.Domain.csproj": {
+              "projectPath": "D:\\Github\\PAWB\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\PAWB.Domain.csproj"
             }
           }
         }
