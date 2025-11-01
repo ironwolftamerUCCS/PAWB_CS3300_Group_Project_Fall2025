@@ -1,0 +1,6 @@
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.EntityFramework\obj\Debug\net9.0\PAWB.EntityFramework.csproj.AssemblyReference.cache
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.EntityFramework\obj\Debug\net9.0\PAWB.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.EntityFramework\obj\Debug\net9.0\PAWB.EntityFramework.AssemblyInfoInputs.cache
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.EntityFramework\obj\Debug\net9.0\PAWB.EntityFramework.AssemblyInfo.cs
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.EntityFramework\obj\Debug\net9.0\PAWB.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.EntityFramework\obj\Debug\net9.0\PAWB.EntityFramework.sourcelink.json

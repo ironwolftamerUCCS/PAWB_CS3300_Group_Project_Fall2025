@@ -1,8 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "nZM90rAFYbE=",
+  "dgSpecHash": "L2QrYNE/Yqg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\PAWB\\PAWB.Domain\\PAWB.Domain.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "projectFilePath": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\PAWB.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ejfco\\.nuget\\packages\\microsoft.aspnet.identity.core\\2.2.4\\microsoft.aspnet.identity.core.2.2.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Package 'Microsoft.AspNet.Identity.Core 2.2.4' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net9.0'. This package may not be fully compatible with your project.",
+      "projectPath": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\PAWB.Domain.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\PAWB.Domain.csproj",
+      "libraryId": "Microsoft.AspNet.Identity.Core",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
 }

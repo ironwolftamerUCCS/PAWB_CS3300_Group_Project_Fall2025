@@ -1,0 +1,12 @@
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.Domain\bin\Debug\net9.0\PAWB.Domain.deps.json
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.Domain\bin\Debug\net9.0\PAWB.Domain.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.Domain\bin\Debug\net9.0\PAWB.Domain.pdb
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.Domain\obj\Debug\net9.0\PAWB.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.Domain\obj\Debug\net9.0\PAWB.Domain.AssemblyInfoInputs.cache
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.Domain\obj\Debug\net9.0\PAWB.Domain.AssemblyInfo.cs
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.Domain\obj\Debug\net9.0\PAWB.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.Domain\obj\Debug\net9.0\PAWB.Domain.sourcelink.json
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.Domain\obj\Debug\net9.0\PAWB.Domain.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.Domain\obj\Debug\net9.0\refint\PAWB.Domain.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.Domain\obj\Debug\net9.0\PAWB.Domain.pdb
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.Domain\obj\Debug\net9.0\ref\PAWB.Domain.dll

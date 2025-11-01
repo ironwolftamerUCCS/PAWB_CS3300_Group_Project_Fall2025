@@ -7,37 +7,32 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.ChangeTracking;
 using PAWB.Domain.Model;
 using PAWB.Domain.Services;
+using PAWB.EntityFramework.Services.Common;
 
 namespace PAWB.EntityFramework.Services
 {
     public class GenericDataService<T> : IDataService<T> where T : DomainObject
     {
         private readonly PAWBDbContextFactory _dbContextFactory;
+        private readonly NonQueryDataService<T> _nonQueryDataService;
+
+        public GenericDataService(PAWBDbContextFactory dbContextFactory)
+        {
+            _dbContextFactory = dbContextFactory;
+            _nonQueryDataService = new NonQueryDataService<T>(dbContextFactory);
+        }
 
         public async Task<T> Create(T entity)
         {
-            using (PAWBDbContext context = _dbContextFactory.CreateDbContext())
-            {
-                EntityEntry<T> createdResult = await context.Set<T>().AddAsync(entity);
-                await context.SaveChangesAsync();
-
-                return createdResult.Entity;
-            }
+            return await _nonQueryDataService.Create(entity);
         }
 
         public async Task<bool> Delete(int id)
         {
-            using (PAWBDbContext context = _dbContextFactory.CreateDbContext())
-            {
-                T entity = await context.Set<T>().FirstOrDefaultAsync((e) => e.Id == id);
-                context.Set<T>().Remove(entity);
-                await context.SaveChangesAsync();
-
-                return true;
-            }
+            return await _nonQueryDataService.Delete(id);
         }
 
-        public async Task<T> Get(string id)
+        public async Task<T> Get(int id)
         {
             using (PAWBDbContext context = _dbContextFactory.CreateDbContext())
             {
@@ -57,15 +52,7 @@ namespace PAWB.EntityFramework.Services
 
         public async Task<T> Update(int id, T entity)
         {
-            using (PAWBDbContext context = _dbContextFactory.CreateDbContext())
-            {
-                entity.Id = id;
-
-                context.Set<T>().Update(entity);
-                await context.SaveChangesAsync();
-
-                return entity;
-            }
+            return await _nonQueryDataService.Update(id, entity);
         }
     }
 }
