@@ -14,7 +14,7 @@ namespace PAWB.EntityFramework
         {
             var options = new DbContextOptionsBuilder<PAWBDbContext>();
             // TODO insert connection string to sequel server into this command below
-            options.UseSqlServer("Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=master;Integrated Security=True;Connect Timeout=30;Encrypt=False;Trust Server Certificate=False;Application Intent=ReadWrite;Multi Subnet Failover=False");
+            //options.UseSqlServer("");
 
             return new PAWBDbContext(options.Options);
         }
