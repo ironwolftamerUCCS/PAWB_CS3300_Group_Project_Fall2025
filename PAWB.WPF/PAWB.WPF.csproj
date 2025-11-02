@@ -13,8 +13,4 @@
     <ProjectReference Include="..\PAWB.EntityFramework\PAWB.EntityFramework.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Views\" />
-  </ItemGroup>
-
 </Project>

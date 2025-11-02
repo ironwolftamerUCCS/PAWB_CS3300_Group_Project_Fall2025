@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNet.Identity;
+using PAWB.Domain.Exceptions;
 using PAWB.Domain.Model;
 using PAWB.Domain.Models;
 using System;
@@ -20,26 +21,52 @@ namespace PAWB.Domain.Services.AuthenticationServices
             _passwordHasher = passwordHasher;
         }
 
+        //Identifies and authenticates a user based on username and password
         public async Task<Account> Login(string username, string password)
         {
             Account storedAccount = await _accountService.GetByUsername(username);
+
+            if(storedAccount == null)
+            {
+                throw new UserNotFoundException(username);
+            }
 
             PasswordVerificationResult passwordResult = _passwordHasher.VerifyHashedPassword(storedAccount.AccountHolder.PasswordHash, password);
 
             if(passwordResult != PasswordVerificationResult.Success)
             {
-                throw new Exception();
+                throw new InvalidPasswordException(username, password);
             }
 
             return storedAccount;
 
         }
 
-        public async Task<bool> Resister(string email, string username, string password, string confirmPassword)
+        //Registers a new user account with an email, username, and password
+        public async Task<RegistrationResult> Resister(string email, string username, string password, string confirmPassword)
         {
-            bool success = false;
+            RegistrationResult result = RegistrationResult.Success;
 
-            if (password == confirmPassword)
+            if(password != confirmPassword)
+            {
+                result = RegistrationResult.PasswordsDoNotMatch;
+            }
+
+            Account emailAccount = await _accountService.GetByEmail(email);
+
+            if(emailAccount != null)
+            {
+                result = RegistrationResult.EmailAlreadyExists;
+            }
+
+            Account usernameAccount = await _accountService.GetByUsername(username);
+
+            if (usernameAccount != null)
+            {
+                result = RegistrationResult.UsernameAlreadyExists;
+            }
+
+            if(result == RegistrationResult.Success)
             {
                 string hashedPassword = _passwordHasher.HashPassword(password);
 
@@ -59,7 +86,8 @@ namespace PAWB.Domain.Services.AuthenticationServices
                 await _accountService.Create(account);
             }
 
-            return success;
+            return result;
+            
         }
     }
 }

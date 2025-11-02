@@ -10,3 +10,4 @@ C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.Domain\o
 C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.Domain\obj\Debug\net9.0\refint\PAWB.Domain.dll
 C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.Domain\obj\Debug\net9.0\PAWB.Domain.pdb
 C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.Domain\obj\Debug\net9.0\ref\PAWB.Domain.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.Domain\obj\Debug\net9.0\PAWB.Domain.csproj.AssemblyReference.cache

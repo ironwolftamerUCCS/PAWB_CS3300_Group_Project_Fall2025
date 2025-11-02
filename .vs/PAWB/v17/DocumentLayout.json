@@ -3,56 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9C053A8A-1F53-425C-B79C-0E9AADF6969F}|PAWB.Domain\\PAWB.Domain.csproj|c:\\users\\ejfco\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.domain\\services\\authenticationservices\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C053A8A-1F53-425C-B79C-0E9AADF6969F}|PAWB.Domain\\PAWB.Domain.csproj|solutionrelative:pawb.domain\\services\\authenticationservices\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\ejfco\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39D43BBD-751F-41AA-963A-F2C183037289}|PAWB.EntityFramework\\PAWB.EntityFramework.csproj|c:\\users\\ejfco\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.entityframework\\services\\accountdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39D43BBD-751F-41AA-963A-F2C183037289}|PAWB.EntityFramework\\PAWB.EntityFramework.csproj|solutionrelative:pawb.entityframework\\services\\accountdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\ejfco\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39D43BBD-751F-41AA-963A-F2C183037289}|PAWB.EntityFramework\\PAWB.EntityFramework.csproj|c:\\users\\ejfco\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.entityframework\\services\\common\\nonquerydataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39D43BBD-751F-41AA-963A-F2C183037289}|PAWB.EntityFramework\\PAWB.EntityFramework.csproj|solutionrelative:pawb.entityframework\\services\\common\\nonquerydataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\ejfco\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C053A8A-1F53-425C-B79C-0E9AADF6969F}|PAWB.Domain\\PAWB.Domain.csproj|c:\\users\\ejfco\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.domain\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C053A8A-1F53-425C-B79C-0E9AADF6969F}|PAWB.Domain\\PAWB.Domain.csproj|solutionrelative:pawb.domain\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39D43BBD-751F-41AA-963A-F2C183037289}|PAWB.EntityFramework\\PAWB.EntityFramework.csproj|c:\\users\\ejfco\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.entityframework\\services\\genericdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39D43BBD-751F-41AA-963A-F2C183037289}|PAWB.EntityFramework\\PAWB.EntityFramework.csproj|solutionrelative:pawb.entityframework\\services\\genericdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C053A8A-1F53-425C-B79C-0E9AADF6969F}|PAWB.Domain\\PAWB.Domain.csproj|c:\\users\\ejfco\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.domain\\services\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C053A8A-1F53-425C-B79C-0E9AADF6969F}|PAWB.Domain\\PAWB.Domain.csproj|solutionrelative:pawb.domain\\services\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C053A8A-1F53-425C-B79C-0E9AADF6969F}|PAWB.Domain\\PAWB.Domain.csproj|c:\\users\\ejfco\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.domain\\models\\domainobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C053A8A-1F53-425C-B79C-0E9AADF6969F}|PAWB.Domain\\PAWB.Domain.csproj|solutionrelative:pawb.domain\\models\\domainobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39D43BBD-751F-41AA-963A-F2C183037289}|PAWB.EntityFramework\\PAWB.EntityFramework.csproj|c:\\users\\ejfco\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.entityframework\\pawbdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39D43BBD-751F-41AA-963A-F2C183037289}|PAWB.EntityFramework\\PAWB.EntityFramework.csproj|solutionrelative:pawb.entityframework\\pawbdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\ejfco\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\ejfco\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C053A8A-1F53-425C-B79C-0E9AADF6969F}|PAWB.Domain\\PAWB.Domain.csproj|c:\\users\\ejfco\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C053A8A-1F53-425C-B79C-0E9AADF6969F}|PAWB.Domain\\PAWB.Domain.csproj|solutionrelative:pawb.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\ejfco\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C053A8A-1F53-425C-B79C-0E9AADF6969F}|PAWB.Domain\\PAWB.Domain.csproj|c:\\users\\ejfco\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.domain\\services\\authenticationservices\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C053A8A-1F53-425C-B79C-0E9AADF6969F}|PAWB.Domain\\PAWB.Domain.csproj|solutionrelative:pawb.domain\\services\\authenticationservices\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\ejfco\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\ejfco\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\ejfco\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\ejfco\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\state\\authenticators\\authenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\state\\authenticators\\authenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,175 +42,112 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NonQueryDataService.cs",
-              "DocumentMoniker": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\Services\\Common\\NonQueryDataService.cs",
-              "RelativeDocumentMoniker": "PAWB.EntityFramework\\Services\\Common\\NonQueryDataService.cs",
-              "ToolTip": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\Services\\Common\\NonQueryDataService.cs",
-              "RelativeToolTip": "PAWB.EntityFramework\\Services\\Common\\NonQueryDataService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T19:06:13.55Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Account.cs",
-              "DocumentMoniker": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\Models\\Account.cs",
-              "RelativeDocumentMoniker": "PAWB.Domain\\Models\\Account.cs",
-              "ToolTip": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\Models\\Account.cs",
-              "RelativeToolTip": "PAWB.Domain\\Models\\Account.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABkAAAAAAAAAA==",
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PAWB.WPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PAWB.WPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T18:52:59.146Z",
+              "WhenOpened": "2025-11-02T23:03:39.912Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "GenericDataService.cs",
-              "DocumentMoniker": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\Services\\GenericDataService.cs",
-              "RelativeDocumentMoniker": "PAWB.EntityFramework\\Services\\GenericDataService.cs",
-              "ToolTip": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\Services\\GenericDataService.cs",
-              "RelativeToolTip": "PAWB.EntityFramework\\Services\\GenericDataService.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAYwCYAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T18:40:46.304Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AccountDataService.cs",
-              "DocumentMoniker": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\Services\\AccountDataService.cs",
-              "RelativeDocumentMoniker": "PAWB.EntityFramework\\Services\\AccountDataService.cs",
-              "ToolTip": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\Services\\AccountDataService.cs",
-              "RelativeToolTip": "PAWB.EntityFramework\\Services\\AccountDataService.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAADwv0gAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T18:42:04.088Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DomainObject.cs",
-              "DocumentMoniker": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\Models\\DomainObject.cs",
-              "RelativeDocumentMoniker": "PAWB.Domain\\Models\\DomainObject.cs",
-              "ToolTip": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\Models\\DomainObject.cs",
-              "RelativeToolTip": "PAWB.Domain\\Models\\DomainObject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T17:46:16.396Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IDataService.cs",
-              "DocumentMoniker": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\Services\\IDataService.cs",
-              "RelativeDocumentMoniker": "PAWB.Domain\\Services\\IDataService.cs",
-              "ToolTip": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\Services\\IDataService.cs",
-              "RelativeToolTip": "PAWB.Domain\\Services\\IDataService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T17:46:09.731Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthenticationService.cs",
-              "DocumentMoniker": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\Services\\AuthenticationServices\\AuthenticationService.cs",
-              "RelativeDocumentMoniker": "PAWB.Domain\\Services\\AuthenticationServices\\AuthenticationService.cs",
-              "ToolTip": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\Services\\AuthenticationServices\\AuthenticationService.cs",
-              "RelativeToolTip": "PAWB.Domain\\Services\\AuthenticationServices\\AuthenticationService.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwB4AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T18:04:43.772Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PAWBDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\PAWBDbContext.cs",
-              "RelativeDocumentMoniker": "PAWB.EntityFramework\\PAWBDbContext.cs",
-              "ToolTip": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\PAWBDbContext.cs",
-              "RelativeToolTip": "PAWB.EntityFramework\\PAWBDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T18:49:39.396Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IAuthenticationService.cs",
-              "DocumentMoniker": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\Services\\AuthenticationServices\\IAuthenticationService.cs",
-              "RelativeDocumentMoniker": "PAWB.Domain\\Services\\AuthenticationServices\\IAuthenticationService.cs",
-              "ToolTip": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\Services\\AuthenticationServices\\IAuthenticationService.cs",
-              "RelativeToolTip": "PAWB.Domain\\Services\\AuthenticationServices\\IAuthenticationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T17:53:28.923Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\Models\\User.cs",
-              "RelativeDocumentMoniker": "PAWB.Domain\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\Models\\User.cs",
-              "RelativeToolTip": "PAWB.Domain\\Models\\User.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAkwA4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T17:33:50.751Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\App.xaml.cs",
               "RelativeDocumentMoniker": "PAWB.WPF\\App.xaml.cs",
               "ToolTip": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\App.xaml.cs",
               "RelativeToolTip": "PAWB.WPF\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T18:20:04.07Z",
+              "WhenOpened": "2025-11-02T23:07:31.894Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ViewModelBase.cs",
-              "DocumentMoniker": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\ViewModelBase.cs",
-              "RelativeDocumentMoniker": "PAWB.WPF\\ViewModels\\ViewModelBase.cs",
-              "ToolTip": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\ViewModelBase.cs",
-              "RelativeToolTip": "PAWB.WPF\\ViewModels\\ViewModelBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T17:31:41.389Z",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PAWB.WPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\MainWindow.xaml",
+              "RelativeToolTip": "PAWB.WPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-02T22:57:02.642Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MainViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\MainViewModel.cs",
-              "RelativeDocumentMoniker": "PAWB.WPF\\ViewModels\\MainViewModel.cs",
-              "ToolTip": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\MainViewModel.cs",
-              "RelativeToolTip": "PAWB.WPF\\ViewModels\\MainViewModel.cs",
+              "DocumentIndex": 1,
+              "Title": "LoginView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\LoginView.xaml.cs",
+              "RelativeDocumentMoniker": "PAWB.WPF\\Views\\LoginView.xaml.cs",
+              "ToolTip": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\LoginView.xaml.cs",
+              "RelativeToolTip": "PAWB.WPF\\Views\\LoginView.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T17:31:34.396Z"
+              "WhenOpened": "2025-11-02T22:56:30.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\App.xaml",
+              "RelativeDocumentMoniker": "PAWB.WPF\\App.xaml",
+              "ToolTip": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\App.xaml",
+              "RelativeToolTip": "PAWB.WPF\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-02T22:44:30.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\LoginView.xaml",
+              "RelativeDocumentMoniker": "PAWB.WPF\\Views\\LoginView.xaml",
+              "ToolTip": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\LoginView.xaml",
+              "RelativeToolTip": "PAWB.WPF\\Views\\LoginView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-02T21:19:50.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "PAWB.WPF\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "PAWB.WPF\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T21:18:56.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Authenticator.cs",
+              "DocumentMoniker": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Authenticators\\Authenticator.cs",
+              "RelativeDocumentMoniker": "PAWB.WPF\\State\\Authenticators\\Authenticator.cs",
+              "ToolTip": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Authenticators\\Authenticator.cs",
+              "RelativeToolTip": "PAWB.WPF\\State\\Authenticators\\Authenticator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T21:08:34.304Z",
+              "EditorCaption": ""
             }
           ]
         }

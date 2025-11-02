@@ -7,6 +7,8 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-
+        <!-- ContentControl will resolve the DataTemplate defined in App.xaml
+     and display the LoginView for a LoginViewModel set as DataContext -->
+        <ContentControl Content="{Binding}" />
     </Grid>
 </Window>
