@@ -52,6 +52,12 @@ namespace PAWB.WPF
             services.AddSingleton<IPasswordHasher, PasswordHasher>();
 
             services.AddSingleton<IPAWBViewModelFactory, PAWBViewModelFactory>();
+            
+            //Registering factory methods for each viewmodel. Services required by each viewmodel's constructor are passed.
+            services.AddSingleton<CreateViewModel<LoginViewModel>>(services =>
+            {
+                return () => new LoginViewModel(services.GetRequiredService<IAuthenticator>());
+            });
 
             services.AddScoped<INavigator, Navigator>();
             services.AddScoped<IAuthenticator, Authenticator>();
