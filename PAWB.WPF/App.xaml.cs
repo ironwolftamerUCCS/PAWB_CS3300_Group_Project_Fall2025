@@ -20,22 +20,12 @@ namespace PAWB.WPF
     /// </summary>
     public partial class App : Application
     {
-        private IServiceScope _appScope;
         protected override void OnStartup(StartupEventArgs e)
         {
             IServiceProvider serviceProvider = CreateServiceProvider();
 
-            //Create a scope and keep it for app lifetime
-            _appScope = serviceProvider.CreateScope();
-
-            //Resolve authenticator from the scope and create LoginViewModel
-            var authenticator = _appScope.ServiceProvider.GetRequiredService<IAuthenticator>();
-            var loginViewModel = new LoginViewModel(authenticator);
-
-            //Creating main window and setting datacontext to login veiw model, need to generalize this
-            //So that the datacontext can be changed based on navigation
-            Window window = new MainWindow(loginViewModel);
-            
+            //Creating main view model using the service providers
+            Window window = serviceProvider.GetRequiredService<MainWindow>();
             window.Show();
 
             base.OnStartup(e);
@@ -52,18 +42,28 @@ namespace PAWB.WPF
             services.AddSingleton<IPasswordHasher, PasswordHasher>();
 
             services.AddSingleton<IPAWBViewModelFactory, PAWBViewModelFactory>();
-            
+
             //Registering factory methods for each viewmodel. Services required by each viewmodel's constructor are passed.
+            services.AddSingleton<ViewModelDelegateRenavigator<HomeViewModel>>();
             services.AddSingleton<CreateViewModel<LoginViewModel>>(services =>
             {
-                return () => new LoginViewModel(services.GetRequiredService<IAuthenticator>());
+                return () => new LoginViewModel(
+                    services.GetRequiredService<IAuthenticator>(),
+                    services.GetRequiredService<ViewModelDelegateRenavigator<HomeViewModel>>());
+            });
+
+            services.AddSingleton<HomeViewModel>(services => new HomeViewModel());
+            services.AddSingleton<CreateViewModel<HomeViewModel>>(services =>
+            {
+                return () => services.GetRequiredService<HomeViewModel>();
             });
 
             services.AddScoped<INavigator, Navigator>();
             services.AddScoped<IAuthenticator, Authenticator>();
+            services.AddScoped<MainViewModel>();
 
-            //Need to go back and figure out MainWindow.cs functions
-            //services.AddScoped<MainWindow>(services => new MainWindow(s.GetRequiredService<MainViewModel>())) >;
+            
+            services.AddScoped<MainWindow>(s => new MainWindow(s.GetRequiredService<MainViewModel>()));
 
             return services.BuildServiceProvider();
             

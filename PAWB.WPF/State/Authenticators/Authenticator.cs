@@ -1,6 +1,7 @@
 ﻿using PAWB.Domain.Model;
 using PAWB.Domain.Models;
 using PAWB.Domain.Services.AuthenticationServices;
+using PAWB.WPF.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace PAWB.WPF.State.Authenticators
 {
-    public class Authenticator : IAuthenticator
+    public class Authenticator : ObservableObjects, IAuthenticator
     {
         private readonly IAuthenticationService _authenticationService;
 
@@ -18,11 +19,23 @@ namespace PAWB.WPF.State.Authenticators
             _authenticationService = authenticationService;
         }
 
-        public Account CurrentAccount { get; private set; }
+        private Account _currentAccount;
+
+        public Account CurrentAccount
+        {
+            get
+            {
+                return _currentAccount;
+            }
+            private set
+            {
+                _currentAccount = value;
+                OnPropertyChanged(nameof(CurrentAccount));
+                OnPropertyChanged(nameof(IsLoggedIn));
+            }
+        }
 
         public bool IsLoggedIn => CurrentAccount != null;
-
-        public event Action StateChanged;
 
         public async Task<bool> Login(string username, string password)
         {

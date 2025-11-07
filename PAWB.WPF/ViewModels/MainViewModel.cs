@@ -14,41 +14,19 @@ namespace PAWB.WPF.ViewModels
     public class MainViewModel : ViewModelBase
     {
         private readonly IPAWBViewModelFactory _viewModelFactory;
-        private readonly INavigator _navigator;
-        private readonly IAuthenticator _authenticator;
-
-        public bool IsLoggedIn => _authenticator.IsLoggedIn;
-        public ViewModelBase CurrentViewModel => _navigator.CurrentViewModel;
+        public INavigator Navigator { get; set; }
+        public IAuthenticator Authenticator { get; }
         public ICommand UpdateCurrentViewModelCommand { get; }
-        public MainViewModel(INavigator navigator, IPAWBViewModelFactory viewModelFactory, IAuthenticator authenticator)
+
+        public MainViewModel(INavigator navigator, IAuthenticator authenticator, IPAWBViewModelFactory viewModelFactory)
         {
-            _navigator = navigator;
+            Navigator = navigator;
             _viewModelFactory = viewModelFactory;
-            _authenticator = authenticator;
+            Authenticator = authenticator;
 
-            _navigator.StateChanged += Navigator_StateChanged;
-            _authenticator.StateChanged += Authenticator_StateChanged;
-
-            UpdateCurrentViewModelCommand = new UpdateCurrentViewModelCommand (navigator, _viewModelFactory);
+            UpdateCurrentViewModelCommand = new UpdateCurrentViewModelCommand(navigator, _viewModelFactory);
             UpdateCurrentViewModelCommand.Execute(ViewType.Login);
         }
-
-        private void Authenticator_StateChanged()
-        {
-            OnPropertyChanged(nameof(IsLoggedIn));
-        }
-
-        private void Navigator_StateChanged()
-        {
-            OnPropertyChanged(nameof(CurrentViewModel));
-        }
-
-        public override void Dispose()
-        {
-            _navigator.StateChanged -= Navigator_StateChanged;
-            _authenticator.StateChanged -= Authenticator_StateChanged;
-
-            base.Dispose();
-        }
     }
+
 }

@@ -31,7 +31,7 @@ namespace PAWB.WPF.Commands
         {
             if (parameter is ViewType)
             {
-                ViewType viewType = (ViewType) parameter;
+                ViewType viewType = (ViewType)parameter;
 
                 _navigator.CurrentViewModel = _viewModelFactory.CreateViewModel(viewType);
             }

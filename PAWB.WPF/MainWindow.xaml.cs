@@ -21,6 +21,7 @@ namespace PAWB.WPF
             InitializeComponent();
 
             DataContext = dataContext;
+                        
         }
     }
 }

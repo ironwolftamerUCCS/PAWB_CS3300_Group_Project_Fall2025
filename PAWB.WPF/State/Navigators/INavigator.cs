@@ -4,16 +4,18 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Input;
 
 namespace PAWB.WPF.State.Navigators
 {
     public enum ViewType
     {
-        Login
+        Login,
+        Home
     }
     public interface INavigator
     {
+        //Current ViewModel of the application
         ViewModelBase CurrentViewModel { get; set; }
-        event Action StateChanged;
     }
 }

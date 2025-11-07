@@ -1,13 +1,16 @@
-﻿using PAWB.WPF.ViewModels;
+﻿using PAWB.WPF.Models;
+using PAWB.WPF.ViewModels;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Input;
 
 namespace PAWB.WPF.State.Navigators
 {
-    public class Navigator : INavigator
+    public class Navigator : ObservableObjects, INavigator
     {
         private ViewModelBase _currentViewModel;
         public ViewModelBase CurrentViewModel
@@ -18,13 +21,13 @@ namespace PAWB.WPF.State.Navigators
             }
             set
             {
-                _currentViewModel?.Dispose();
-
                 _currentViewModel = value;
-                StateChanged?.Invoke();
+                OnPropertyChanged(nameof(CurrentViewModel));
+
             }
         }
 
-        public event Action StateChanged;
+          
+
     }
 }

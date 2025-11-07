@@ -12,11 +12,14 @@ namespace PAWB.WPF.ViewModels.Factories
     {
         //Creating variables representing each view model
         private readonly CreateViewModel<LoginViewModel> _createLoginViewModel;
+        private readonly CreateViewModel<HomeViewModel> _createHomeViewModel;
 
         //Initializing each variable
-        public PAWBViewModelFactory(CreateViewModel<LoginViewModel> createLoginViewModel)
+        public PAWBViewModelFactory(CreateViewModel<LoginViewModel> createLoginViewModel,
+            CreateViewModel<HomeViewModel> createHomeViewModel)
         {
             _createLoginViewModel = createLoginViewModel;
+            _createHomeViewModel = createHomeViewModel;
         }
         public ViewModelBase CreateViewModel(ViewType viewType)
         {
@@ -25,6 +28,8 @@ namespace PAWB.WPF.ViewModels.Factories
             {
                 case ViewType.Login:
                     return _createLoginViewModel();
+                case ViewType.Home:
+                    return _createHomeViewModel();
                 default:
                     throw new ArgumentException("This ViewType does not have a ViewModel.", "viewType");
             }

@@ -66,3 +66,8 @@ C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\
 C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.pdb
 C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.genruntimeconfig.cache
 C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\ref\PAWB.WPF.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Views\HomeView.g.cs
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Views\HomeView.baml
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Controls\NavigationBar.g.cs
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Controls\NavigationBar.baml
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\App.baml

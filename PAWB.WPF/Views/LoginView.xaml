@@ -23,8 +23,9 @@
         <TextBlock Grid.Row="1" Grid.Column="0" Text="Password"/>
         <PasswordBox x:Name="pbPassword" Grid.Row="1" Grid.Column="1"/>
 
-        <Button Grid.Row="2" Grid.Column="2" HorizontalAlignment="Center" 
+        <Button Grid.Row="2" Grid.Column="2" HorizontalAlignment="Center"
+                IsDefault="True"
                 Content="Login"
-                Command="{Binding LoginCommand}"/>
+                Click="Login_Click"/>
     </Grid>
 </UserControl>

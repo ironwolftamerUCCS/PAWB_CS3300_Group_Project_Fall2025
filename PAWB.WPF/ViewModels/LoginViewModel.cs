@@ -1,5 +1,6 @@
 ﻿using PAWB.WPF.Commands;
 using PAWB.WPF.State.Authenticators;
+using PAWB.WPF.State.Navigators;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -27,9 +28,9 @@ namespace PAWB.WPF.ViewModels
          
         public ICommand LoginCommand { get; }
 
-        public LoginViewModel(IAuthenticator authenticator)
+        public LoginViewModel(IAuthenticator authenticator, IRenavigator renavigator)
         {
-            LoginCommand = new LoginCommand(this, authenticator);
+            LoginCommand = new LoginCommand(this, authenticator, renavigator);
         }
     }
 }
