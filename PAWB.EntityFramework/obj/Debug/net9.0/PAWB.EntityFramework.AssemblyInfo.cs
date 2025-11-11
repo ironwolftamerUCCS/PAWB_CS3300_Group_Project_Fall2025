@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PAWB.EntityFramework")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb8b71ae71fae999d814b0017c08f5c6dcc8bfbb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+361cddb066c2f8de767e7ccddc743596cd4f74a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("PAWB.EntityFramework")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PAWB.EntityFramework")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

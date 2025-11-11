@@ -1,110 +1,110 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\",
+  "WorkspaceRootPath": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\ejfco\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\ejfco\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\bstampe2\\onedrive - university of colorado colorado springs\\documents\\.school\\cs\\cs3300\\project\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\ejfco\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\views\\homeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\views\\homeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\ejfco\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\state\\navigators\\navigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\state\\navigators\\navigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\ejfco\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\commands\\updatecurrentviewmodelcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\bstampe2\\onedrive - university of colorado colorado springs\\documents\\.school\\cs\\cs3300\\project\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\commands\\updatecurrentviewmodelcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\commands\\updatecurrentviewmodelcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\ejfco\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\converters\\equalvaluetoparameterconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\converters\\equalvaluetoparameterconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\bstampe2\\onedrive - university of colorado colorado springs\\documents\\.school\\cs\\cs3300\\project\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\state\\navigators\\navigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\state\\navigators\\navigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\ejfco\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\ejfco\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\viewmodels\\factories\\pawbviewmodelfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\bstampe2\\onedrive - university of colorado colorado springs\\documents\\.school\\cs\\cs3300\\project\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\viewmodels\\factories\\pawbviewmodelfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\viewmodels\\factories\\pawbviewmodelfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\ejfco\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\ejfco\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\controls\\navigationbar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\controls\\navigationbar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\ejfco\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\state\\navigators\\viewmodeldelegaterenavigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\state\\navigators\\viewmodeldelegaterenavigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\ejfco\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\state\\authenticators\\authenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\state\\authenticators\\authenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\ejfco\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\state\\navigators\\inavigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\state\\navigators\\inavigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\ejfco\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\state\\navigators\\irenavigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\state\\navigators\\irenavigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\ejfco\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\commands\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\commands\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\ejfco\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\ejfco\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\views\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\views\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C053A8A-1F53-425C-B79C-0E9AADF6969F}|PAWB.Domain\\PAWB.Domain.csproj|c:\\users\\ejfco\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.domain\\services\\authenticationservices\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C053A8A-1F53-425C-B79C-0E9AADF6969F}|PAWB.Domain\\PAWB.Domain.csproj|solutionrelative:pawb.domain\\services\\authenticationservices\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\ejfco\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\ejfco\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\ejfco\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\ejfco\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\bstampe2\\onedrive - university of colorado colorado springs\\documents\\.school\\cs\\cs3300\\project\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\ejfco\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\bstampe2\\onedrive - university of colorado colorado springs\\documents\\.school\\cs\\cs3300\\project\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\bstampe2\\onedrive - university of colorado colorado springs\\documents\\.school\\cs\\cs3300\\project\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\bstampe2\\onedrive - university of colorado colorado springs\\documents\\.school\\cs\\cs3300\\project\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\pawb.wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\pawb.wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\bstampe2\\onedrive - university of colorado colorado springs\\documents\\.school\\cs\\cs3300\\project\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\bstampe2\\onedrive - university of colorado colorado springs\\documents\\.school\\cs\\cs3300\\project\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\converters\\equalvaluetoparameterconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\converters\\equalvaluetoparameterconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\bstampe2\\onedrive - university of colorado colorado springs\\documents\\.school\\cs\\cs3300\\project\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\views\\homeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\views\\homeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\bstampe2\\onedrive - university of colorado colorado springs\\documents\\.school\\cs\\cs3300\\project\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\bstampe2\\onedrive - university of colorado colorado springs\\documents\\.school\\cs\\cs3300\\project\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\controls\\navigationbar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\controls\\navigationbar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\bstampe2\\onedrive - university of colorado colorado springs\\documents\\.school\\cs\\cs3300\\project\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\state\\navigators\\viewmodeldelegaterenavigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\state\\navigators\\viewmodeldelegaterenavigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\bstampe2\\onedrive - university of colorado colorado springs\\documents\\.school\\cs\\cs3300\\project\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\state\\authenticators\\authenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\state\\authenticators\\authenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\bstampe2\\onedrive - university of colorado colorado springs\\documents\\.school\\cs\\cs3300\\project\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\state\\navigators\\inavigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\state\\navigators\\inavigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\bstampe2\\onedrive - university of colorado colorado springs\\documents\\.school\\cs\\cs3300\\project\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\state\\navigators\\irenavigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\state\\navigators\\irenavigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\bstampe2\\onedrive - university of colorado colorado springs\\documents\\.school\\cs\\cs3300\\project\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\commands\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\commands\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\bstampe2\\onedrive - university of colorado colorado springs\\documents\\.school\\cs\\cs3300\\project\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\bstampe2\\onedrive - university of colorado colorado springs\\documents\\.school\\cs\\cs3300\\project\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\views\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\views\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C053A8A-1F53-425C-B79C-0E9AADF6969F}|PAWB.Domain\\PAWB.Domain.csproj|c:\\users\\bstampe2\\onedrive - university of colorado colorado springs\\documents\\.school\\cs\\cs3300\\project\\pawb_cs3300_group_project_fall2025\\pawb.domain\\services\\authenticationservices\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C053A8A-1F53-425C-B79C-0E9AADF6969F}|PAWB.Domain\\PAWB.Domain.csproj|solutionrelative:pawb.domain\\services\\authenticationservices\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\bstampe2\\onedrive - university of colorado colorado springs\\documents\\.school\\cs\\cs3300\\project\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\bstampe2\\onedrive - university of colorado colorado springs\\documents\\.school\\cs\\cs3300\\project\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\bstampe2\\onedrive - university of colorado colorado springs\\documents\\.school\\cs\\cs3300\\project\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\ejfco\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\bstampe2\\onedrive - university of colorado colorado springs\\documents\\.school\\cs\\cs3300\\project\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\ejfco\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\controls\\navigationbar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\bstampe2\\onedrive - university of colorado colorado springs\\documents\\.school\\cs\\cs3300\\project\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\controls\\navigationbar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\controls\\navigationbar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\ejfco\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\pawb.wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\pawb.wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -114,17 +114,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\App.xaml.cs",
               "RelativeDocumentMoniker": "PAWB.WPF\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\App.xaml.cs",
               "RelativeToolTip": "PAWB.WPF\\App.xaml.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAcwB8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-06T22:29:26.042Z",
               "EditorCaption": ""
@@ -132,215 +136,242 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "LoginView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\LoginView.xaml.cs",
+              "RelativeDocumentMoniker": "PAWB.WPF\\Views\\LoginView.xaml.cs",
+              "ToolTip": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\LoginView.xaml.cs",
+              "RelativeToolTip": "PAWB.WPF\\Views\\LoginView.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T23:08:18.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "UpdateCurrentViewModelCommand.cs",
-              "DocumentMoniker": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Commands\\UpdateCurrentViewModelCommand.cs",
+              "DocumentMoniker": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Commands\\UpdateCurrentViewModelCommand.cs",
               "RelativeDocumentMoniker": "PAWB.WPF\\Commands\\UpdateCurrentViewModelCommand.cs",
-              "ToolTip": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Commands\\UpdateCurrentViewModelCommand.cs",
+              "ToolTip": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Commands\\UpdateCurrentViewModelCommand.cs",
               "RelativeToolTip": "PAWB.WPF\\Commands\\UpdateCurrentViewModelCommand.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAUwBsAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwCUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-06T22:29:26.068Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\MainViewModel.cs",
-              "RelativeDocumentMoniker": "PAWB.WPF\\ViewModels\\MainViewModel.cs",
-              "ToolTip": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\MainViewModel.cs*",
-              "RelativeToolTip": "PAWB.WPF\\ViewModels\\MainViewModel.cs*",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAiwBsAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T15:34:12.643Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "PAWB.WPF\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\MainWindow.xaml.cs",
-              "RelativeToolTip": "PAWB.WPF\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAcwBgAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T22:38:10.333Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Navigator.cs",
-              "DocumentMoniker": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Navigators\\Navigator.cs",
-              "RelativeDocumentMoniker": "PAWB.WPF\\State\\Navigators\\Navigator.cs",
-              "ToolTip": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Navigators\\Navigator.cs",
-              "RelativeToolTip": "PAWB.WPF\\State\\Navigators\\Navigator.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBQAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T22:29:26.058Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EqualValueToParameterConverter.cs",
-              "DocumentMoniker": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Converters\\EqualValueToParameterConverter.cs",
-              "RelativeDocumentMoniker": "PAWB.WPF\\Converters\\EqualValueToParameterConverter.cs",
-              "ToolTip": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Converters\\EqualValueToParameterConverter.cs",
-              "RelativeToolTip": "PAWB.WPF\\Converters\\EqualValueToParameterConverter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T22:22:31.004Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\HomeView.xaml.cs",
-              "RelativeDocumentMoniker": "PAWB.WPF\\Views\\HomeView.xaml.cs",
-              "ToolTip": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\HomeView.xaml.cs",
-              "RelativeToolTip": "PAWB.WPF\\Views\\HomeView.xaml.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAcwBkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T22:38:19.421Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "PAWBViewModelFactory.cs",
-              "DocumentMoniker": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\Factories\\PAWBViewModelFactory.cs",
+              "DocumentMoniker": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\Factories\\PAWBViewModelFactory.cs",
               "RelativeDocumentMoniker": "PAWB.WPF\\ViewModels\\Factories\\PAWBViewModelFactory.cs",
-              "ToolTip": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\Factories\\PAWBViewModelFactory.cs",
+              "ToolTip": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\Factories\\PAWBViewModelFactory.cs",
               "RelativeToolTip": "PAWB.WPF\\ViewModels\\Factories\\PAWBViewModelFactory.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAACMAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-06T22:29:26.077Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PAWB.WPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PAWB.WPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T22:38:10.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Navigator.cs",
+              "DocumentMoniker": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Navigators\\Navigator.cs",
+              "RelativeDocumentMoniker": "PAWB.WPF\\State\\Navigators\\Navigator.cs",
+              "ToolTip": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Navigators\\Navigator.cs",
+              "RelativeToolTip": "PAWB.WPF\\State\\Navigators\\Navigator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T22:29:26.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PAWB.WPF.csproj",
+              "DocumentMoniker": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\PAWB.WPF.csproj",
+              "RelativeDocumentMoniker": "PAWB.WPF\\PAWB.WPF.csproj",
+              "ToolTip": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\PAWB.WPF.csproj",
+              "RelativeToolTip": "PAWB.WPF\\PAWB.WPF.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-07T22:21:58.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\App.xaml",
-              "RelativeDocumentMoniker": "PAWB.WPF\\App.xaml",
-              "ToolTip": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\App.xaml",
-              "RelativeToolTip": "PAWB.WPF\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-06T22:41:49.321Z",
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "PAWB.WPF\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "PAWB.WPF\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAArwBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T01:27:31.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "PAWB.WPF\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "PAWB.WPF\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T15:34:12.643Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "NavigationBar.xaml",
-              "DocumentMoniker": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Controls\\NavigationBar.xaml",
-              "RelativeDocumentMoniker": "PAWB.WPF\\Controls\\NavigationBar.xaml",
-              "ToolTip": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Controls\\NavigationBar.xaml",
-              "RelativeToolTip": "PAWB.WPF\\Controls\\NavigationBar.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-06T22:39:41.748Z",
-              "EditorCaption": ""
+              "Title": "EqualValueToParameterConverter.cs",
+              "DocumentMoniker": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Converters\\EqualValueToParameterConverter.cs",
+              "RelativeDocumentMoniker": "PAWB.WPF\\Converters\\EqualValueToParameterConverter.cs",
+              "ToolTip": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Converters\\EqualValueToParameterConverter.cs",
+              "RelativeToolTip": "PAWB.WPF\\Converters\\EqualValueToParameterConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T22:22:31.004Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "ViewModelDelegateRenavigator.cs",
-              "DocumentMoniker": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Navigators\\ViewModelDelegateRenavigator.cs",
-              "RelativeDocumentMoniker": "PAWB.WPF\\State\\Navigators\\ViewModelDelegateRenavigator.cs",
-              "ToolTip": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Navigators\\ViewModelDelegateRenavigator.cs",
-              "RelativeToolTip": "PAWB.WPF\\State\\Navigators\\ViewModelDelegateRenavigator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Title": "HomeView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\HomeView.xaml.cs",
+              "RelativeDocumentMoniker": "PAWB.WPF\\Views\\HomeView.xaml.cs",
+              "ToolTip": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\HomeView.xaml.cs",
+              "RelativeToolTip": "PAWB.WPF\\Views\\HomeView.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwBkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T01:18:58.056Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T22:38:19.421Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Authenticator.cs",
-              "DocumentMoniker": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Authenticators\\Authenticator.cs",
-              "RelativeDocumentMoniker": "PAWB.WPF\\State\\Authenticators\\Authenticator.cs",
-              "ToolTip": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Authenticators\\Authenticator.cs",
-              "RelativeToolTip": "PAWB.WPF\\State\\Authenticators\\Authenticator.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwBMAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T15:28:42.855Z",
-              "EditorCaption": ""
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\App.xaml",
+              "RelativeDocumentMoniker": "PAWB.WPF\\App.xaml",
+              "ToolTip": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\App.xaml",
+              "RelativeToolTip": "PAWB.WPF\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-06T22:41:49.321Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "INavigator.cs",
-              "DocumentMoniker": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Navigators\\INavigator.cs",
-              "RelativeDocumentMoniker": "PAWB.WPF\\State\\Navigators\\INavigator.cs",
-              "ToolTip": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Navigators\\INavigator.cs",
-              "RelativeToolTip": "PAWB.WPF\\State\\Navigators\\INavigator.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T22:39:21.737Z",
-              "EditorCaption": ""
+              "Title": "NavigationBar.xaml",
+              "DocumentMoniker": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Controls\\NavigationBar.xaml",
+              "RelativeDocumentMoniker": "PAWB.WPF\\Controls\\NavigationBar.xaml",
+              "ToolTip": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Controls\\NavigationBar.xaml",
+              "RelativeToolTip": "PAWB.WPF\\Controls\\NavigationBar.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-06T22:39:41.748Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "IRenavigator.cs",
-              "DocumentMoniker": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Navigators\\IRenavigator.cs",
-              "RelativeDocumentMoniker": "PAWB.WPF\\State\\Navigators\\IRenavigator.cs",
-              "ToolTip": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Navigators\\IRenavigator.cs",
-              "RelativeToolTip": "PAWB.WPF\\State\\Navigators\\IRenavigator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Title": "ViewModelDelegateRenavigator.cs",
+              "DocumentMoniker": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Navigators\\ViewModelDelegateRenavigator.cs",
+              "RelativeDocumentMoniker": "PAWB.WPF\\State\\Navigators\\ViewModelDelegateRenavigator.cs",
+              "ToolTip": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Navigators\\ViewModelDelegateRenavigator.cs",
+              "RelativeToolTip": "PAWB.WPF\\State\\Navigators\\ViewModelDelegateRenavigator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T01:17:18.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T01:18:58.056Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "LoginCommand.cs",
-              "DocumentMoniker": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Commands\\LoginCommand.cs",
-              "RelativeDocumentMoniker": "PAWB.WPF\\Commands\\LoginCommand.cs",
-              "ToolTip": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Commands\\LoginCommand.cs",
-              "RelativeToolTip": "PAWB.WPF\\Commands\\LoginCommand.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwCIAAAAdAAAAAAAAAA==",
+              "Title": "Authenticator.cs",
+              "DocumentMoniker": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Authenticators\\Authenticator.cs",
+              "RelativeDocumentMoniker": "PAWB.WPF\\State\\Authenticators\\Authenticator.cs",
+              "ToolTip": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Authenticators\\Authenticator.cs",
+              "RelativeToolTip": "PAWB.WPF\\State\\Authenticators\\Authenticator.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwBMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T00:47:16.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T15:28:42.855Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "HomeViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\HomeViewModel.cs",
-              "RelativeDocumentMoniker": "PAWB.WPF\\ViewModels\\HomeViewModel.cs",
-              "ToolTip": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\HomeViewModel.cs",
-              "RelativeToolTip": "PAWB.WPF\\ViewModels\\HomeViewModel.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Title": "INavigator.cs",
+              "DocumentMoniker": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Navigators\\INavigator.cs",
+              "RelativeDocumentMoniker": "PAWB.WPF\\State\\Navigators\\INavigator.cs",
+              "ToolTip": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Navigators\\INavigator.cs",
+              "RelativeToolTip": "PAWB.WPF\\State\\Navigators\\INavigator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T22:36:09.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-06T22:39:21.737Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "HomeView.xaml",
-              "DocumentMoniker": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\HomeView.xaml",
-              "RelativeDocumentMoniker": "PAWB.WPF\\Views\\HomeView.xaml",
-              "ToolTip": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\HomeView.xaml",
-              "RelativeToolTip": "PAWB.WPF\\Views\\HomeView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-07T22:38:21.109Z",
-              "EditorCaption": ""
+              "Title": "IRenavigator.cs",
+              "DocumentMoniker": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Navigators\\IRenavigator.cs",
+              "RelativeDocumentMoniker": "PAWB.WPF\\State\\Navigators\\IRenavigator.cs",
+              "ToolTip": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Navigators\\IRenavigator.cs",
+              "RelativeToolTip": "PAWB.WPF\\State\\Navigators\\IRenavigator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T01:17:18.525Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
+              "Title": "LoginCommand.cs",
+              "DocumentMoniker": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Commands\\LoginCommand.cs",
+              "RelativeDocumentMoniker": "PAWB.WPF\\Commands\\LoginCommand.cs",
+              "ToolTip": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Commands\\LoginCommand.cs",
+              "RelativeToolTip": "PAWB.WPF\\Commands\\LoginCommand.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T00:47:16.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "PAWB.WPF\\ViewModels\\HomeViewModel.cs",
+              "ToolTip": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\HomeViewModel.cs",
+              "RelativeToolTip": "PAWB.WPF\\ViewModels\\HomeViewModel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T22:36:09.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeView.xaml",
+              "DocumentMoniker": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\HomeView.xaml",
+              "RelativeDocumentMoniker": "PAWB.WPF\\Views\\HomeView.xaml",
+              "ToolTip": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\HomeView.xaml",
+              "RelativeToolTip": "PAWB.WPF\\Views\\HomeView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-07T22:38:21.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "AuthenticationService.cs",
-              "DocumentMoniker": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\Services\\AuthenticationServices\\AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\Services\\AuthenticationServices\\AuthenticationService.cs",
               "RelativeDocumentMoniker": "PAWB.Domain\\Services\\AuthenticationServices\\AuthenticationService.cs",
-              "ToolTip": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\Services\\AuthenticationServices\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\Services\\AuthenticationServices\\AuthenticationService.cs",
               "RelativeToolTip": "PAWB.Domain\\Services\\AuthenticationServices\\AuthenticationService.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAiwBUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -349,105 +380,61 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "PAWB.WPF\\ViewModels\\LoginViewModel.cs",
-              "ToolTip": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\LoginViewModel.cs",
-              "RelativeToolTip": "PAWB.WPF\\ViewModels\\LoginViewModel.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAArwBAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T01:27:31.27Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "PAWB.WPF\\AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\AssemblyInfo.cs",
               "RelativeToolTip": "PAWB.WPF\\AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T22:45:26.723Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "PAWB.WPF\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\MainWindow.xaml",
-              "RelativeToolTip": "PAWB.WPF\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-06T22:40:04.769Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "LoginView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\LoginView.xaml.cs",
-              "RelativeDocumentMoniker": "PAWB.WPF\\Views\\LoginView.xaml.cs",
-              "ToolTip": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\LoginView.xaml.cs",
-              "RelativeToolTip": "PAWB.WPF\\Views\\LoginView.xaml.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAxwCcAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T23:08:18.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T22:45:26.723Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "LoginView.xaml",
-              "DocumentMoniker": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\LoginView.xaml",
-              "RelativeDocumentMoniker": "PAWB.WPF\\Views\\LoginView.xaml",
-              "ToolTip": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\LoginView.xaml",
-              "RelativeToolTip": "PAWB.WPF\\Views\\LoginView.xaml",
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PAWB.WPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\MainWindow.xaml",
+              "RelativeToolTip": "PAWB.WPF\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-06T22:37:04.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-06T22:40:04.769Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "ViewModelBase.cs",
-              "DocumentMoniker": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\ViewModelBase.cs",
-              "RelativeDocumentMoniker": "PAWB.WPF\\ViewModels\\ViewModelBase.cs",
-              "ToolTip": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\ViewModelBase.cs",
-              "RelativeToolTip": "PAWB.WPF\\ViewModels\\ViewModelBase.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T00:52:33.682Z",
-              "EditorCaption": ""
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\LoginView.xaml",
+              "RelativeDocumentMoniker": "PAWB.WPF\\Views\\LoginView.xaml",
+              "ToolTip": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\LoginView.xaml",
+              "RelativeToolTip": "PAWB.WPF\\Views\\LoginView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-06T22:37:04.869Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "NavigationBar.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Controls\\NavigationBar.xaml.cs",
-              "RelativeDocumentMoniker": "PAWB.WPF\\Controls\\NavigationBar.xaml.cs",
-              "ToolTip": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Controls\\NavigationBar.xaml.cs",
-              "RelativeToolTip": "PAWB.WPF\\Controls\\NavigationBar.xaml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAADwvxQAAAAyAAAAAAAAAA==",
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "PAWB.WPF\\ViewModels\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\ViewModelBase.cs",
+              "RelativeToolTip": "PAWB.WPF\\ViewModels\\ViewModelBase.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T22:39:34.195Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T00:52:33.682Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "PAWB.WPF",
-              "DocumentMoniker": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\PAWB.WPF.csproj",
-              "RelativeDocumentMoniker": "PAWB.WPF\\PAWB.WPF.csproj",
-              "ToolTip": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\PAWB.WPF.csproj",
-              "RelativeToolTip": "PAWB.WPF\\PAWB.WPF.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-07T22:21:58.365Z",
-              "EditorCaption": ""
+              "Title": "NavigationBar.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Controls\\NavigationBar.xaml.cs",
+              "RelativeDocumentMoniker": "PAWB.WPF\\Controls\\NavigationBar.xaml.cs",
+              "ToolTip": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Controls\\NavigationBar.xaml.cs",
+              "RelativeToolTip": "PAWB.WPF\\Controls\\NavigationBar.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T22:39:34.195Z"
             }
           ]
         }

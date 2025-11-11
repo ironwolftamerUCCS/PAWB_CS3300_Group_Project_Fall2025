@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\PAWB.WPF.csproj": {}
+    "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\PAWB.WPF.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\PAWB.Domain.csproj": {
+    "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\PAWB.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\PAWB.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\PAWB.Domain.csproj",
         "projectName": "PAWB.Domain",
-        "projectPath": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\PAWB.Domain.csproj",
-        "packagesPath": "C:\\Users\\ejfco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\obj\\",
+        "projectPath": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\PAWB.Domain.csproj",
+        "packagesPath": "C:\\Users\\bstampe2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ejfco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bstampe2\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -75,20 +75,20 @@
         }
       }
     },
-    "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\PAWB.EntityFramework.csproj": {
+    "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\PAWB.EntityFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\PAWB.EntityFramework.csproj",
+        "projectUniqueName": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\PAWB.EntityFramework.csproj",
         "projectName": "PAWB.EntityFramework",
-        "projectPath": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\PAWB.EntityFramework.csproj",
-        "packagesPath": "C:\\Users\\ejfco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\obj\\",
+        "projectPath": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\PAWB.EntityFramework.csproj",
+        "packagesPath": "C:\\Users\\bstampe2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ejfco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bstampe2\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -103,8 +103,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\PAWB.Domain.csproj": {
-                "projectPath": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\PAWB.Domain.csproj"
+              "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\PAWB.Domain.csproj": {
+                "projectPath": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\PAWB.Domain.csproj"
               }
             }
           }
@@ -160,20 +160,20 @@
         }
       }
     },
-    "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\PAWB.WPF.csproj": {
+    "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\PAWB.WPF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\PAWB.WPF.csproj",
+        "projectUniqueName": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\PAWB.WPF.csproj",
         "projectName": "PAWB.WPF",
-        "projectPath": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\PAWB.WPF.csproj",
-        "packagesPath": "C:\\Users\\ejfco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\obj\\",
+        "projectPath": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\PAWB.WPF.csproj",
+        "packagesPath": "C:\\Users\\bstampe2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ejfco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bstampe2\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -188,11 +188,11 @@
           "net9.0-windows7.0": {
             "targetAlias": "net9.0-windows",
             "projectReferences": {
-              "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\PAWB.Domain.csproj": {
-                "projectPath": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\PAWB.Domain.csproj"
+              "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\PAWB.Domain.csproj": {
+                "projectPath": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\PAWB.Domain.csproj"
               },
-              "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\PAWB.EntityFramework.csproj": {
-                "projectPath": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\PAWB.EntityFramework.csproj"
+              "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\PAWB.EntityFramework.csproj": {
+                "projectPath": "C:\\Users\\bstampe2\\OneDrive - University of Colorado Colorado Springs\\Documents\\.School\\CS\\CS3300\\Project\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\PAWB.EntityFramework.csproj"
               }
             }
           }

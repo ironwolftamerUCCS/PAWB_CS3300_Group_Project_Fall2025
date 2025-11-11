@@ -16,3 +16,21 @@ C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.EntityFr
 C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.EntityFramework\obj\Debug\net9.0\PAWB.EntityFramework.pdb
 C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.EntityFramework\obj\Debug\net9.0\PAWB.EntityFramework.genruntimeconfig.cache
 C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.EntityFramework\obj\Debug\net9.0\ref\PAWB.EntityFramework.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.EntityFramework\bin\Debug\net9.0\PAWB.EntityFramework.deps.json
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.EntityFramework\bin\Debug\net9.0\PAWB.EntityFramework.runtimeconfig.json
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.EntityFramework\bin\Debug\net9.0\PAWB.EntityFramework.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.EntityFramework\bin\Debug\net9.0\PAWB.EntityFramework.pdb
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.EntityFramework\bin\Debug\net9.0\PAWB.Domain.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.EntityFramework\bin\Debug\net9.0\PAWB.Domain.pdb
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.EntityFramework\obj\Debug\net9.0\PAWB.EntityFramework.csproj.AssemblyReference.cache
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.EntityFramework\obj\Debug\net9.0\PAWB.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.EntityFramework\obj\Debug\net9.0\PAWB.EntityFramework.AssemblyInfoInputs.cache
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.EntityFramework\obj\Debug\net9.0\PAWB.EntityFramework.AssemblyInfo.cs
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.EntityFramework\obj\Debug\net9.0\PAWB.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.EntityFramework\obj\Debug\net9.0\PAWB.EntityFramework.sourcelink.json
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.EntityFramework\obj\Debug\net9.0\PAWB.Ent.FEA4368A.Up2Date
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.EntityFramework\obj\Debug\net9.0\PAWB.EntityFramework.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.EntityFramework\obj\Debug\net9.0\refint\PAWB.EntityFramework.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.EntityFramework\obj\Debug\net9.0\PAWB.EntityFramework.pdb
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.EntityFramework\obj\Debug\net9.0\PAWB.EntityFramework.genruntimeconfig.cache
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.EntityFramework\obj\Debug\net9.0\ref\PAWB.EntityFramework.dll
