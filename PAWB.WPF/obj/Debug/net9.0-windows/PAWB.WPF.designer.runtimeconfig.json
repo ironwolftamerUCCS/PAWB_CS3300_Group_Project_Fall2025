@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\bstampe2\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\bstampe2\\.nuget\\packages",
+      "C:\\Users\\ejfco\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ejfco\\.nuget\\packages",
       "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ],
     "configProperties": {

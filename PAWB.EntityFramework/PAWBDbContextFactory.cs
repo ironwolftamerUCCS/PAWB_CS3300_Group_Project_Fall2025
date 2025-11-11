@@ -14,7 +14,7 @@ namespace PAWB.EntityFramework
         {
             var options = new DbContextOptionsBuilder<PAWBDbContext>();
             // TODO insert connection string to sequel server into this command below
-            options.UseSqlServer();
+            //options.UseSqlServer("");
 
             return new PAWBDbContext(options.Options);
         }
