@@ -18,7 +18,10 @@ namespace PAWB.EntityFramework
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
+            optionsBuilder.UseSqlServer("Server=tcp:pawble.database.windows.net,1433;Initial Catalog=PAWBLE;Persist Security Info=False;User ID=PAWBLE;Password=Pawb4Group!;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;", options => options.EnableRetryOnFailure(maxRetryCount: 3, maxRetryDelay: TimeSpan.FromSeconds(10), errorNumbersToAdd: new List<int> { 40613 }));
+
             base.OnConfiguring(optionsBuilder);
+
         }
     }
 }
