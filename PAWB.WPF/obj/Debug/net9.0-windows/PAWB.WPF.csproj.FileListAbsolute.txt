@@ -1,0 +1,146 @@
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.csproj.AssemblyReference.cache
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF_MarkupCompile.cache
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF_MarkupCompile.lref
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Views\LoginView.g.cs
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.WPF.exe
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.WPF.deps.json
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.WPF.runtimeconfig.json
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.WPF.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.WPF.pdb
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Azure.Core.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Azure.Identity.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.ClientModel.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.Memory.Data.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.Runtime.Caching.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.Domain.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.EntityFramework.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.Domain.pdb
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.EntityFramework.pdb
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Views\LoginView.baml
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.g.resources
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.AssemblyInfoInputs.cache
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.AssemblyInfo.cs
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.csproj.CoreCompileInputs.cache
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.sourcelink.json
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.csproj.Up2Date
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\refint\PAWB.WPF.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.pdb
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.genruntimeconfig.cache
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\ref\PAWB.WPF.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Views\HomeView.g.cs
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Views\HomeView.baml
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Controls\NavigationBar.g.cs
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Controls\NavigationBar.baml
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\App.baml
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.WPF.exe
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.WPF.deps.json
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.WPF.runtimeconfig.json
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.WPF.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.WPF.pdb
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Azure.Core.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Azure.Identity.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Identity.Client.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.ClientModel.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.Memory.Data.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.Runtime.Caching.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.Domain.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.EntityFramework.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.Domain.pdb
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.EntityFramework.pdb
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.csproj.AssemblyReference.cache
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Controls\NavigationBar.g.cs
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Views\HomeView.g.cs
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Views\LoginView.g.cs
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF_MarkupCompile.cache
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF_MarkupCompile.lref
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\App.baml
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Controls\NavigationBar.baml
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Views\HomeView.baml
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Views\LoginView.baml
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.g.resources
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.AssemblyInfoInputs.cache
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.AssemblyInfo.cs
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.csproj.CoreCompileInputs.cache
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.sourcelink.json
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.csproj.Up2Date
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\refint\PAWB.WPF.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.pdb
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.genruntimeconfig.cache
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\ref\PAWB.WPF.dll
