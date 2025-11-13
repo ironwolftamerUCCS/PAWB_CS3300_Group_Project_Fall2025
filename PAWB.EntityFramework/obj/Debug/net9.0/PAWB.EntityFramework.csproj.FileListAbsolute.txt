@@ -70,3 +70,21 @@ C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.EntityFramework\obj\Deb
 C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.EntityFramework\obj\Debug\net9.0\PAWB.EntityFramework.pdb
 C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.EntityFramework\obj\Debug\net9.0\PAWB.EntityFramework.genruntimeconfig.cache
 C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.EntityFramework\obj\Debug\net9.0\ref\PAWB.EntityFramework.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.EntityFramework\bin\Debug\net9.0\PAWB.EntityFramework.deps.json
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.EntityFramework\bin\Debug\net9.0\PAWB.EntityFramework.runtimeconfig.json
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.EntityFramework\bin\Debug\net9.0\PAWB.EntityFramework.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.EntityFramework\bin\Debug\net9.0\PAWB.EntityFramework.pdb
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.EntityFramework\bin\Debug\net9.0\PAWB.Domain.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.EntityFramework\bin\Debug\net9.0\PAWB.Domain.pdb
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.EntityFramework\obj\Debug\net9.0\PAWB.EntityFramework.csproj.AssemblyReference.cache
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.EntityFramework\obj\Debug\net9.0\PAWB.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.EntityFramework\obj\Debug\net9.0\PAWB.EntityFramework.AssemblyInfoInputs.cache
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.EntityFramework\obj\Debug\net9.0\PAWB.EntityFramework.AssemblyInfo.cs
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.EntityFramework\obj\Debug\net9.0\PAWB.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.EntityFramework\obj\Debug\net9.0\PAWB.EntityFramework.sourcelink.json
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.EntityFramework\obj\Debug\net9.0\PAWB.Ent.FEA4368A.Up2Date
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.EntityFramework\obj\Debug\net9.0\PAWB.EntityFramework.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.EntityFramework\obj\Debug\net9.0\refint\PAWB.EntityFramework.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.EntityFramework\obj\Debug\net9.0\PAWB.EntityFramework.pdb
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.EntityFramework\obj\Debug\net9.0\PAWB.EntityFramework.genruntimeconfig.cache
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.EntityFramework\obj\Debug\net9.0\ref\PAWB.EntityFramework.dll

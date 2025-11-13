@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rlis6DCk3PI=",
+  "dgSpecHash": "kbD1SY30DXk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Caleb\\Desktop\\CS 3300\\updated main with db\\PAWB.Domain.Tests\\PAWB.Domain.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain.Tests\\PAWB.Domain.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Caleb\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\Caleb\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
@@ -26,9 +26,9 @@
       "code": "NU1701",
       "level": "Warning",
       "message": "Package 'Microsoft.AspNet.Identity.Core 2.2.4' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net9.0'. This package may not be fully compatible with your project.",
-      "projectPath": "C:\\Users\\Caleb\\Desktop\\CS 3300\\updated main with db\\PAWB.Domain.Tests\\PAWB.Domain.Tests.csproj",
+      "projectPath": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain.Tests\\PAWB.Domain.Tests.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\Caleb\\Desktop\\CS 3300\\updated main with db\\PAWB.Domain.Tests\\PAWB.Domain.Tests.csproj",
+      "filePath": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain.Tests\\PAWB.Domain.Tests.csproj",
       "libraryId": "Microsoft.AspNet.Identity.Core",
       "targetGraphs": [
         "net9.0"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3NjGA42sj10=",
+  "dgSpecHash": "Y/mTbcWiqeI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Caleb\\Desktop\\CS 3300\\updated main with db\\PAWB.EntityFramework\\PAWB.EntityFramework.csproj",
+  "projectFilePath": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\PAWB.EntityFramework.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Caleb\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Caleb\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
@@ -90,9 +90,9 @@
       "code": "NU1701",
       "level": "Warning",
       "message": "Package 'Microsoft.AspNet.Identity.Core 2.2.4' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net9.0'. This package may not be fully compatible with your project.",
-      "projectPath": "C:\\Users\\Caleb\\Desktop\\CS 3300\\updated main with db\\PAWB.EntityFramework\\PAWB.EntityFramework.csproj",
+      "projectPath": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\PAWB.EntityFramework.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\Caleb\\Desktop\\CS 3300\\updated main with db\\PAWB.EntityFramework\\PAWB.EntityFramework.csproj",
+      "filePath": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\PAWB.EntityFramework.csproj",
       "libraryId": "Microsoft.AspNet.Identity.Core",
       "targetGraphs": [
         "net9.0"
