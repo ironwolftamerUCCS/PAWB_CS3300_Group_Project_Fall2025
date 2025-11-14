@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{91D4D1B6-6670-4051-9963-86A8E65D0FD2}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\caleb\\documents\\github\\pawb_cs3300_group_project_fall2025\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91D4D1B6-6670-4051-9963-86A8E65D0FD2}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91D4D1B6-6670-4051-9963-86A8E65D0FD2}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\caleb\\documents\\github\\pawb_cs3300_group_project_fall2025\\consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{91D4D1B6-6670-4051-9963-86A8E65D0FD2}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\pawb.wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\pawb.wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -138,7 +130,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -150,33 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ConsoleApp1",
-              "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\ConsoleApp1\\ConsoleApp1.csproj",
-              "RelativeDocumentMoniker": "ConsoleApp1\\ConsoleApp1.csproj",
-              "ToolTip": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\ConsoleApp1\\ConsoleApp1.csproj",
-              "RelativeToolTip": "ConsoleApp1\\ConsoleApp1.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-13T00:52:01.81Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\ConsoleApp1\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\ConsoleApp1\\Program.cs",
-              "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T00:51:45.645Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "PAWBDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\PAWBDbContext.cs",
               "RelativeDocumentMoniker": "PAWB.EntityFramework\\PAWBDbContext.cs",
@@ -188,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "PAWBDbContextFactory.cs",
               "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\PAWBDbContextFactory.cs",
               "RelativeDocumentMoniker": "PAWB.EntityFramework\\PAWBDbContextFactory.cs",
@@ -200,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "Navigator.cs",
               "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Navigators\\Navigator.cs",
               "RelativeDocumentMoniker": "PAWB.WPF\\State\\Navigators\\Navigator.cs",
@@ -212,19 +178,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\App.xaml",
               "RelativeDocumentMoniker": "PAWB.WPF\\App.xaml",
               "ToolTip": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\App.xaml",
               "RelativeToolTip": "PAWB.WPF\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-06T22:41:49.321Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-06T22:41:49.321Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "PAWB.WPF.csproj",
               "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\PAWB.WPF.csproj",
               "RelativeDocumentMoniker": "PAWB.WPF\\PAWB.WPF.csproj",
@@ -237,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "PAWB.Domain.Tests.csproj",
               "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain.Tests\\PAWB.Domain.Tests.csproj",
               "RelativeDocumentMoniker": "PAWB.Domain.Tests\\PAWB.Domain.Tests.csproj",
@@ -250,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "PAWB.Domain.csproj",
               "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\PAWB.Domain.csproj",
               "RelativeDocumentMoniker": "PAWB.Domain\\PAWB.Domain.csproj",
@@ -263,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "PAWB.WPF\\MainWindow.xaml.cs",
@@ -271,12 +236,11 @@
               "RelativeToolTip": "PAWB.WPF\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T22:38:10.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-06T22:38:10.333Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "LoginView.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\LoginView.xaml.cs",
               "RelativeDocumentMoniker": "PAWB.WPF\\Views\\LoginView.xaml.cs",
@@ -288,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "HomeViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\HomeViewModel.cs",
               "RelativeDocumentMoniker": "PAWB.WPF\\ViewModels\\HomeViewModel.cs",
@@ -300,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "20251112212229_initial.cs",
               "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\Migrations\\20251112212229_initial.cs",
               "RelativeDocumentMoniker": "PAWB.EntityFramework\\Migrations\\20251112212229_initial.cs",
@@ -312,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\MainWindow.xaml",
               "RelativeDocumentMoniker": "PAWB.WPF\\MainWindow.xaml",
@@ -323,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 13,
               "Title": "PAWBViewModelFactory.cs",
               "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\Factories\\PAWBViewModelFactory.cs",
               "RelativeDocumentMoniker": "PAWB.WPF\\ViewModels\\Factories\\PAWBViewModelFactory.cs",
@@ -335,7 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 12,
               "Title": "UpdateCurrentViewModelCommand.cs",
               "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Commands\\UpdateCurrentViewModelCommand.cs",
               "RelativeDocumentMoniker": "PAWB.WPF\\Commands\\UpdateCurrentViewModelCommand.cs",
@@ -347,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 15,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "PAWB.WPF\\ViewModels\\LoginViewModel.cs",
@@ -359,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 14,
               "Title": "MainViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\MainViewModel.cs",
               "RelativeDocumentMoniker": "PAWB.WPF\\ViewModels\\MainViewModel.cs",
@@ -371,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 16,
               "Title": "EqualValueToParameterConverter.cs",
               "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Converters\\EqualValueToParameterConverter.cs",
               "RelativeDocumentMoniker": "PAWB.WPF\\Converters\\EqualValueToParameterConverter.cs",
@@ -383,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 17,
               "Title": "HomeView.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\HomeView.xaml.cs",
               "RelativeDocumentMoniker": "PAWB.WPF\\Views\\HomeView.xaml.cs",
@@ -395,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 18,
               "Title": "NavigationBar.xaml",
               "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Controls\\NavigationBar.xaml",
               "RelativeDocumentMoniker": "PAWB.WPF\\Controls\\NavigationBar.xaml",
@@ -406,7 +370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 19,
               "Title": "ViewModelDelegateRenavigator.cs",
               "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Navigators\\ViewModelDelegateRenavigator.cs",
               "RelativeDocumentMoniker": "PAWB.WPF\\State\\Navigators\\ViewModelDelegateRenavigator.cs",
@@ -418,7 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 20,
               "Title": "Authenticator.cs",
               "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Authenticators\\Authenticator.cs",
               "RelativeDocumentMoniker": "PAWB.WPF\\State\\Authenticators\\Authenticator.cs",
@@ -430,7 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 21,
               "Title": "INavigator.cs",
               "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Navigators\\INavigator.cs",
               "RelativeDocumentMoniker": "PAWB.WPF\\State\\Navigators\\INavigator.cs",
@@ -442,7 +406,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 22,
               "Title": "IRenavigator.cs",
               "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Navigators\\IRenavigator.cs",
               "RelativeDocumentMoniker": "PAWB.WPF\\State\\Navigators\\IRenavigator.cs",
@@ -454,7 +418,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 23,
               "Title": "LoginCommand.cs",
               "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Commands\\LoginCommand.cs",
               "RelativeDocumentMoniker": "PAWB.WPF\\Commands\\LoginCommand.cs",
@@ -466,7 +430,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 24,
               "Title": "HomeView.xaml",
               "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\HomeView.xaml",
               "RelativeDocumentMoniker": "PAWB.WPF\\Views\\HomeView.xaml",
@@ -477,7 +441,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 25,
               "Title": "AuthenticationService.cs",
               "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\Services\\AuthenticationServices\\AuthenticationService.cs",
               "RelativeDocumentMoniker": "PAWB.Domain\\Services\\AuthenticationServices\\AuthenticationService.cs",
@@ -485,12 +449,11 @@
               "RelativeToolTip": "PAWB.Domain\\Services\\AuthenticationServices\\AuthenticationService.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAiwBUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T22:29:26.021Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-06T22:29:26.021Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 26,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "PAWB.WPF\\AssemblyInfo.cs",
@@ -502,7 +465,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 27,
               "Title": "LoginView.xaml",
               "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\LoginView.xaml",
               "RelativeDocumentMoniker": "PAWB.WPF\\Views\\LoginView.xaml",
@@ -513,7 +476,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 28,
               "Title": "ViewModelBase.cs",
               "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\ViewModelBase.cs",
               "RelativeDocumentMoniker": "PAWB.WPF\\ViewModels\\ViewModelBase.cs",
@@ -525,7 +488,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 29,
               "Title": "NavigationBar.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Controls\\NavigationBar.xaml.cs",
               "RelativeDocumentMoniker": "PAWB.WPF\\Controls\\NavigationBar.xaml.cs",
