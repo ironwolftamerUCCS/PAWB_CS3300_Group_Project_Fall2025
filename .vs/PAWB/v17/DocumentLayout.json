@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\trini\\source\\repos\\PAWB_CS3300_Group_Project_Fall2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\trini\\source\\repos\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\trini\\source\\repos\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\trini\\source\\repos\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\trini\\source\\repos\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\views\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -122,7 +122,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -146,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "LoginView.xaml",
               "DocumentMoniker": "C:\\Users\\trini\\source\\repos\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\LoginView.xaml",
               "RelativeDocumentMoniker": "PAWB.WPF\\Views\\LoginView.xaml",
@@ -170,13 +170,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\trini\\source\\repos\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "PAWB.WPF\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\trini\\source\\repos\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\MainWindow.xaml.cs",
               "RelativeToolTip": "PAWB.WPF\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAEwBIAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-06T22:38:10.333Z",
               "EditorCaption": ""

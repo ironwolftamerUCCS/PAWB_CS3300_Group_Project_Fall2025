@@ -9,7 +9,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="Images\BrokenLoginBar.png" />
     <None Remove="Images\Default Login Pawble.png" />
     <None Remove="Images\LoginPawble.png" />
   </ItemGroup>
@@ -27,7 +26,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Resource Include="Images\BrokenLoginBar.png" />
     <Resource Include="Images\LoginPawble.png" />
   </ItemGroup>
 

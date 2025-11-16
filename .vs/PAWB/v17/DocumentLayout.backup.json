@@ -176,9 +176,10 @@
               "RelativeDocumentMoniker": "PAWB.WPF\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\trini\\source\\repos\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\MainWindow.xaml.cs",
               "RelativeToolTip": "PAWB.WPF\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAEwAUAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T22:38:10.333Z"
+              "WhenOpened": "2025-11-06T22:38:10.333Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -201,7 +202,8 @@
               "ToolTip": "C:\\Users\\trini\\source\\repos\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\App.xaml",
               "RelativeToolTip": "PAWB.WPF\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-06T22:41:49.321Z"
+              "WhenOpened": "2025-11-06T22:41:49.321Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -426,7 +428,8 @@
               "RelativeToolTip": "PAWB.Domain\\Services\\AuthenticationServices\\AuthenticationService.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAiwBUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T22:29:26.021Z"
+              "WhenOpened": "2025-11-06T22:29:26.021Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
