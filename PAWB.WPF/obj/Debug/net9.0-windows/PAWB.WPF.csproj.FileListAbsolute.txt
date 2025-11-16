@@ -1,0 +1,920 @@
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.csproj.AssemblyReference.cache
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF_MarkupCompile.cache
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF_MarkupCompile.lref
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Views\LoginView.g.cs
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.WPF.exe
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.WPF.deps.json
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.WPF.runtimeconfig.json
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.WPF.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.WPF.pdb
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Azure.Core.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Azure.Identity.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.ClientModel.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.Memory.Data.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.Runtime.Caching.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.Domain.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.EntityFramework.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.Domain.pdb
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.EntityFramework.pdb
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Views\LoginView.baml
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.g.resources
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.AssemblyInfoInputs.cache
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.AssemblyInfo.cs
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.csproj.CoreCompileInputs.cache
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.sourcelink.json
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.csproj.Up2Date
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\refint\PAWB.WPF.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.pdb
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.genruntimeconfig.cache
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\ref\PAWB.WPF.dll
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Views\HomeView.g.cs
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Views\HomeView.baml
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Controls\NavigationBar.g.cs
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Controls\NavigationBar.baml
+C:\Users\ejfco\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\App.baml
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.WPF.exe
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.WPF.deps.json
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.WPF.runtimeconfig.json
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.WPF.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.WPF.pdb
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Azure.Core.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Azure.Identity.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Identity.Client.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.ClientModel.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.Memory.Data.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.Runtime.Caching.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.Domain.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.EntityFramework.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.Domain.pdb
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.EntityFramework.pdb
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.csproj.AssemblyReference.cache
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Controls\NavigationBar.g.cs
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Views\HomeView.g.cs
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Views\LoginView.g.cs
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF_MarkupCompile.cache
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF_MarkupCompile.lref
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\App.baml
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Controls\NavigationBar.baml
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Views\HomeView.baml
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Views\LoginView.baml
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.g.resources
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.AssemblyInfoInputs.cache
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.AssemblyInfo.cs
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.csproj.CoreCompileInputs.cache
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.sourcelink.json
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.csproj.Up2Date
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\refint\PAWB.WPF.dll
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.pdb
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.genruntimeconfig.cache
+C:\Users\bstampe2\OneDrive - University of Colorado Colorado Springs\Documents\.School\CS\CS3300\Project\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\ref\PAWB.WPF.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.WPF.exe
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.WPF.deps.json
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.WPF.runtimeconfig.json
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.WPF.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.WPF.pdb
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\Azure.Core.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\Azure.Identity.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\System.ClientModel.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\System.Memory.Data.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\System.Runtime.Caching.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.Domain.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.EntityFramework.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.Domain.pdb
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.EntityFramework.pdb
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.csproj.AssemblyReference.cache
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\obj\Debug\net9.0-windows\Controls\NavigationBar.g.cs
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\obj\Debug\net9.0-windows\Views\HomeView.g.cs
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\obj\Debug\net9.0-windows\Views\LoginView.g.cs
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\obj\Debug\net9.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF_MarkupCompile.cache
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF_MarkupCompile.lref
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\obj\Debug\net9.0-windows\App.baml
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\obj\Debug\net9.0-windows\Controls\NavigationBar.baml
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\obj\Debug\net9.0-windows\Views\HomeView.baml
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\obj\Debug\net9.0-windows\Views\LoginView.baml
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.g.resources
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.AssemblyInfoInputs.cache
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.AssemblyInfo.cs
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.csproj.CoreCompileInputs.cache
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.sourcelink.json
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.csproj.Up2Date
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\obj\Debug\net9.0-windows\refint\PAWB.WPF.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.pdb
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.genruntimeconfig.cache
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\obj\Debug\net9.0-windows\ref\PAWB.WPF.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\Humanizer.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Build.Locator.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\Mono.TextTemplating.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\System.Composition.AttributedModel.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\System.Composition.Convention.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\System.Composition.Hosting.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\System.Composition.Runtime.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\System.Composition.TypedParts.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\test to be deleted\PAWB.WPF\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.WPF.exe
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.WPF.deps.json
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.WPF.runtimeconfig.json
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.WPF.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.WPF.pdb
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\Azure.Core.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\Azure.Identity.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\Humanizer.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Build.Locator.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\Mono.TextTemplating.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\System.ClientModel.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\System.Composition.AttributedModel.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\System.Composition.Convention.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\System.Composition.Hosting.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\System.Composition.Runtime.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\System.Composition.TypedParts.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\System.Memory.Data.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\System.Runtime.Caching.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.Domain.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.EntityFramework.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.Domain.pdb
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.EntityFramework.pdb
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.csproj.AssemblyReference.cache
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\obj\Debug\net9.0-windows\Controls\NavigationBar.g.cs
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\obj\Debug\net9.0-windows\Views\HomeView.g.cs
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\obj\Debug\net9.0-windows\Views\LoginView.g.cs
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\obj\Debug\net9.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF_MarkupCompile.cache
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF_MarkupCompile.lref
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\obj\Debug\net9.0-windows\App.baml
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\obj\Debug\net9.0-windows\Controls\NavigationBar.baml
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\obj\Debug\net9.0-windows\Views\HomeView.baml
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\obj\Debug\net9.0-windows\Views\LoginView.baml
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.g.resources
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.AssemblyInfoInputs.cache
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.AssemblyInfo.cs
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.csproj.CoreCompileInputs.cache
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.sourcelink.json
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.csproj.Up2Date
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\obj\Debug\net9.0-windows\refint\PAWB.WPF.dll
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.pdb
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.genruntimeconfig.cache
+C:\Users\Caleb\Desktop\CS 3300\updated main with db\PAWB.WPF\obj\Debug\net9.0-windows\ref\PAWB.WPF.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.WPF.exe
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.WPF.deps.json
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.WPF.runtimeconfig.json
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.WPF.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.WPF.pdb
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Azure.Core.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Azure.Identity.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Humanizer.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Build.Locator.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Mono.TextTemplating.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.ClientModel.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.Composition.AttributedModel.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.Composition.Convention.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.Composition.Hosting.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.Composition.Runtime.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.Composition.TypedParts.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.Memory.Data.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.Runtime.Caching.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.Domain.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.EntityFramework.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.Domain.pdb
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.EntityFramework.pdb
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.csproj.AssemblyReference.cache
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Controls\NavigationBar.g.cs
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Views\HomeView.g.cs
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Views\LoginView.g.cs
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF_MarkupCompile.cache
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF_MarkupCompile.lref
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\App.baml
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Controls\NavigationBar.baml
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Views\HomeView.baml
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Views\LoginView.baml
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.g.resources
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.AssemblyInfoInputs.cache
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.AssemblyInfo.cs
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.csproj.CoreCompileInputs.cache
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.sourcelink.json
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.csproj.Up2Date
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\refint\PAWB.WPF.dll
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.pdb
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.genruntimeconfig.cache
+C:\Users\Caleb\Documents\GitHub\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\ref\PAWB.WPF.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.WPF.exe
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.WPF.deps.json
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.WPF.runtimeconfig.json
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.WPF.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.WPF.pdb
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Azure.Core.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Azure.Identity.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Humanizer.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.AspNet.Identity.Core.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Build.Locator.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Identity.Client.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Mono.TextTemplating.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.ClientModel.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.Composition.AttributedModel.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.Composition.Convention.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.Composition.Hosting.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.Composition.Runtime.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.Composition.TypedParts.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.Formats.Asn1.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.Memory.Data.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.Runtime.Caching.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.Text.Json.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.Domain.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.EntityFramework.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.Domain.pdb
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.EntityFramework.pdb
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.csproj.AssemblyReference.cache
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Controls\NavigationBar.g.cs
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Views\HomeView.g.cs
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Views\LoginView.g.cs
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF_MarkupCompile.cache
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF_MarkupCompile.lref
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\App.baml
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Controls\NavigationBar.baml
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Views\HomeView.baml
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Views\LoginView.baml
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.g.resources
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.AssemblyInfoInputs.cache
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.AssemblyInfo.cs
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.csproj.CoreCompileInputs.cache
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.sourcelink.json
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.csproj.Up2Date
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\refint\PAWB.WPF.dll
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.pdb
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.genruntimeconfig.cache
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\ref\PAWB.WPF.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.WPF.exe
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.WPF.deps.json
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.WPF.runtimeconfig.json
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.WPF.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.WPF.pdb
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Azure.Core.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Azure.Identity.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Humanizer.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.AspNet.Identity.Core.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Build.Locator.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Identity.Client.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\Mono.TextTemplating.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.ClientModel.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.Composition.AttributedModel.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.Composition.Convention.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.Composition.Hosting.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.Composition.Runtime.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.Composition.TypedParts.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.Formats.Asn1.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.Memory.Data.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.Runtime.Caching.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.Text.Json.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.Domain.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.EntityFramework.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.Domain.pdb
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PAWB.EntityFramework.pdb
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.csproj.AssemblyReference.cache
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Controls\NavigationBar.g.cs
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Views\HomeView.g.cs
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Views\LoginView.g.cs
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\App.g.cs
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF_MarkupCompile.cache
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF_MarkupCompile.lref
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\App.baml
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Controls\NavigationBar.baml
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\MainWindow.baml
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Views\HomeView.baml
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Views\LoginView.baml
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.g.resources
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.AssemblyInfoInputs.cache
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.AssemblyInfo.cs
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.csproj.CoreCompileInputs.cache
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.sourcelink.json
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.csproj.Up2Date
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\refint\PAWB.WPF.dll
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.pdb
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.genruntimeconfig.cache
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\ref\PAWB.WPF.dll
