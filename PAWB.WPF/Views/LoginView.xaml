@@ -6,7 +6,10 @@
              xmlns:local="clr-namespace:PAWB.WPF.Views"
              mc:Ignorable="d" 
              d:DesignHeight="450" d:DesignWidth="800">
-    <Grid>
+    
+
+    <Grid Background="#FFB8FFCE">
+
         <Grid.RowDefinitions>
             <RowDefinition Height="auto"/>
             <RowDefinition Height="auto"/>
@@ -17,15 +20,20 @@
             <ColumnDefinition Width="auto"/>
         </Grid.ColumnDefinitions>
 
-        <TextBlock Grid.Row="0" Grid.Column="0" Text="Username"/>
-        <TextBox Grid.Row="0" Grid.Column="1" Text="{Binding Username, UpdateSourceTrigger=PropertyChanged}"/>
+        <TextBlock Grid.Row="2" Grid.Column="1" Text="Username" Margin="228,162,225,-113"/>
+        <TextBox Grid.Row="2" Grid.Column="1" Text="{Binding Username, UpdateSourceTrigger=PropertyChanged}" Margin="227,183,224,21" Background="#FFFFF5F5"/>
 
-        <TextBlock Grid.Row="1" Grid.Column="0" Text="Password"/>
-        <PasswordBox x:Name="pbPassword" Grid.Row="1" Grid.Column="1"/>
+        <TextBlock Grid.Row="2" Grid.Column="1" Text="Password" Margin="230,236,224,-102"/>
+        <PasswordBox x:Name="pbPassword" Grid.Row="2" Grid.Column="1" Margin="228,257,225,-53" Background="#FFFFF5F5"/>
 
-        <Button Grid.Row="2" Grid.Column="2" HorizontalAlignment="Center"
+        <TextBlock Grid.Row="2" Grid.Column="1" Text="LOGIN" Margin="327,61,329,107" Foreground="#FFFF7A78" FontFamily="Showcard Gothic" FontSize="50"/>
+
+        <Button Grid.Row="2" Grid.Column="1" HorizontalAlignment="Left"
                 IsDefault="True"
                 Content="Login"
-                Click="Login_Click"/>
+                Click="Login_Click" Margin="370,316,0,-113" RenderTransformOrigin="0.458,0.535" FontFamily="Showcard Gothic" FontSize="19" Foreground="#FFE17A82"/>
+
+        <Image Source="/Images/LoginPawble.png" Width="280" Grid.Column="1" Margin="524,236,0,-244" Grid.Row="2"/>
+
     </Grid>
 </UserControl>
