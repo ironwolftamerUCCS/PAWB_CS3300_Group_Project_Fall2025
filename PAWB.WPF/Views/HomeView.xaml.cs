@@ -20,9 +20,23 @@ namespace PAWB.WPF.Views
     /// </summary>
     public partial class HomeView : UserControl
     {
+
+        private bool _isDefaultTheme = true;
+
         public HomeView()
         {
             InitializeComponent();
+           
         }
-    }
+
+        private void OnToggleButtonChecked(object sender, RoutedEventArgs e)
+        {
+            _isDefaultTheme = !_isDefaultTheme;
+            string newThemePath = _isDefaultTheme ? "Themes/Default.xaml" : "Themes/ScaryPawble.xaml";
+            var newTheme = (ResourceDictionary)Application.LoadComponent(new Uri(newThemePath, UriKind.Relative));
+            Application.Current.Resources.MergedDictionaries.RemoveAt(0);
+            Application.Current.Resources.MergedDictionaries.Add(newTheme);
+        }
+
+}
 }
