@@ -1,4 +1,5 @@
-﻿using System;
+﻿using PAWB.WPF.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -23,10 +24,41 @@ namespace PAWB.WPF.Views
 
         private bool _isDefaultTheme = true;
 
+        public List<InfoItem> Items { get; set; }
+
         public HomeView()
         {
             InitializeComponent();
-           
+            //DataContext = dataContext;
+
+            // For list view
+            Items = new List<InfoItem>()
+            {
+                new InfoItem { Title = "Account 1", Description = "Description1"},
+                new InfoItem { Title = "Account 2", Description = "Description2"},
+                new InfoItem { Title = "Account 3", Description = "Description3"},
+            };
+            DataContext = this;
+
+        }
+
+        private void DetailButton_Click(object sender, RoutedEventArgs e)
+        {
+            /*
+            Button btn = sender as Button;
+            InfoItem item = btn.DataContext as InfoItem;
+
+            DetailWindow window = new DetailWindow(item);
+            window.ShowDialog();
+            */
+
+            var item = (sender as FrameworkElement)?.DataContext as InfoItem;
+            if (item != null)
+            {
+                var win = new DetailWindow(item);
+                win.ShowDialog();
+            }
+
         }
 
         private void OnToggleButtonChecked(object sender, RoutedEventArgs e)

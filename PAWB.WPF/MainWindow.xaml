@@ -34,5 +34,8 @@
         <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Disabled">
             <ContentControl Content="{Binding Navigator.CurrentViewModel}"/>
         </ScrollViewer>
+        
+    
+        
     </Grid>
 </Window>

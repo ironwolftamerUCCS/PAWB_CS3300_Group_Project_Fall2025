@@ -918,3 +918,5 @@ C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-wind
 C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\ref\PAWB.WPF.dll
 C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Themes\Default.baml
 C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Themes\ScaryPawble.baml
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Views\DetailWindow.g.cs
+C:\Users\trini\Source\Repos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Views\DetailWindow.baml

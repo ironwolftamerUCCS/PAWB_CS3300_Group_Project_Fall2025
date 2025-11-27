@@ -9,19 +9,18 @@
              d:DesignHeight="450" d:DesignWidth="800">
 
 
+
     <Grid Grid.Row="1">
 
-        <StackPanel>
-
-            <TextBlock Text="Homepage"
+        <!-- Code for toggle button and changing themes -->
+        <TextBlock Text="Pawble"
                        Foreground="{DynamicResource ForegroundBrush}"
-                       VerticalAlignment="Center"
-                       HorizontalAlignment="Center"
-                       FontSize="40"/>
-
+                       VerticalAlignment="Top"
+                       HorizontalAlignment="Left"
+                       FontSize="40" FontFamily="Showcard Gothic"/>
             <ToggleButton Width="60" Height="30"
                           Checked="OnToggleButtonChecked"
-                          Unchecked="OnToggleButtonChecked">
+                          Unchecked="OnToggleButtonChecked" Margin="730,10,10,410">
 
                 <ToggleButton.Template>
                     <ControlTemplate>
@@ -48,9 +47,33 @@
                     </ControlTemplate>
                 </ToggleButton.Template>
             </ToggleButton>
-            
-            <Image Source="{DynamicResource CornerImg}" Height="122" Width="132"/>
+            <Image Source="{DynamicResource CornerImg}" Height="122" Width="132"
+                   HorizontalAlignment="Right"
+                   VerticalAlignment="Bottom"
+                   Margin="20, 20, 0, 0"/>
 
-        </StackPanel> 
+        <!-- Code for list view tiles that pop up with info boxes -->
+        <ListView ItemsSource="{Binding Items}" Background="Transparent" Margin="58,83,61,127">
+
+            <!-- Fixing stack panel size cause of the wonky -->
+            <ListView.ItemContainerStyle>
+                <Style TargetType="ListViewItem">
+                    <Setter Property="Height" Value="60"/>
+                    <Setter Property="VerticalContentAlignment" Value="Center"/>
+                </Style>
+            </ListView.ItemContainerStyle>
+
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal" Margin="5">
+                        <TextBlock Text="{Binding Title}" FontWeight="Bold" FontSize="16"/>
+
+                        <Button Content="Details" Margin="10 0 0 0" Click="DetailButton_Click" Background="LightBlue"/>
+
+                    </StackPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        
     </Grid>
 </UserControl>
