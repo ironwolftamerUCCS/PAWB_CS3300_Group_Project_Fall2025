@@ -1,125 +1,133 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\",
+  "WorkspaceRootPath": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\pawb.wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\pawb.wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C053A8A-1F53-425C-B79C-0E9AADF6969F}|PAWB.Domain\\PAWB.Domain.csproj|c:\\users\\caleb\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.domain\\pawb.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9C053A8A-1F53-425C-B79C-0E9AADF6969F}|PAWB.Domain\\PAWB.Domain.csproj|solutionrelative:pawb.domain\\pawb.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39D43BBD-751F-41AA-963A-F2C183037289}|PAWB.EntityFramework\\PAWB.EntityFramework.csproj|c:\\users\\caleb\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.entityframework\\pawbdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39D43BBD-751F-41AA-963A-F2C183037289}|PAWB.EntityFramework\\PAWB.EntityFramework.csproj|solutionrelative:pawb.entityframework\\pawbdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4EB8AC8-734F-4B49-B096-BA0851549A91}|PAWB.Domain.Tests\\PAWB.Domain.Tests.csproj|c:\\users\\caleb\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.domain.tests\\pawb.domain.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F4EB8AC8-734F-4B49-B096-BA0851549A91}|PAWB.Domain.Tests\\PAWB.Domain.Tests.csproj|solutionrelative:pawb.domain.tests\\pawb.domain.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39D43BBD-751F-41AA-963A-F2C183037289}|PAWB.EntityFramework\\PAWB.EntityFramework.csproj|c:\\users\\caleb\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.entityframework\\pawbdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39D43BBD-751F-41AA-963A-F2C183037289}|PAWB.EntityFramework\\PAWB.EntityFramework.csproj|solutionrelative:pawb.entityframework\\pawbdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\state\\navigators\\navigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\state\\navigators\\navigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\source\\repos\\ironwolftameruccs\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\source\\repos\\ironwolftameruccs\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\views\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\views\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\source\\repos\\ironwolftameruccs\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\views\\signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\views\\signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\source\\repos\\ironwolftameruccs\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\pawb.wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\pawb.wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\source\\repos\\ironwolftameruccs\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C053A8A-1F53-425C-B79C-0E9AADF6969F}|PAWB.Domain\\PAWB.Domain.csproj|c:\\users\\caleb\\source\\repos\\ironwolftameruccs\\pawb_cs3300_group_project_fall2025\\pawb.domain\\pawb.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9C053A8A-1F53-425C-B79C-0E9AADF6969F}|PAWB.Domain\\PAWB.Domain.csproj|solutionrelative:pawb.domain\\pawb.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D43BBD-751F-41AA-963A-F2C183037289}|PAWB.EntityFramework\\PAWB.EntityFramework.csproj|c:\\users\\caleb\\source\\repos\\ironwolftameruccs\\pawb_cs3300_group_project_fall2025\\pawb.entityframework\\pawbdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39D43BBD-751F-41AA-963A-F2C183037289}|PAWB.EntityFramework\\PAWB.EntityFramework.csproj|solutionrelative:pawb.entityframework\\pawbdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4EB8AC8-734F-4B49-B096-BA0851549A91}|PAWB.Domain.Tests\\PAWB.Domain.Tests.csproj|c:\\users\\caleb\\source\\repos\\ironwolftameruccs\\pawb_cs3300_group_project_fall2025\\pawb.domain.tests\\pawb.domain.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F4EB8AC8-734F-4B49-B096-BA0851549A91}|PAWB.Domain.Tests\\PAWB.Domain.Tests.csproj|solutionrelative:pawb.domain.tests\\pawb.domain.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D43BBD-751F-41AA-963A-F2C183037289}|PAWB.EntityFramework\\PAWB.EntityFramework.csproj|c:\\users\\caleb\\source\\repos\\ironwolftameruccs\\pawb_cs3300_group_project_fall2025\\pawb.entityframework\\pawbdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39D43BBD-751F-41AA-963A-F2C183037289}|PAWB.EntityFramework\\PAWB.EntityFramework.csproj|solutionrelative:pawb.entityframework\\pawbdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\source\\repos\\ironwolftameruccs\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\state\\navigators\\navigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\state\\navigators\\navigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\source\\repos\\ironwolftameruccs\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\source\\repos\\ironwolftameruccs\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39D43BBD-751F-41AA-963A-F2C183037289}|PAWB.EntityFramework\\PAWB.EntityFramework.csproj|c:\\users\\caleb\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.entityframework\\migrations\\20251112212229_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{39D43BBD-751F-41AA-963A-F2C183037289}|PAWB.EntityFramework\\PAWB.EntityFramework.csproj|c:\\users\\caleb\\source\\repos\\ironwolftameruccs\\pawb_cs3300_group_project_fall2025\\pawb.entityframework\\migrations\\20251112212229_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39D43BBD-751F-41AA-963A-F2C183037289}|PAWB.EntityFramework\\PAWB.EntityFramework.csproj|solutionrelative:pawb.entityframework\\migrations\\20251112212229_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\source\\repos\\ironwolftameruccs\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\commands\\updatecurrentviewmodelcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\source\\repos\\ironwolftameruccs\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\commands\\updatecurrentviewmodelcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\commands\\updatecurrentviewmodelcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\viewmodels\\factories\\pawbviewmodelfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\source\\repos\\ironwolftameruccs\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\viewmodels\\factories\\pawbviewmodelfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\viewmodels\\factories\\pawbviewmodelfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\source\\repos\\ironwolftameruccs\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\source\\repos\\ironwolftameruccs\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\converters\\equalvaluetoparameterconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\source\\repos\\ironwolftameruccs\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\converters\\equalvaluetoparameterconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\converters\\equalvaluetoparameterconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\views\\homeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\source\\repos\\ironwolftameruccs\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\views\\homeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\views\\homeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\controls\\navigationbar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\source\\repos\\ironwolftameruccs\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\controls\\navigationbar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\controls\\navigationbar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\state\\navigators\\viewmodeldelegaterenavigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\source\\repos\\ironwolftameruccs\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\state\\navigators\\viewmodeldelegaterenavigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\state\\navigators\\viewmodeldelegaterenavigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\state\\authenticators\\authenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\source\\repos\\ironwolftameruccs\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\state\\authenticators\\authenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\state\\authenticators\\authenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\state\\navigators\\inavigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\source\\repos\\ironwolftameruccs\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\state\\navigators\\inavigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\state\\navigators\\inavigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\state\\navigators\\irenavigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\source\\repos\\ironwolftameruccs\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\state\\navigators\\irenavigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\state\\navigators\\irenavigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\commands\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\source\\repos\\ironwolftameruccs\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\commands\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\commands\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\views\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\source\\repos\\ironwolftameruccs\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\views\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\views\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C053A8A-1F53-425C-B79C-0E9AADF6969F}|PAWB.Domain\\PAWB.Domain.csproj|c:\\users\\caleb\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.domain\\services\\authenticationservices\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9C053A8A-1F53-425C-B79C-0E9AADF6969F}|PAWB.Domain\\PAWB.Domain.csproj|c:\\users\\caleb\\source\\repos\\ironwolftameruccs\\pawb_cs3300_group_project_fall2025\\pawb.domain\\services\\authenticationservices\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C053A8A-1F53-425C-B79C-0E9AADF6969F}|PAWB.Domain\\PAWB.Domain.csproj|solutionrelative:pawb.domain\\services\\authenticationservices\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\source\\repos\\ironwolftameruccs\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\source\\repos\\ironwolftameruccs\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\source\\repos\\ironwolftameruccs\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\documents\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\controls\\navigationbar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\source\\repos\\ironwolftameruccs\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\controls\\navigationbar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\controls\\navigationbar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -141,36 +149,28 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PAWBDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\PAWBDbContext.cs",
-              "RelativeDocumentMoniker": "PAWB.EntityFramework\\PAWBDbContext.cs",
-              "ToolTip": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\PAWBDbContext.cs",
-              "RelativeToolTip": "PAWB.EntityFramework\\PAWBDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T19:38:03.896Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PAWBDbContextFactory.cs",
-              "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\PAWBDbContextFactory.cs",
-              "RelativeDocumentMoniker": "PAWB.EntityFramework\\PAWBDbContextFactory.cs",
-              "ToolTip": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\PAWBDbContextFactory.cs",
-              "RelativeToolTip": "PAWB.EntityFramework\\PAWBDbContextFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T20:48:17.289Z"
+              "DocumentIndex": 1,
+              "Title": "SignUp.xaml",
+              "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\SignUp.xaml",
+              "RelativeDocumentMoniker": "PAWB.WPF\\Views\\SignUp.xaml",
+              "ToolTip": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\SignUp.xaml",
+              "RelativeToolTip": "PAWB.WPF\\Views\\SignUp.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-27T02:09:33.21Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Navigator.cs",
-              "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Navigators\\Navigator.cs",
+              "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Navigators\\Navigator.cs",
               "RelativeDocumentMoniker": "PAWB.WPF\\State\\Navigators\\Navigator.cs",
-              "ToolTip": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Navigators\\Navigator.cs",
+              "ToolTip": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Navigators\\Navigator.cs",
               "RelativeToolTip": "PAWB.WPF\\State\\Navigators\\Navigator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -178,22 +178,48 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\App.xaml",
+              "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\App.xaml",
               "RelativeDocumentMoniker": "PAWB.WPF\\App.xaml",
-              "ToolTip": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\App.xaml",
+              "ToolTip": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\App.xaml",
               "RelativeToolTip": "PAWB.WPF\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-06T22:41:49.321Z"
+              "WhenOpened": "2025-11-06T22:41:49.321Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PAWB.WPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PAWB.WPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAjwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T22:38:10.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PAWBDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\PAWBDbContextFactory.cs",
+              "RelativeDocumentMoniker": "PAWB.EntityFramework\\PAWBDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\PAWBDbContextFactory.cs",
+              "RelativeToolTip": "PAWB.EntityFramework\\PAWBDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T20:48:17.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "PAWB.WPF.csproj",
-              "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\PAWB.WPF.csproj",
+              "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\PAWB.WPF.csproj",
               "RelativeDocumentMoniker": "PAWB.WPF\\PAWB.WPF.csproj",
-              "ToolTip": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\PAWB.WPF.csproj",
+              "ToolTip": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\PAWB.WPF.csproj",
               "RelativeToolTip": "PAWB.WPF\\PAWB.WPF.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -202,11 +228,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "PAWB.Domain.Tests.csproj",
-              "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain.Tests\\PAWB.Domain.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain.Tests\\PAWB.Domain.Tests.csproj",
               "RelativeDocumentMoniker": "PAWB.Domain.Tests\\PAWB.Domain.Tests.csproj",
-              "ToolTip": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain.Tests\\PAWB.Domain.Tests.csproj",
+              "ToolTip": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain.Tests\\PAWB.Domain.Tests.csproj",
               "RelativeToolTip": "PAWB.Domain.Tests\\PAWB.Domain.Tests.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -215,11 +241,36 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PAWBDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\PAWBDbContext.cs",
+              "RelativeDocumentMoniker": "PAWB.EntityFramework\\PAWBDbContext.cs",
+              "ToolTip": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\PAWBDbContext.cs",
+              "RelativeToolTip": "PAWB.EntityFramework\\PAWBDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T19:38:03.896Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "SignUp.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\SignUp.xaml.cs",
+              "RelativeDocumentMoniker": "PAWB.WPF\\Views\\SignUp.xaml.cs",
+              "ToolTip": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\SignUp.xaml.cs",
+              "RelativeToolTip": "PAWB.WPF\\Views\\SignUp.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T02:11:01.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "PAWB.Domain.csproj",
-              "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\PAWB.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\PAWB.Domain.csproj",
               "RelativeDocumentMoniker": "PAWB.Domain\\PAWB.Domain.csproj",
-              "ToolTip": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\PAWB.Domain.csproj",
+              "ToolTip": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\PAWB.Domain.csproj",
               "RelativeToolTip": "PAWB.Domain\\PAWB.Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -228,23 +279,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "PAWB.WPF\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\MainWindow.xaml.cs",
-              "RelativeToolTip": "PAWB.WPF\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T22:38:10.333Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "LoginView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\LoginView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\LoginView.xaml.cs",
               "RelativeDocumentMoniker": "PAWB.WPF\\Views\\LoginView.xaml.cs",
-              "ToolTip": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\LoginView.xaml.cs",
+              "ToolTip": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\LoginView.xaml.cs",
               "RelativeToolTip": "PAWB.WPF\\Views\\LoginView.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -252,11 +291,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "HomeViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\HomeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\HomeViewModel.cs",
               "RelativeDocumentMoniker": "PAWB.WPF\\ViewModels\\HomeViewModel.cs",
-              "ToolTip": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\HomeViewModel.cs",
+              "ToolTip": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\HomeViewModel.cs",
               "RelativeToolTip": "PAWB.WPF\\ViewModels\\HomeViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -264,11 +303,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "20251112212229_initial.cs",
-              "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\Migrations\\20251112212229_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\Migrations\\20251112212229_initial.cs",
               "RelativeDocumentMoniker": "PAWB.EntityFramework\\Migrations\\20251112212229_initial.cs",
-              "ToolTip": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\Migrations\\20251112212229_initial.cs",
+              "ToolTip": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\Migrations\\20251112212229_initial.cs",
               "RelativeToolTip": "PAWB.EntityFramework\\Migrations\\20251112212229_initial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -276,22 +315,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\MainWindow.xaml",
               "RelativeDocumentMoniker": "PAWB.WPF\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\MainWindow.xaml",
               "RelativeToolTip": "PAWB.WPF\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-11-06T22:40:04.769Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "PAWBViewModelFactory.cs",
-              "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\Factories\\PAWBViewModelFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\Factories\\PAWBViewModelFactory.cs",
               "RelativeDocumentMoniker": "PAWB.WPF\\ViewModels\\Factories\\PAWBViewModelFactory.cs",
-              "ToolTip": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\Factories\\PAWBViewModelFactory.cs",
+              "ToolTip": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\Factories\\PAWBViewModelFactory.cs",
               "RelativeToolTip": "PAWB.WPF\\ViewModels\\Factories\\PAWBViewModelFactory.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAcwBgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -299,11 +338,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "UpdateCurrentViewModelCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Commands\\UpdateCurrentViewModelCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Commands\\UpdateCurrentViewModelCommand.cs",
               "RelativeDocumentMoniker": "PAWB.WPF\\Commands\\UpdateCurrentViewModelCommand.cs",
-              "ToolTip": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Commands\\UpdateCurrentViewModelCommand.cs",
+              "ToolTip": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Commands\\UpdateCurrentViewModelCommand.cs",
               "RelativeToolTip": "PAWB.WPF\\Commands\\UpdateCurrentViewModelCommand.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAcwCUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -311,11 +350,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "PAWB.WPF\\ViewModels\\LoginViewModel.cs",
-              "ToolTip": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\LoginViewModel.cs",
               "RelativeToolTip": "PAWB.WPF\\ViewModels\\LoginViewModel.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAArwBQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -323,11 +362,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "MainViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\MainViewModel.cs",
               "RelativeDocumentMoniker": "PAWB.WPF\\ViewModels\\MainViewModel.cs",
-              "ToolTip": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\MainViewModel.cs",
               "RelativeToolTip": "PAWB.WPF\\ViewModels\\MainViewModel.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAcwBsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -335,11 +374,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "EqualValueToParameterConverter.cs",
-              "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Converters\\EqualValueToParameterConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Converters\\EqualValueToParameterConverter.cs",
               "RelativeDocumentMoniker": "PAWB.WPF\\Converters\\EqualValueToParameterConverter.cs",
-              "ToolTip": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Converters\\EqualValueToParameterConverter.cs",
+              "ToolTip": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Converters\\EqualValueToParameterConverter.cs",
               "RelativeToolTip": "PAWB.WPF\\Converters\\EqualValueToParameterConverter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -347,11 +386,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "HomeView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\HomeView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\HomeView.xaml.cs",
               "RelativeDocumentMoniker": "PAWB.WPF\\Views\\HomeView.xaml.cs",
-              "ToolTip": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\HomeView.xaml.cs",
+              "ToolTip": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\HomeView.xaml.cs",
               "RelativeToolTip": "PAWB.WPF\\Views\\HomeView.xaml.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAcwBkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -359,22 +398,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "NavigationBar.xaml",
-              "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Controls\\NavigationBar.xaml",
+              "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Controls\\NavigationBar.xaml",
               "RelativeDocumentMoniker": "PAWB.WPF\\Controls\\NavigationBar.xaml",
-              "ToolTip": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Controls\\NavigationBar.xaml",
+              "ToolTip": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Controls\\NavigationBar.xaml",
               "RelativeToolTip": "PAWB.WPF\\Controls\\NavigationBar.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-11-06T22:39:41.748Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "ViewModelDelegateRenavigator.cs",
-              "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Navigators\\ViewModelDelegateRenavigator.cs",
+              "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Navigators\\ViewModelDelegateRenavigator.cs",
               "RelativeDocumentMoniker": "PAWB.WPF\\State\\Navigators\\ViewModelDelegateRenavigator.cs",
-              "ToolTip": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Navigators\\ViewModelDelegateRenavigator.cs",
+              "ToolTip": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Navigators\\ViewModelDelegateRenavigator.cs",
               "RelativeToolTip": "PAWB.WPF\\State\\Navigators\\ViewModelDelegateRenavigator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -382,11 +421,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "Authenticator.cs",
-              "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Authenticators\\Authenticator.cs",
+              "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Authenticators\\Authenticator.cs",
               "RelativeDocumentMoniker": "PAWB.WPF\\State\\Authenticators\\Authenticator.cs",
-              "ToolTip": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Authenticators\\Authenticator.cs",
+              "ToolTip": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Authenticators\\Authenticator.cs",
               "RelativeToolTip": "PAWB.WPF\\State\\Authenticators\\Authenticator.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAYwBMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -394,11 +433,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "INavigator.cs",
-              "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Navigators\\INavigator.cs",
+              "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Navigators\\INavigator.cs",
               "RelativeDocumentMoniker": "PAWB.WPF\\State\\Navigators\\INavigator.cs",
-              "ToolTip": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Navigators\\INavigator.cs",
+              "ToolTip": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Navigators\\INavigator.cs",
               "RelativeToolTip": "PAWB.WPF\\State\\Navigators\\INavigator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwBAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -406,11 +445,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "IRenavigator.cs",
-              "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Navigators\\IRenavigator.cs",
+              "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Navigators\\IRenavigator.cs",
               "RelativeDocumentMoniker": "PAWB.WPF\\State\\Navigators\\IRenavigator.cs",
-              "ToolTip": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Navigators\\IRenavigator.cs",
+              "ToolTip": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Navigators\\IRenavigator.cs",
               "RelativeToolTip": "PAWB.WPF\\State\\Navigators\\IRenavigator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -418,11 +457,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "LoginCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Commands\\LoginCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Commands\\LoginCommand.cs",
               "RelativeDocumentMoniker": "PAWB.WPF\\Commands\\LoginCommand.cs",
-              "ToolTip": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Commands\\LoginCommand.cs",
+              "ToolTip": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Commands\\LoginCommand.cs",
               "RelativeToolTip": "PAWB.WPF\\Commands\\LoginCommand.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAQwCIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -430,34 +469,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "HomeView.xaml",
-              "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\HomeView.xaml",
+              "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\HomeView.xaml",
               "RelativeDocumentMoniker": "PAWB.WPF\\Views\\HomeView.xaml",
-              "ToolTip": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\HomeView.xaml",
+              "ToolTip": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\HomeView.xaml",
               "RelativeToolTip": "PAWB.WPF\\Views\\HomeView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-11-07T22:38:21.109Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "AuthenticationService.cs",
-              "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\Services\\AuthenticationServices\\AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\Services\\AuthenticationServices\\AuthenticationService.cs",
               "RelativeDocumentMoniker": "PAWB.Domain\\Services\\AuthenticationServices\\AuthenticationService.cs",
-              "ToolTip": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\Services\\AuthenticationServices\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\Services\\AuthenticationServices\\AuthenticationService.cs",
               "RelativeToolTip": "PAWB.Domain\\Services\\AuthenticationServices\\AuthenticationService.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAiwBUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T22:29:26.021Z"
+              "WhenOpened": "2025-11-06T22:29:26.021Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "PAWB.WPF\\AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\AssemblyInfo.cs",
               "RelativeToolTip": "PAWB.WPF\\AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -465,22 +505,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "LoginView.xaml",
-              "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\LoginView.xaml",
+              "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\LoginView.xaml",
               "RelativeDocumentMoniker": "PAWB.WPF\\Views\\LoginView.xaml",
-              "ToolTip": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\LoginView.xaml",
+              "ToolTip": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\LoginView.xaml",
               "RelativeToolTip": "PAWB.WPF\\Views\\LoginView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-06T22:37:04.869Z"
+              "WhenOpened": "2025-11-06T22:37:04.869Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "ViewModelBase.cs",
-              "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\ViewModelBase.cs",
               "RelativeDocumentMoniker": "PAWB.WPF\\ViewModels\\ViewModelBase.cs",
-              "ToolTip": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\ViewModelBase.cs",
               "RelativeToolTip": "PAWB.WPF\\ViewModels\\ViewModelBase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAMBdwA8AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -488,11 +529,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "NavigationBar.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Controls\\NavigationBar.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Controls\\NavigationBar.xaml.cs",
               "RelativeDocumentMoniker": "PAWB.WPF\\Controls\\NavigationBar.xaml.cs",
-              "ToolTip": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Controls\\NavigationBar.xaml.cs",
+              "ToolTip": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Controls\\NavigationBar.xaml.cs",
               "RelativeToolTip": "PAWB.WPF\\Controls\\NavigationBar.xaml.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAADwvxQAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
