@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Caleb\source\repos\ironwolftamerUCCS\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Release\net9.0-windows\
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Release\net9.0-windows\
 PAWB.WPF
 none
 false
 TRACE;RELEASE;NET;NET9_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NET9_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
-C:\Users\Caleb\source\repos\ironwolftamerUCCS\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\App.xaml
-5-165418414
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\App.xaml
+41920990817
 
-24-425138460
-2321403577459
-Controls\NavigationBar.xaml;MainWindow.xaml;Views\HomeView.xaml;Views\LoginView.xaml;Views\SignUp.xaml;
+23-228181143
+2321286599270
+Controls\NavigationBar.xaml;MainWindow.xaml;Views\HomeView.xaml;Views\LoginView.xaml;
 
 True
 

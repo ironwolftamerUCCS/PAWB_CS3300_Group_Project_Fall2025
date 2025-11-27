@@ -5,8 +5,75 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:PAWB.WPF.Views"
              mc:Ignorable="d" 
+             Background="{DynamicResource BackgroundBrush}"
              d:DesignHeight="450" d:DesignWidth="800">
-    <Grid>
-            
+
+
+
+    <Grid Grid.Row="1">
+
+        <!-- Code for toggle button and changing themes -->
+        <TextBlock Text="Pawble"
+                       Foreground="{DynamicResource ForegroundBrush}"
+                       VerticalAlignment="Top"
+                       HorizontalAlignment="Left"
+                       FontSize="40" FontFamily="Showcard Gothic"/>
+            <ToggleButton Width="60" Height="30"
+                          Checked="OnToggleButtonChecked"
+                          Unchecked="OnToggleButtonChecked" Margin="730,10,10,410">
+
+                <ToggleButton.Template>
+                    <ControlTemplate>
+                        <Border x:Name="SwitchBorder" Width="58" Height="30" CornerRadius="15" Background="White">
+                            <Border x:Name="SwitchShape" Width="22" Height="22" Margin="4, 0, 4, 0" Background="White"
+                                    HorizontalAlignment="Left" CornerRadius="15">
+                                <Border.Effect>
+                                    <DropShadowEffect Opacity=".2"/>
+                                </Border.Effect>
+                            </Border>
+                        </Border>
+
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="ToggleButton.IsChecked" Value="True">
+                                <Setter TargetName="SwitchShape" Property="HorizontalAlignment" Value="Right"/>
+                                <Setter TargetName="SwitchShape" Property="Background" Value="#096125"/>
+                            </Trigger>
+
+                            <Trigger Property="ToggleButton.IsChecked" Value="False">
+                                <Setter TargetName="SwitchBorder" Property="Background" Value="#939393"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+
+                    </ControlTemplate>
+                </ToggleButton.Template>
+            </ToggleButton>
+            <Image Source="{DynamicResource CornerImg}" Height="122" Width="132"
+                   HorizontalAlignment="Right"
+                   VerticalAlignment="Bottom"
+                   Margin="20, 20, 0, 0"/>
+
+        <!-- Code for list view tiles that pop up with info boxes -->
+        <ListView ItemsSource="{Binding Items}" Background="Transparent" Margin="58,83,61,127">
+
+            <!-- Fixing stack panel size cause of the wonky -->
+            <ListView.ItemContainerStyle>
+                <Style TargetType="ListViewItem">
+                    <Setter Property="Height" Value="60"/>
+                    <Setter Property="VerticalContentAlignment" Value="Center"/>
+                </Style>
+            </ListView.ItemContainerStyle>
+
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal" Margin="5">
+                        <TextBlock Text="{Binding Title}" FontWeight="Bold" FontSize="16"/>
+
+                        <Button Content="Details" Margin="10 0 0 0" Click="DetailButton_Click" Background="LightBlue"/>
+
+                    </StackPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        
     </Grid>
 </UserControl>
