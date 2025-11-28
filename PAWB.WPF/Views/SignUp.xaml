@@ -21,10 +21,10 @@
         </Grid.ColumnDefinitions>
 
         <TextBlock x:Name ="tbUsername" Grid.Row="2" Grid.Column="1" Text="Username" Margin="228,154,225,-105"/>
-        <TextBox Grid.Row="2" Grid.Column="1" Text="{Binding Username, UpdateSourceTrigger=PropertyChanged}" Margin="231,175,220,43" Background="#FFFFF5F5"/>
+        <TextBox Grid.Row="2" Grid.Column="1" Margin="231,175,220,43" Background="#FFFFF5F5"/>
 
         <TextBlock x:Name ="tbEmail" Grid.Row="2" Grid.Column="1" Text="Email" Margin="230,208,225,-113"/>
-        <TextBox Grid.Row="2" Grid.Column="1" Text="{Binding Email, UpdateSourceTrigger=PropertyChanged}" Margin="228,224,224,-6" Background="#FFFFF5F5"/>
+        <TextBox Grid.Row="2" Grid.Column="1" Margin="228,224,224,-6" Background="#FFFFF5F5"/>
 
         <TextBlock x:Name ="tbPassword" Grid.Row="2" Grid.Column="1" Text="Password" Margin="231,252,223,-118"/>
         <PasswordBox x:Name="pbPassword" Grid.Row="2" Grid.Column="1" Margin="228,270,227,-55" Background="#FFFFF5F5"/>
