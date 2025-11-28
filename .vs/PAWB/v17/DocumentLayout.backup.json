@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\trini\\source\\repos\\PAWB_CS3300_Group_Project_Fall2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{39D43BBD-751F-41AA-963A-F2C183037289}|PAWB.EntityFramework\\PAWB.EntityFramework.csproj|c:\\users\\trini\\source\\repos\\pawb_cs3300_group_project_fall2025\\pawb.entityframework\\pawbdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39D43BBD-751F-41AA-963A-F2C183037289}|PAWB.EntityFramework\\PAWB.EntityFramework.csproj|solutionrelative:pawb.entityframework\\pawbdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\trini\\source\\repos\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\views\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\views\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -19,6 +15,14 @@
       "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\views\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\trini\\source\\repos\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D43BBD-751F-41AA-963A-F2C183037289}|PAWB.EntityFramework\\PAWB.EntityFramework.csproj|c:\\users\\trini\\source\\repos\\pawb_cs3300_group_project_fall2025\\pawb.entityframework\\pawbdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39D43BBD-751F-41AA-963A-F2C183037289}|PAWB.EntityFramework\\PAWB.EntityFramework.csproj|solutionrelative:pawb.entityframework\\pawbdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\trini\\source\\repos\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -29,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\trini\\source\\repos\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\trini\\source\\repos\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\trini\\source\\repos\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\views\\detailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -142,7 +142,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -153,44 +153,12 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeView.xaml",
-              "DocumentMoniker": "C:\\Users\\trini\\source\\repos\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\HomeView.xaml",
-              "RelativeDocumentMoniker": "PAWB.WPF\\Views\\HomeView.xaml",
-              "ToolTip": "C:\\Users\\trini\\source\\repos\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\HomeView.xaml",
-              "RelativeToolTip": "PAWB.WPF\\Views\\HomeView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-07T22:38:21.109Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\trini\\source\\repos\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "PAWB.WPF\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\trini\\source\\repos\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\MainWindow.xaml",
-              "RelativeToolTip": "PAWB.WPF\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-06T22:40:04.769Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\trini\\source\\repos\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\HomeView.xaml.cs",
-              "RelativeDocumentMoniker": "PAWB.WPF\\Views\\HomeView.xaml.cs",
-              "ToolTip": "C:\\Users\\trini\\source\\repos\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\HomeView.xaml.cs",
-              "RelativeToolTip": "PAWB.WPF\\Views\\HomeView.xaml.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAzwCMAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T22:38:19.421Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\trini\\source\\repos\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "PAWB.WPF\\MainWindow.xaml.cs",
@@ -202,19 +170,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LoginView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\trini\\source\\repos\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\LoginView.xaml.cs",
-              "RelativeDocumentMoniker": "PAWB.WPF\\Views\\LoginView.xaml.cs",
-              "ToolTip": "C:\\Users\\trini\\source\\repos\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\LoginView.xaml.cs",
-              "RelativeToolTip": "PAWB.WPF\\Views\\LoginView.xaml.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAcwB8AAAAIAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "HomeView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\trini\\source\\repos\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\HomeView.xaml.cs",
+              "RelativeDocumentMoniker": "PAWB.WPF\\Views\\HomeView.xaml.cs",
+              "ToolTip": "C:\\Users\\trini\\source\\repos\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\HomeView.xaml.cs",
+              "RelativeToolTip": "PAWB.WPF\\Views\\HomeView.xaml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAqwCoAAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T23:08:18.688Z"
+              "WhenOpened": "2025-11-07T22:38:19.421Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
+              "Title": "HomeView.xaml",
+              "DocumentMoniker": "C:\\Users\\trini\\source\\repos\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\HomeView.xaml",
+              "RelativeDocumentMoniker": "PAWB.WPF\\Views\\HomeView.xaml",
+              "ToolTip": "C:\\Users\\trini\\source\\repos\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\HomeView.xaml",
+              "RelativeToolTip": "PAWB.WPF\\Views\\HomeView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-07T22:38:21.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DetailWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\trini\\source\\repos\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\DetailWindow.xaml",
+              "RelativeDocumentMoniker": "PAWB.WPF\\Views\\DetailWindow.xaml",
+              "ToolTip": "C:\\Users\\trini\\source\\repos\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\DetailWindow.xaml",
+              "RelativeToolTip": "PAWB.WPF\\Views\\DetailWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-26T08:56:42.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PAWBDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\trini\\source\\repos\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\PAWBDbContextFactory.cs",
+              "RelativeDocumentMoniker": "PAWB.EntityFramework\\PAWBDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\trini\\source\\repos\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\PAWBDbContextFactory.cs",
+              "RelativeToolTip": "PAWB.EntityFramework\\PAWBDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T03:57:18.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "LoginView.xaml",
               "DocumentMoniker": "C:\\Users\\trini\\source\\repos\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\LoginView.xaml",
               "RelativeDocumentMoniker": "PAWB.WPF\\Views\\LoginView.xaml",
@@ -237,32 +240,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PAWBDbContextFactory.cs",
-              "DocumentMoniker": "C:\\Users\\trini\\source\\repos\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\PAWBDbContextFactory.cs",
-              "RelativeDocumentMoniker": "PAWB.EntityFramework\\PAWBDbContextFactory.cs",
-              "ToolTip": "C:\\Users\\trini\\source\\repos\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\PAWBDbContextFactory.cs*",
-              "RelativeToolTip": "PAWB.EntityFramework\\PAWBDbContextFactory.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "LoginView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\trini\\source\\repos\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\LoginView.xaml.cs",
+              "RelativeDocumentMoniker": "PAWB.WPF\\Views\\LoginView.xaml.cs",
+              "ToolTip": "C:\\Users\\trini\\source\\repos\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\LoginView.xaml.cs",
+              "RelativeToolTip": "PAWB.WPF\\Views\\LoginView.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwB8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T03:57:18.399Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2025-11-06T23:08:18.688Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DetailWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\trini\\source\\repos\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\DetailWindow.xaml",
-              "RelativeDocumentMoniker": "PAWB.WPF\\Views\\DetailWindow.xaml",
-              "ToolTip": "C:\\Users\\trini\\source\\repos\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\DetailWindow.xaml",
-              "RelativeToolTip": "PAWB.WPF\\Views\\DetailWindow.xaml",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\trini\\source\\repos\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PAWB.WPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\trini\\source\\repos\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\MainWindow.xaml",
+              "RelativeToolTip": "PAWB.WPF\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-26T08:56:42.37Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-06T22:40:04.769Z"
             },
             {
               "$type": "Document",
