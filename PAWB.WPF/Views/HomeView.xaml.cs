@@ -1,6 +1,7 @@
 ﻿using PAWB.WPF.Models;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -21,15 +22,25 @@ namespace PAWB.WPF.Views
     /// </summary>
     public partial class HomeView : UserControl
     {
-
+        // Custom theme
         private bool _isDefaultTheme = true;
 
+        // Custom cursor
+        Cursor Grey, Brown, WhiteGrey, TriGrey;
+
+        // List view on homepage
         public List<InfoItem> Items { get; set; }
 
         public HomeView()
         {
             InitializeComponent();
-            //DataContext = dataContext;
+
+            // Custom Cursor
+            //string cursorDirectory = Directory.GetParent(Environment.CurrentDirectory).Parent.FullName + "\\Cursors";
+            Grey = new Cursor(Application.GetResourceStream(new Uri("Cursors/pawcursordefault.cur", UriKind.Relative)).Stream);
+            Brown = new Cursor(Application.GetResourceStream(new Uri("Cursors/browncursorpaw.cur", UriKind.Relative)).Stream);
+            WhiteGrey = new Cursor(Application.GetResourceStream(new Uri("Cursors/whitegreycursorpaw.cur", UriKind.Relative)).Stream);
+            TriGrey = new Cursor(Application.GetResourceStream(new Uri("Cursors/greywhitecursorpaw.cur", UriKind.Relative)).Stream);
 
             // For list view
             Items = new List<InfoItem>()
@@ -37,6 +48,9 @@ namespace PAWB.WPF.Views
                 new InfoItem { Title = "Account 1", Description = "Description1"},
                 new InfoItem { Title = "Account 2", Description = "Description2"},
                 new InfoItem { Title = "Account 3", Description = "Description3"},
+                new InfoItem { Title = "Account 4", Description = "Description4"},
+                new InfoItem { Title = "Account 5", Description = "Description5"},
+                new InfoItem { Title = "Account 6", Description = "Description6"},
             };
             DataContext = this;
 
@@ -44,14 +58,6 @@ namespace PAWB.WPF.Views
 
         private void DetailButton_Click(object sender, RoutedEventArgs e)
         {
-            /*
-            Button btn = sender as Button;
-            InfoItem item = btn.DataContext as InfoItem;
-
-            DetailWindow window = new DetailWindow(item);
-            window.ShowDialog();
-            */
-
             var item = (sender as FrameworkElement)?.DataContext as InfoItem;
             if (item != null)
             {
@@ -61,6 +67,7 @@ namespace PAWB.WPF.Views
 
         }
 
+        // Custom theme
         private void OnToggleButtonChecked(object sender, RoutedEventArgs e)
         {
             _isDefaultTheme = !_isDefaultTheme;
@@ -70,5 +77,86 @@ namespace PAWB.WPF.Views
             Application.Current.Resources.MergedDictionaries.Add(newTheme);
         }
 
-}
+        // Custom Paw Cursors
+        private void btnGrey_Click(object sender, RoutedEventArgs e)
+        {
+            if (sender == btnGrey)
+            {
+                this.Cursor = Grey;
+            }
+            else if (sender == btnBrown)
+            {
+                this.Cursor = Brown;
+            }
+            else if (sender == btnWhiteGrey)
+            {
+                this.Cursor = WhiteGrey;
+            }
+            else if (sender == btnTriGrey)
+            {
+                this.Cursor = TriGrey;
+            }
+        }
+
+        private void btnBrown_Click(object sender, RoutedEventArgs e)
+        {
+            if (sender == btnGrey)
+            {
+                this.Cursor = Grey;
+            }
+            else if (sender == btnBrown)
+            {
+                this.Cursor = Brown;
+            }
+            else if (sender == btnWhiteGrey)
+            {
+                this.Cursor = WhiteGrey;
+            }
+            else if (sender == btnTriGrey)
+            {
+                this.Cursor = TriGrey;
+            }
+        }
+
+        private void btnWhiteGrey_Click(object sender, RoutedEventArgs e)
+        {
+            if (sender == btnGrey)
+            {
+                this.Cursor = Grey;
+            }
+            else if (sender == btnBrown)
+            {
+                this.Cursor = Brown;
+            }
+            else if (sender == btnWhiteGrey)
+            {
+                this.Cursor = WhiteGrey;
+            }
+            else if (sender == btnTriGrey)
+            {
+                this.Cursor = TriGrey;
+            }
+        }
+
+        private void btnTriGrey_Click(object sender, RoutedEventArgs e)
+        {
+            if (sender == btnGrey)
+            {
+                this.Cursor = Grey;
+            }
+            else if (sender == btnBrown)
+            {
+                this.Cursor = Brown;
+            }
+            else if (sender == btnWhiteGrey)
+            {
+                this.Cursor = WhiteGrey;
+            }
+            else if (sender == btnTriGrey)
+            {
+                this.Cursor = TriGrey;
+            }
+        }
+
+    }
 }

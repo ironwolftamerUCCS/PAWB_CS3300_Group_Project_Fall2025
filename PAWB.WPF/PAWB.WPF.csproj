@@ -9,6 +9,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Cursors\browncursorpaw.cur" />
+    <None Remove="Cursors\greywhitecursorpaw.cur" />
+    <None Remove="Cursors\pawcursordefault.cur" />
+    <None Remove="Cursors\whitegreycursorpaw.cur" />
+    <None Remove="Images\BlueCollarPawble.png" />
     <None Remove="Images\BrokenLoginBar.png" />
     <None Remove="Images\Default Login Pawble.png" />
     <None Remove="Images\LoginPawble.png" />
@@ -30,6 +35,19 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Resource Include="Cursors\browncursorpaw.cur">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Cursors\greywhitecursorpaw.cur">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Cursors\pawcursordefault.cur">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Cursors\whitegreycursorpaw.cur">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\BlueCollarPawble.png" />
     <Resource Include="Images\BrokenLoginBar.png" />
     <Resource Include="Images\LoginPawble.png" />
     <Resource Include="Images\ScaryPawble.png" />
