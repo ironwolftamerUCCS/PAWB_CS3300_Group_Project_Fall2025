@@ -18,7 +18,6 @@ namespace PAWB.WPF
     /// </summary>
     public partial class MainWindow : Window
     {
-        public List<InfoItem> Items { get; set; }
 
         public MainWindow(object dataContext)
         {
@@ -27,15 +26,5 @@ namespace PAWB.WPF
             
         }
 
-       /*
-        private void DetailButton_Click(object sender, RoutedEventArgs e)
-        {
-            Button btn = sender as Button;
-            InfoItem item = btn.DataContext as InfoItem;
-
-            DetailWindow window = new DetailWindow(item);
-            window.ShowDialog();
-        }
-        */
     }
 }
