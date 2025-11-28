@@ -1,4 +1,7 @@
-﻿using PAWB.WPF.Models;
+﻿using PAWB.Domain.Model;
+using PAWB.EntityFramework;
+using PAWB.EntityFramework.Services;
+using PAWB.WPF.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -24,22 +27,52 @@ namespace PAWB.WPF.Views
 
         private bool _isDefaultTheme = true;
 
-        public List<InfoItem> Items { get; set; }
+        public List<InfoItem> Items { get; set; } = new List<InfoItem>();
 
         public HomeView()
         {
             InitializeComponent();
             //DataContext = dataContext;
 
-            // For list view
-            Items = new List<InfoItem>()
-            {
-                new InfoItem { Title = "Account 1", Description = "Description1"},
-                new InfoItem { Title = "Account 2", Description = "Description2"},
-                new InfoItem { Title = "Account 3", Description = "Description3"},
-            };
             DataContext = this;
 
+            this.Loaded += async (_, __) => await LoadEntrysAsync();
+        
+        }
+
+        private async Task LoadEntrysAsync()
+        {
+            try
+            {
+                var entrysService = new GenericDataService<User>(new PAWBDbContextFactory());
+                var entrys = await entrysService.GetAll();
+
+                // If service returned null, leave Items empty so UI displays nothing
+                if (entrys == null)
+                {
+                    await Application.Current.Dispatcher.InvokeAsync(() => Items.Clear());
+                    return;
+                }
+
+                // Update collection on UI thread
+                await Application.Current.Dispatcher.InvokeAsync(() =>
+                {
+                    Items.Clear();
+                    foreach (var u in entrys)
+                    {
+                        Items.Add(new InfoItem
+                        {
+                            Title = u.Username,
+                            Description = u.Email
+                        });
+                    }
+                });
+            }
+            catch (Exception ex)
+            {
+                // Show a simple error - adjust logging as needed
+                MessageBox.Show($"Failed to load entries: {ex.Message}", "Load Error", MessageBoxButton.OK, MessageBoxImage.Error);
+            }
         }
 
         private void DetailButton_Click(object sender, RoutedEventArgs e)
