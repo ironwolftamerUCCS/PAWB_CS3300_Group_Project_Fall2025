@@ -18,7 +18,10 @@ namespace PAWB.EntityFramework
             var options = new DbContextOptionsBuilder<PAWBDbContext>();
             // TODO insert connection string to sequel server into this command below
             //options.UseSqlServer("");
-            options.UseSqlServer("Server=tcp:pawble.database.windows.net,1433;Initial Catalog=PAWBLE;Persist Security Info=False;User ID=PAWBLE;Password=Pawb4Group!;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;", options => options.EnableRetryOnFailure(maxRetryCount: 3, maxRetryDelay: TimeSpan.FromSeconds(10), errorNumbersToAdd: new List<int> { 40613 }));
+            options.UseSqlServer(
+                "Server=(localdb)\\mssqllocaldb;Database=PAWB;Trusted_Connection=True;MultipleActiveResultSets=true",
+                sqlOptions => sqlOptions.EnableRetryOnFailure(maxRetryCount: 3, maxRetryDelay: TimeSpan.FromSeconds(10), errorNumbersToAdd: new List<int> { 40613 })
+            );
 
             return new PAWBDbContext(options.Options);
         }

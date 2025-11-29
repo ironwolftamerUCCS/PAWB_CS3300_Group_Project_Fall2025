@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\PAWB.EntityFramework"
+    "\\PAWB.EntityFramework",
+    "\\PAWB.WPF",
+    "\\PAWB.WPF\\Images",
+    "\\PAWB.WPF\\Views"
   ],
-  "SelectedNode": "\\PAWB.EntityFramework\\PAWBDbContext.cs",
+  "SelectedNode": "\\PAWB.sln",
   "PreviewInSolutionExplorer": false
 }

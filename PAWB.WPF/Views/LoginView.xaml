@@ -7,7 +7,6 @@
              mc:Ignorable="d" 
              d:DesignHeight="450" d:DesignWidth="800">
 
-
     <Grid Background="#FFB8FFCE">
 
         <Grid.RowDefinitions>
@@ -21,12 +20,15 @@
         </Grid.ColumnDefinitions>
 
         <TextBlock Grid.Row="2" Grid.Column="1" Text="Username" Margin="228,162,225,-113"/>
-        <TextBox Grid.Row="2" Grid.Column="1" Text="{Binding Username, UpdateSourceTrigger=PropertyChanged}" Margin="227,183,224,21" Background="#FFFFF5F5"/>
-
+        <TextBox Grid.Row="2" Grid.Column="1" Text="{Binding Username, UpdateSourceTrigger=PropertyChanged}" Margin="227,183,224,35" Background="#FFFFF5F5"/>
+      
         <TextBlock Grid.Row="2" Grid.Column="1" Text="Password" Margin="230,236,224,-102"/>
-        <PasswordBox x:Name="pbPassword" Grid.Row="2" Grid.Column="1" Margin="228,257,225,-53" Background="#FFFFF5F5"/>
+        <PasswordBox x:Name="pbPassword" Grid.Row="2" Grid.Column="1" Margin="228,257,225,-42" Background="#FFFFF5F5"/>
+        <Image Source="/Images/BrokenLoginBar.png" Width="115" Grid.Column="1" Margin="489,228,215,-97" Grid.Row="2"/>
 
+        
         <TextBlock Grid.Row="2" Grid.Column="1" Text="LOGIN" Margin="327,61,329,107" Foreground="#FFFF7A78" FontFamily="Showcard Gothic" FontSize="50"/>
+       
 
         <Button Grid.Row="2" Grid.Column="1" HorizontalAlignment="Left"
                 IsDefault="True"
@@ -34,8 +36,6 @@
                 Click="Login_Click" Margin="370,316,0,-113" RenderTransformOrigin="0.458,0.535" FontFamily="Showcard Gothic" FontSize="19" Foreground="#FFE17A82"/>
 
         <Image Source="/Images/LoginPawble.png" Width="280" Grid.Column="1" Margin="524,236,0,-244" Grid.Row="2"/>
-
-        <TextBlock Grid.Row="2" Text="Test" Foreground="DarkRed" Margin="327,355,329,-143" Grid.Column="1"/>
 
     </Grid>
 </UserControl>

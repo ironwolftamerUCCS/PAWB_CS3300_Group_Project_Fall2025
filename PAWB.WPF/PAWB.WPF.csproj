@@ -9,6 +9,20 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Cursors\browncursorpaw.cur" />
+    <None Remove="Cursors\greywhitecursorpaw.cur" />
+    <None Remove="Cursors\pawcursordefault.cur" />
+    <None Remove="Cursors\whitegreycursorpaw.cur" />
+    <None Remove="Images\BlueCollarPawble.png" />
+    <None Remove="Images\BrokenLoginBar.png" />
+    <None Remove="Images\Default Login Pawble.png" />
+    <None Remove="Images\LoginPawble.png" />
+    <None Remove="Images\ScaryPawble.png" />
+    <None Remove="Images\Template Pawble.png" />
+    <None Remove="Images\TemplatePawble.png" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.11">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
@@ -18,6 +32,26 @@
   <ItemGroup>
     <ProjectReference Include="..\PAWB.Domain\PAWB.Domain.csproj" />
     <ProjectReference Include="..\PAWB.EntityFramework\PAWB.EntityFramework.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Cursors\browncursorpaw.cur">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Cursors\greywhitecursorpaw.cur">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Cursors\pawcursordefault.cur">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Cursors\whitegreycursorpaw.cur">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\BlueCollarPawble.png" />
+    <Resource Include="Images\BrokenLoginBar.png" />
+    <Resource Include="Images\LoginPawble.png" />
+    <Resource Include="Images\ScaryPawble.png" />
+    <Resource Include="Images\TemplatePawble.png" />
   </ItemGroup>
 
 </Project>
