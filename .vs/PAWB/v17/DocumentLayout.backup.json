@@ -150,7 +150,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -163,6 +163,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\HomeView.xaml.cs",
+              "RelativeDocumentMoniker": "PAWB.WPF\\Views\\HomeView.xaml.cs",
+              "ToolTip": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\HomeView.xaml.cs",
+              "RelativeToolTip": "PAWB.WPF\\Views\\HomeView.xaml.cs",
+              "ViewState": "AgIAABkAAAAATGZmZmYEwCMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T22:38:19.421Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -200,19 +213,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAUwCYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-06T22:38:10.333Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\HomeView.xaml.cs",
-              "RelativeDocumentMoniker": "PAWB.WPF\\Views\\HomeView.xaml.cs",
-              "ToolTip": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\HomeView.xaml.cs*",
-              "RelativeToolTip": "PAWB.WPF\\Views\\HomeView.xaml.cs*",
-              "ViewState": "AgIAABkAAAAATGZmZmYEwCMAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T22:38:19.421Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -556,7 +556,8 @@
               "RelativeToolTip": "PAWB.Domain\\Services\\AuthenticationServices\\AuthenticationService.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAiwBUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T22:29:26.021Z"
+              "WhenOpened": "2025-11-06T22:29:26.021Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
