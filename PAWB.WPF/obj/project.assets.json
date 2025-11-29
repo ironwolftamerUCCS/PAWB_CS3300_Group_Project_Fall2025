@@ -4744,23 +4744,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Caleb\\.nuget\\packages\\": {},
+    "C:\\Users\\Brock\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\PAWB.WPF.csproj",
+      "projectUniqueName": "D:\\Github\\PAWB\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\PAWB.WPF.csproj",
       "projectName": "PAWB.WPF",
-      "projectPath": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\PAWB.WPF.csproj",
-      "packagesPath": "C:\\Users\\Caleb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\obj\\",
+      "projectPath": "D:\\Github\\PAWB\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\PAWB.WPF.csproj",
+      "packagesPath": "C:\\Users\\Brock\\.nuget\\packages\\",
+      "outputPath": "D:\\Github\\PAWB\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Caleb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Brock\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4769,18 +4769,17 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net9.0-windows7.0": {
           "targetAlias": "net9.0-windows",
           "projectReferences": {
-            "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\PAWB.Domain.csproj": {
-              "projectPath": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\PAWB.Domain.csproj"
+            "D:\\Github\\PAWB\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\PAWB.Domain.csproj": {
+              "projectPath": "D:\\Github\\PAWB\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\PAWB.Domain.csproj"
             },
-            "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\PAWB.EntityFramework.csproj": {
-              "projectPath": "C:\\Users\\Caleb\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\PAWB.EntityFramework.csproj"
+            "D:\\Github\\PAWB\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\PAWB.EntityFramework.csproj": {
+              "projectPath": "D:\\Github\\PAWB\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\PAWB.EntityFramework.csproj"
             }
           }
         }

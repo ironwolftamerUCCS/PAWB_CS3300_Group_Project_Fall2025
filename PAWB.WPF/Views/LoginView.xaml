@@ -6,7 +6,7 @@
              xmlns:local="clr-namespace:PAWB.WPF.Views"
              mc:Ignorable="d" 
              d:DesignHeight="450" d:DesignWidth="800">
-    
+
 
     <Grid Background="#FFB8FFCE">
 
@@ -34,6 +34,8 @@
                 Click="Login_Click" Margin="370,316,0,-113" RenderTransformOrigin="0.458,0.535" FontFamily="Showcard Gothic" FontSize="19" Foreground="#FFE17A82"/>
 
         <Image Source="/Images/LoginPawble.png" Width="280" Grid.Column="1" Margin="524,236,0,-244" Grid.Row="2"/>
+
+        <TextBlock Grid.Row="2" Text="Test" Foreground="DarkRed" Margin="327,355,329,-143" Grid.Column="1"/>
 
     </Grid>
 </UserControl>
