@@ -4,28 +4,28 @@
 
 PAWB is a secure and user-friendly password manager developed as a WPF desktop application. It allows users to store, access, and manage login credentials across multiple accounts. The application features a graphical interface themed around its mascot, **PAWB**.
 
-This README provides step-by-step instructions for installing, configuring, running, and evaluating the PAWB software prototype on **UCCS IT systems**.
+This README provides step-by-step instructions for installing, configuring, running, and evaluating the PAWB software prototype on UCCS IT systems.
 
 ## 2. System Requirements
 
 ### 2.1 Hardware Requirements
-- RAM: Minimum requirement for .NET/WPF applications
-- Processor: Modern CPU
-- Storage: Sufficient space for project files
-- Graphics: Standard Windows graphics support
+- RAM: 1 GB
+- Processor: Intel 8th Generation processor or later
+- Storage: 256 MB
+- Graphics: Integrated Graphics Card
 
 ### 2.2 Software Requirements
 - Operating System: Windows
 - IDE: Visual Studio 2022
-- Required Libraries:
+- Required Libraries (Included in Repository):
   - Microsoft.EntityFrameworkCore.Design
   - .NET Desktop Development workload
 
 ## 3. Installation Instructions
 
 ### 3.1 Pre-Installation Checklist
-Ensure:
-- Windows environment
+Ensure the following:
+- A Windows environment
 - Visual Studio 2022 installed
 - .NET Desktop Development workload enabled
 - Internet access
@@ -43,18 +43,20 @@ https://github.com/ironwolftamerUCCS/PAWB_CS3300_Group_Project_Fall2025.git
 3. Open `PAWB.WPF.sln`.
 
 ### 3.4 Restore Dependencies
-If not automatic:
+If not automatic, Navigate to the following:
 - Tools → NuGet Package Manager → Restore NuGet Packages
 
 ## 4. Configuration
 
-No additional configuration is required. EFCore and database structures load automatically.
+No additional configuration is required. Database structures load automatically.
 
 ## 5. Executing the Software
 
 ### 5.1 Launching the Application
-1. Set startup project to `PAWB.WPF`.
-2. Click *Start (▶)*.
+1. Set startup project to `PAWB.WPF` if not already done so.
+2. Right click 'PAWB.WPF' in the solution explorer and click 'Set as Startup Project'
+3. Click *Start (▶)*.
+4. Wait for the project window to open.
 
 ### 5.2 Account Setup and Login
 
@@ -82,15 +84,13 @@ No additional configuration is required. EFCore and database structures load aut
 
 | Issue | Cause | Solution |
 |-------|--------|----------|
-| Build fails | Missing dependencies | Restore NuGet packages |
-| Login fails | Wrong credentials | Create a new account |
-| UI blank | Wrong startup project | Set `PAWB.WPF` as startup |
-| DB locked | Multiple instances | Close extra windows |
+| Build fails | Missing dependencies | Restore NuGet packages, see section 3.4|
+| Login fails | Incorrect credentials | Create a new account |
+| UI blank | Wrong startup project | Set `PAWB.WPF` as startup project, see section 5.1|
 
 ### Error Messages
 - “Cannot restore packages” → Restore via NuGet  
-- “Entry not found” → Deleted entry accessed  
-- “Database locked” → Close duplicate instances  
+- “Database locked” → Close duplicate database instances  
 
 ## 8. Support Information
 
@@ -107,8 +107,7 @@ No additional configuration is required. EFCore and database structures load aut
 ## 9. Appendix
 
 ### Glossary
-- **Credential Entry:** Saved username/password pair  
-- **EFCore:** ORM for .NET  
+- **Credential Entry:** Saved username/password pair
 - **MVVM:** UI architecture pattern  
 
 ### Notes
