@@ -15,7 +15,7 @@ This README provides step-by-step instructions for installing, configuring, runn
 - Graphics: Integrated Graphics Card
 
 ### 2.2 Software Requirements
-- Operating System: Windows
+- Operating System: Windows 11
 - IDE: Visual Studio 2022
 - Required Libraries (Included in Repository):
   - Microsoft.EntityFrameworkCore.Design
@@ -25,7 +25,7 @@ This README provides step-by-step instructions for installing, configuring, runn
 
 ### 3.1 Pre-Installation Checklist
 Ensure the following:
-- A Windows environment
+- A Windows 11 environment
 - Visual Studio 2022 installed
 - .NET Desktop Development workload enabled
 - Internet access
