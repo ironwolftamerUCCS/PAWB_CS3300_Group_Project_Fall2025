@@ -54,7 +54,7 @@ No additional configuration is required. Database structures load automatically.
 
 ### 5.1 Launching the Application
 1. Set startup project to `PAWB.WPF` if not already done so.
-2. Right click 'PAWB.WPF' in the solution explorer and click 'Set as Startup Project'
+2. Right click `PAWB.WPF` in the solution explorer and click `Set as Startup Project`
 3. Click *Start (▶)*.
 4. Wait for the project window to open.
 
