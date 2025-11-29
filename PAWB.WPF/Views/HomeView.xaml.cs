@@ -54,33 +54,37 @@ namespace PAWB.WPF.Views
         private async Task LoadEntrysAsync()
         {
             try
-            // For list view
-            Items = new List<InfoItem>()
-            {
-                var entrysService = new GenericDataService<User>(new PAWBDbContextFactory());
-                var entrys = await entrysService.GetAll();
-
-                // If service returned null, leave Items empty so UI displays nothing
-                if (entrys == null)
-            {
-                await Application.Current.Dispatcher.InvokeAsync(() => Items.Clear());
-                return;
-            }
-
-            // Update collection on UI thread
-            await Application.Current.Dispatcher.InvokeAsync(() =>
-            {
-                Items.Clear();
-                foreach (var u in entrys)
+            { 
+                // For list view
+                Items = new List<InfoItem>();
                 {
-                    Items.Add(new InfoItem
+                    var entrysService = new GenericDataService<User>(new PAWBDbContextFactory());
+                    var entrys = await entrysService.GetAll();
+
+                    // If service returned null, leave Items empty so UI displays nothing
+                    if (entrys == null)
                     {
-                        Title = u.Username,
-                        Description = u.Email
+                        await Application.Current.Dispatcher.InvokeAsync(() => Items.Clear());
+                        return;
+                    }
+
+
+                    // Update collection on UI thread
+                    await Application.Current.Dispatcher.InvokeAsync(() =>
+                    {
+                        Items.Clear();
+                        foreach (var u in entrys)
+                        {
+                            Items.Add(new InfoItem
+                            {
+                                Title = u.Username,
+                                Description = u.Email
+                            });
+                        }
                     });
                 }
-            });
-        }
+            }
+
             catch (Exception ex)
             {
                 // Show a simple error - adjust logging as needed
