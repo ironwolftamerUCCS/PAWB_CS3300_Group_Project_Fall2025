@@ -20,13 +20,13 @@
             <ColumnDefinition Width="auto"/>
         </Grid.ColumnDefinitions>
 
-        <TextBlock x:Name ="tbUsername" Grid.Row="2" Grid.Column="1" Text="Username" Margin="228,154,225,-105"/>
-        <TextBox Grid.Row="2" Grid.Column="1" Margin="231,175,220,43" Background="#FFFFF5F5"/>
+        <TextBlock x:Name ="Username" Grid.Row="2" Grid.Column="1" Text="Username" Margin="228,154,225,-105"/>
+        <TextBox x:Name="tbUsername" Grid.Row="2" Grid.Column="1" Margin="231,175,220,43" Background="#FFFFF5F5"/>
 
-        <TextBlock x:Name ="tbEmail" Grid.Row="2" Grid.Column="1" Text="Email" Margin="230,208,225,-113"/>
-        <TextBox Grid.Row="2" Grid.Column="1" Margin="228,224,224,-6" Background="#FFFFF5F5"/>
+        <TextBlock x:Name ="Email" Grid.Row="2" Grid.Column="1" Text="Email" Margin="230,208,225,-113"/>
+        <TextBox x:Name ="tbEmail" Grid.Row="2" Grid.Column="1" Margin="228,224,224,-6" Background="#FFFFF5F5"/>
 
-        <TextBlock x:Name ="tbPassword" Grid.Row="2" Grid.Column="1" Text="Password" Margin="231,252,223,-118"/>
+        <TextBlock x:Name ="Password" Grid.Row="2" Grid.Column="1" Text="Password" Margin="231,252,223,-118"/>
         <PasswordBox x:Name="pbPassword" Grid.Row="2" Grid.Column="1" Margin="228,270,227,-55" Background="#FFFFF5F5"/>
         <Image Source="/Images/BrokenLoginBar.png" Width="115" Grid.Column="1" Margin="489,228,215,-97" Grid.Row="2"/>
 

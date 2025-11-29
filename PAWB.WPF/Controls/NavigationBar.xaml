@@ -31,7 +31,13 @@
                          IsChecked="{Binding Navigator.CurrentViewModel, Mode=OneWay, Converter={StaticResource EqualValueToParameterConverter}, ConverterParameter={x:Type viewmodels:HomeViewModel}}"
                          Command="{Binding UpdateCurrentViewModelCommand}"
                          CommandParameter="{x:Static nav:ViewType.Home}"/>
-            
+
+            <RadioButton Grid.Column="1" Content="Sign up"
+                        IsChecked="{Binding Navigator.CurrentViewModel, Mode=OneWay, Converter={StaticResource EqualValueToParameterConverter}, ConverterParameter={x:Type viewmodels:SignUpModel}}"
+                        Command="{Binding UpdateCurrentViewModelCommand}"
+                        CommandParameter="{x:Static nav:ViewType.SignUp}"/>
+
+
         </Grid>
     </Grid>
 </UserControl>
