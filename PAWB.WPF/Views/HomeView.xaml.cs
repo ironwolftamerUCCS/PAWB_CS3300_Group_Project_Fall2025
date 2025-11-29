@@ -1,4 +1,5 @@
-﻿using PAWB.Domain.Model;
+﻿using Microsoft.EntityFrameworkCore.Metadata.Internal;
+using PAWB.Domain.Model;
 using PAWB.EntityFramework;
 using PAWB.EntityFramework.Services;
 using PAWB.WPF.Models;
@@ -29,8 +30,19 @@ namespace PAWB.WPF.Views
 
         public List<InfoItem> Items { get; set; } = new List<InfoItem>();
 
+        private Cursor Grey;
+        private Cursor Brown;   
+        private Cursor WhiteGrey;
+        private Cursor TriGrey;
         public HomeView()
         {
+            // Custom Cursor
+            //string cursorDirectory = Directory.GetParent(Environment.CurrentDirectory).Parent.FullName + "\\Cursors";
+            Grey = new Cursor(Application.GetResourceStream(new Uri("Cursors/pawcursordefault.cur", UriKind.Relative)).Stream);
+            Brown = new Cursor(Application.GetResourceStream(new Uri("Cursors/browncursorpaw.cur", UriKind.Relative)).Stream);
+            WhiteGrey = new Cursor(Application.GetResourceStream(new Uri("Cursors/whitegreycursorpaw.cur", UriKind.Relative)).Stream);
+            TriGrey = new Cursor(Application.GetResourceStream(new Uri("Cursors/greywhitecursorpaw.cur", UriKind.Relative)).Stream);
+
             InitializeComponent();
             //DataContext = dataContext;
 
@@ -103,5 +115,85 @@ namespace PAWB.WPF.Views
             Application.Current.Resources.MergedDictionaries.Add(newTheme);
         }
 
-}
+        // Custom Paw Cursors
+        private void btnGrey_Click(object sender, RoutedEventArgs e)
+        {
+            if (sender == btnGrey)
+            {
+                this.Cursor = Grey;
+            }
+            else if (sender == btnBrown)
+            {
+                this.Cursor = Brown;
+            }
+            else if (sender == btnWhiteGrey)
+            {
+                this.Cursor = WhiteGrey;
+            }
+            else if (sender == btnTriGrey)
+            {
+                this.Cursor = TriGrey;
+            }
+        }
+
+        private void btnBrown_Click(object sender, RoutedEventArgs e)
+        {
+            if (sender == btnGrey)
+            {
+                this.Cursor = Grey;
+            }
+            else if (sender == btnBrown)
+            {
+                this.Cursor = Brown;
+            }
+            else if (sender == btnWhiteGrey)
+            {
+                this.Cursor = WhiteGrey;
+            }
+            else if (sender == btnTriGrey)
+            {
+                this.Cursor = TriGrey;
+            }
+        }
+
+        private void btnWhiteGrey_Click(object sender, RoutedEventArgs e)
+        {
+            if (sender == btnGrey)
+            {
+                this.Cursor = Grey;
+            }
+            else if (sender == btnBrown)
+            {
+                this.Cursor = Brown;
+            }
+            else if (sender == btnWhiteGrey)
+            {
+                this.Cursor = WhiteGrey;
+            }
+            else if (sender == btnTriGrey)
+            {
+                this.Cursor = TriGrey;
+            }
+        }
+
+        private void btnTriGrey_Click(object sender, RoutedEventArgs e)
+        {
+            if (sender == btnGrey)
+            {
+                this.Cursor = Grey;
+            }
+            else if (sender == btnBrown)
+            {
+                this.Cursor = Brown;
+            }
+            else if (sender == btnWhiteGrey)
+            {
+                this.Cursor = WhiteGrey;
+            }
+            else if (sender == btnTriGrey)
+            {
+                this.Cursor = TriGrey;
+            }
+        }
+    }
 }
