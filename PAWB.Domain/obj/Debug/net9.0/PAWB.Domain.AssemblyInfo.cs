@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PAWB.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c4e8c19152c39ab9f955d24c12991a3cf7b3c0b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27049e54590728a774c9d1c07bcc52ae498be522")]
 [assembly: System.Reflection.AssemblyProductAttribute("PAWB.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PAWB.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
