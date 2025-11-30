@@ -39,6 +39,14 @@
                 Content="Login"
                 Click="Login_Click" Margin="370,316,0,-113" RenderTransformOrigin="0.458,0.535" FontFamily="Showcard Gothic" FontSize="19" Foreground="#FFE17A82"/>
 
+        <TextBlock Grid.Row="2" Grid.Column="1" Text="Don't have an account?" Margin="10,428,646,-198" Foreground="#FFFF7A78" FontFamily="Arial Rounded MT Bold" FontSize="12" HorizontalAlignment="Left" VerticalAlignment="Bottom"/>
+
+        <Button Grid.Row="2" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Bottom"
+                IsDefault="True"
+                Content="Sign-up here"
+                Click="SignUpPage_Click" Margin="153,425,0,-199" RenderTransformOrigin="0.458,0.535" FontFamily="Arial Rounded MT Bold" FontSize="12" Foreground="Blue" Background="Transparent" BorderThickness="0"/>
+
+
         <Image Source="/Images/LoginPawble.png" Width="280" Grid.Column="1" Margin="524,236,0,-244" Grid.Row="2"/>
 
         <TextBlock 

@@ -1,4 +1,6 @@
-﻿using System;
+﻿using PAWB.WPF.State.Navigators;
+using PAWB.WPF.ViewModels;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -40,6 +42,15 @@ namespace PAWB.WPF.Views
                 string password = pbPassword.Password;
                 LoginCommand.Execute(password);
             }
+            
+        }
+        // Navigate to SignUp view when "Sign-up here" is clicked
+        private void SignUpPage_Click(object sender, RoutedEventArgs e)
+        {
+            // Use MainViewModel's command 
+            var mainVm = Application.Current?.MainWindow?.DataContext as MainViewModel;
+            mainVm.UpdateCurrentViewModelCommand.Execute(ViewType.SignUp);
+            return;
             
         }
     }
