@@ -45,5 +45,4 @@ namespace PAWB.WPF.Views
             }
         }
     }
-
 }

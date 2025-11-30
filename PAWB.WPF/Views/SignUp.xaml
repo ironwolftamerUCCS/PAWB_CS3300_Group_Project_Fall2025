@@ -20,17 +20,18 @@
             <ColumnDefinition Width="auto"/>
         </Grid.ColumnDefinitions>
 
-        <TextBlock x:Name ="tbUsername" Grid.Row="2" Grid.Column="1" Text="Username" Margin="231,134,222,86"/>
-        <TextBox Grid.Row="2" Grid.Column="1" Margin="228,199,133,13" Background="#FFFFF5F5"/>
+        <TextBlock x:Name ="Username" Grid.Row="2" Grid.Column="1" Text="Username" Margin="228,154,225,-105"/>
+        <TextBox x:Name="tbUsername" Grid.Row="2" Grid.Column="1" Margin="231,175,220,43" Background="#FFFFF5F5"/>
 
-        <TextBlock x:Name ="tbEmail" Grid.Row="2" Grid.Column="1" Text="Email" Margin="230,183,225,37"/>
-        <TextBox Grid.Row="2" Grid.Column="1" Margin="228,150,133,62" Background="#FFFFF5F5"/>
+        <TextBlock x:Name ="Email" Grid.Row="2" Grid.Column="1" Text="Email" Margin="230,208,225,-113"/>
+        <TextBox x:Name ="tbEmail" Grid.Row="2" Grid.Column="1" Margin="228,224,224,-6" Background="#FFFFF5F5"/>
 
-        <TextBlock x:Name ="tbPassword" Grid.Row="2" Grid.Column="1" Text="Password" Margin="231,229,223,-9"/>
-        <PasswordBox x:Name="pbPassword" Grid.Row="2" Grid.Column="1" Margin="228,245,133,-33" Background="#FFFFF5F5"/>
+        <TextBlock x:Name ="Password" Grid.Row="2" Grid.Column="1" Text="Password" Margin="231,252,223,-118"/>
+        <PasswordBox x:Name="pbPassword" Grid.Row="2" Grid.Column="1" Margin="228,270,227,-55" Background="#FFFFF5F5"/>
+        <Image Source="/Images/BrokenLoginBar.png" Width="115" Grid.Column="1" Margin="489,228,215,-97" Grid.Row="2"/>
 
 
-        <TextBlock Grid.Row="2" Grid.Column="1" Text="Welcome to Pawble" Margin="136,43,0,125" Foreground="#FFFF7A78" FontFamily="Showcard Gothic" FontSize="50" HorizontalAlignment="Left"/>
+        <TextBlock Grid.Row="2" Grid.Column="1" Text="Welcome to Pawble" Margin="136,71,0,97" Foreground="#FFFF7A78" FontFamily="Showcard Gothic" FontSize="50" HorizontalAlignment="Left"/>
 
 
         <Button Grid.Row="2" Grid.Column="1" HorizontalAlignment="Left"
@@ -38,8 +39,7 @@
                 Content="Sign-up"
                 Click="SignUp_Click" Margin="370,316,0,-113" RenderTransformOrigin="0.458,0.535" FontFamily="Showcard Gothic" FontSize="19" Foreground="#FFE17A82"/>
 
-        <Image Source="/Images/BlueCollarLogin.png" Width="130" Grid.Column="1" Margin="648,233,-84,-241" Grid.Row="2" Stretch="Uniform"/>
-        <Image Source="/Images/FixedSignUpBar.png" Grid.Column="1" Grid.Row="2" Height="25" Margin="541,245,133,-33"/>
+        <Image Source="/Images/LoginPawble.png" Width="280" Grid.Column="1" Margin="524,236,0,-244" Grid.Row="2"/>
 
     </Grid>
 </UserControl>

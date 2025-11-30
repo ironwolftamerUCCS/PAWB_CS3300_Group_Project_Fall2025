@@ -18,7 +18,7 @@ This README provides step-by-step instructions for installing, configuring, runn
 - Operating System: Windows 11
 - IDE: Visual Studio 2022
 - Required Libraries (Included in Repository):
-  - Microsoft.EntityFrameworkCore.Design
+  - Microsoft.EntityFrameworkCore
   - .NET Desktop Development workload
 
 ## 3. Installation Instructions
@@ -40,25 +40,26 @@ https://github.com/ironwolftamerUCCS/PAWB_CS3300_Group_Project_Fall2025.git
 ### 3.3 Open in Visual Studio
 1. Open Visual Studio 2022.
 2. Select *Open a Project or Solution*.
-3. Open `PAWB.WPF.sln`.
+3. Open `PAWB.sln`.
+   
+## 3.4 Database First Time Setup
+1.	Navigate to tools -> NuGet Package manager -> Package Manager Console
+2.	Change default project to “PAWB.EntityFramework" in the Package Manager Console
+3.	Execute the command “update-database” in the Package Manager Console
 
-### 3.4 Restore Dependencies
+### 3.5 Restore Dependencies
 If not automatic, Navigate to the following:
 - Tools → NuGet Package Manager → Restore NuGet Packages
 
-## 4. Configuration
+## 4. Executing the Software
 
-No additional configuration is required. Database structures load automatically.
-
-## 5. Executing the Software
-
-### 5.1 Launching the Application
+### 4.1 Launching the Application
 1. Set startup project to `PAWB.WPF` if not already done so.
 2. Right click `PAWB.WPF` in the solution explorer and click `Set as Startup Project`
 3. Click *Start (▶)*.
 4. Wait for the project window to open.
 
-### 5.2 Account Setup and Login
+### 4.2 Account Setup and Login
 
 #### Sign Up
 - Click *Sign Up*
@@ -69,30 +70,30 @@ No additional configuration is required. Database structures load automatically.
 - Enter credentials
 - Click *Login*
 
-## 6. User Interface Guide
+## 5. User Interface Guide
 
-### 6.1 Home Page Features
+### 5.1 Home Page Features
 - **View Stored Entries** – click an entry to view details  
 - **Add Entry** – add new credential  
 - **Delete Entry** – remove saved credentials  
 - **Theme Options** – switch light/dark mode, change cursor  
 - **Logout** – return to login screen  
 
-## 7. Troubleshooting
+## 6. Troubleshooting
 
 ### Common Issues
 
 | Issue | Cause | Solution |
 |-------|--------|----------|
-| Build fails | Missing dependencies | Restore NuGet packages, see section 3.4|
+| Build fails | Missing dependencies | Restore NuGet packages, see section 3.5|
 | Login fails | Incorrect credentials | Create a new account |
-| UI blank | Wrong startup project | Set `PAWB.WPF` as startup project, see section 5.1|
+| UI blank | Wrong startup project | Set `PAWB.WPF` as startup project, see section 4.1|
 
 ### Error Messages
 - “Cannot restore packages” → Restore via NuGet  
 - “Database locked” → Close duplicate database instances  
 
-## 8. Support Information
+## 7. Support Information
 
 **Developer Contact**  
 - Name: Evan Futey  
@@ -104,7 +105,7 @@ No additional configuration is required. Database structures load automatically.
 - .NET: https://learn.microsoft.com/en-us/dotnet/
 - MVVM Toolkit: https://learn.microsoft.com/en-us/dotnet/communitytoolkit/mvvm/
 
-## 9. Appendix
+## 8. Appendix
 
 ### Glossary
 - **Credential Entry:** Saved username/password pair

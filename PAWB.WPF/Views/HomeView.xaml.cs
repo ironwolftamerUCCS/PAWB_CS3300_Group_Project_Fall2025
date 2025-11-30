@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore.Metadata.Internal;
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using PAWB.Domain.Model;
 using PAWB.EntityFramework;
 using PAWB.EntityFramework.Services;
@@ -52,37 +53,35 @@ namespace PAWB.WPF.Views
         
         }
 
+
         private async Task LoadEntrysAsync()
         {
             try
             {
-                var entrysService = new GenericDataService<User>(new PAWBDbContextFactory());
-                var entrys = await entrysService.GetAll();
+                var factory = new PAWBDbContextFactory();
+                using var ctx = factory.CreateDbContext();
 
-                // If service returned null, leave Items empty so UI displays nothing
-                if (entrys == null)
-                {
-                    await Application.Current.Dispatcher.InvokeAsync(() => Items.Clear());
-                    return;
-                }
+                // Project only the scalar fields we need; this stops EF from deserializing the JSON collection column
+                var items = await ctx.Entrys
+                    .AsNoTracking()
+                    .Select(e => new InfoItem
+                    {
+                        Title = e.Title,
+                        Description = e.Username // or e.Email
+                    })
+                    .ToListAsync();
 
-                // Update collection on UI thread
                 await Application.Current.Dispatcher.InvokeAsync(() =>
                 {
                     Items.Clear();
-                    foreach (var u in entrys)
+                    foreach (var it in items)
                     {
-                        Items.Add(new InfoItem
-                        {
-                            Title = u.Username,
-                            Description = u.Email
-                        });
+                        Items.Add(it);
                     }
                 });
             }
             catch (Exception ex)
             {
-                // Show a simple error - adjust logging as needed
                 MessageBox.Show($"Failed to load entries: {ex.Message}", "Load Error", MessageBoxButton.OK, MessageBoxImage.Error);
             }
         }
