@@ -18,7 +18,7 @@ This README provides step-by-step instructions for installing, configuring, runn
 - Operating System: Windows 11
 - IDE: Visual Studio 2022
 - Required Libraries (Included in Repository):
-  - Microsoft.EntityFrameworkCore.Design
+  - Microsoft.EntityFrameworkCore
   - .NET Desktop Development workload
 
 ## 3. Installation Instructions
