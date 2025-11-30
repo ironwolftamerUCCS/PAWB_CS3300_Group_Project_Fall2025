@@ -61,11 +61,9 @@ namespace PAWB.WPF
             });
 
             // Register SignUpModel and its CreateViewModel delegate
-            services.AddSingleton<SignUpModel>(services => new SignUpModel());
-            services.AddSingleton<CreateViewModel<SignUpModel>>(services =>
-            {
-                return () => services.GetRequiredService<SignUpModel>();
-            });
+
+            services.AddSingleton<SignUpModel>(sp => new SignUpModel(sp.GetRequiredService<IAuthenticationService>()));
+            services.AddSingleton<CreateViewModel<SignUpModel>>(sp => () => sp.GetRequiredService<SignUpModel>());
 
             services.AddScoped<INavigator, Navigator>();
             services.AddScoped<IAuthenticator, Authenticator>();

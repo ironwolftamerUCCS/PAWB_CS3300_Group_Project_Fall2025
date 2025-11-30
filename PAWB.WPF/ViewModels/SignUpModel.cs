@@ -1,21 +1,24 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using PAWB.Domain.Model;
+using PAWB.Domain.Services.AuthenticationServices;
 using PAWB.EntityFramework;
 using PAWB.EntityFramework.Services;
 using PAWB.WPF.Commands;
 using PAWB.WPF.State.Navigators;
+using PAWB.WPF.State.Navigators;
+using PAWB.WPF.ViewModels;
 using System;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Input;
-using Microsoft.EntityFrameworkCore;
-using PAWB.WPF.ViewModels;
-using PAWB.WPF.State.Navigators;
 
 namespace PAWB.WPF.ViewModels
 {
     public class SignUpModel : ViewModelBase
     {
+        private readonly IAuthenticationService _authenticationService;
+
         private string _statusMessage = string.Empty;
         public string StatusMessage
         {
@@ -29,9 +32,12 @@ namespace PAWB.WPF.ViewModels
 
         public ICommand SignUpCommand { get; }
 
-        public SignUpModel()
+        public SignUpModel(IAuthenticationService authenticationService)
         {
             // Simple command that expects the SignUp UserControl to call with object[] { email, username, password }
+
+            _authenticationService = authenticationService ?? throw new ArgumentNullException(nameof(authenticationService));
+
             SignUpCommand = new DelegateCommand(ExecuteSignUpAsync);
         }
 
@@ -57,34 +63,30 @@ namespace PAWB.WPF.ViewModels
                     return;
                 }
 
-                var factory = new PAWBDbContextFactory();
-                var userService = new GenericDataService<User>(factory);
+                // Use AuthenticationService.Resister to create the Account/User
+                var result = await _authenticationService.Resister(email, username, password, password);
 
-                var newUser = new User
+                switch (result)
                 {
-                    Username = username,
-                    Email = email,
-                    // Store the password as-is (no hashing). It's stored in PasswordHash field.
-                    PasswordHash = password,
-                    DateJoined = DateTime.UtcNow
-                };
-
-                var created = await userService.Create(newUser);
-
-                // Verify insert and report a concise status
-                using var ctx = factory.CreateDbContext();
-                var userCount = await ctx.Users.CountAsync();
-
-                StatusMessage = $"Account created (Id={created.Id}). Users in DB: {userCount}.";
-
-
-                // Redirect to the Login view by invoking the MainViewModel's navigation command.
-                var mainVm = Application.Current?.MainWindow?.DataContext as MainViewModel;
-                
-                // Use the existing command to switch views
-                mainVm.UpdateCurrentViewModelCommand.Execute(ViewType.Login);
-                
-
+                    case RegistrationResult.Success:
+                        StatusMessage = "Account created. Redirecting to login...";
+                        // navigate to login using MainViewModel like before
+                        var mainVm = System.Windows.Application.Current?.MainWindow?.DataContext as MainViewModel;
+                        mainVm?.UpdateCurrentViewModelCommand.Execute(ViewType.Login);
+                        break;
+                    case RegistrationResult.PasswordsDoNotMatch:
+                        StatusMessage = "Passwords do not match.";
+                        break;
+                    case RegistrationResult.EmailAlreadyExists:
+                        StatusMessage = "Email already exists.";
+                        break;
+                    case RegistrationResult.UsernameAlreadyExists:
+                        StatusMessage = "Username already exists.";
+                        break;
+                    default:
+                        StatusMessage = "Registration failed.";
+                        break;
+                }
             }
             catch (Exception ex)
             {
