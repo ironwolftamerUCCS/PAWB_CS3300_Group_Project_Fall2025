@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain.Tests\\PAWB.Domain.Tests.csproj": {}
+    "C:\\Users\\bstampe2\\Github\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain.Tests\\PAWB.Domain.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain.Tests\\PAWB.Domain.Tests.csproj": {
+    "C:\\Users\\bstampe2\\Github\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain.Tests\\PAWB.Domain.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain.Tests\\PAWB.Domain.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\bstampe2\\Github\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain.Tests\\PAWB.Domain.Tests.csproj",
         "projectName": "PAWB.Domain.Tests",
-        "projectPath": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain.Tests\\PAWB.Domain.Tests.csproj",
-        "packagesPath": "C:\\Users\\ejfco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain.Tests\\obj\\",
+        "projectPath": "C:\\Users\\bstampe2\\Github\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain.Tests\\PAWB.Domain.Tests.csproj",
+        "packagesPath": "C:\\Users\\bstampe2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bstampe2\\Github\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ejfco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bstampe2\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,8 +32,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\PAWB.Domain.csproj": {
-                "projectPath": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\PAWB.Domain.csproj"
+              "C:\\Users\\bstampe2\\Github\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\PAWB.Domain.csproj": {
+                "projectPath": "C:\\Users\\bstampe2\\Github\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\PAWB.Domain.csproj"
               }
             }
           }
@@ -99,24 +99,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\PAWB.Domain.csproj": {
+    "C:\\Users\\bstampe2\\Github\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\PAWB.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\PAWB.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\bstampe2\\Github\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\PAWB.Domain.csproj",
         "projectName": "PAWB.Domain",
-        "projectPath": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\PAWB.Domain.csproj",
-        "packagesPath": "C:\\Users\\ejfco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ejfco\\Documents\\GitHub\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\obj\\",
+        "projectPath": "C:\\Users\\bstampe2\\Github\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\PAWB.Domain.csproj",
+        "packagesPath": "C:\\Users\\bstampe2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bstampe2\\Github\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ejfco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bstampe2\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -170,7 +170,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
