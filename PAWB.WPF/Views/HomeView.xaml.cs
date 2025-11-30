@@ -4,8 +4,10 @@ using PAWB.Domain.Model;
 using PAWB.EntityFramework;
 using PAWB.EntityFramework.Services;
 using PAWB.WPF.Models;
+using PAWB.WPF.ViewModels;
 using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -58,23 +60,36 @@ namespace PAWB.WPF.Views
         {
             try
             {
+                // Find the logged-in user's username via MainViewModel -> Authenticator -> CurrentAccount
+                var mainVm = Application.Current?.MainWindow?.DataContext as MainViewModel;
+                var currentAccount = mainVm?.Authenticator?.CurrentAccount;
+                if (currentAccount == null || currentAccount.AccountHolder == null)
+                {
+                    // Not logged in — clear items and return
+                    await Application.Current.Dispatcher.InvokeAsync(() => Items.Clear());
+                    return;
+                }
+
+                string username = currentAccount.AccountHolder.Username;
+
                 var factory = new PAWBDbContextFactory();
                 using var ctx = factory.CreateDbContext();
 
-                // Project only the scalar fields we need; this stops EF from deserializing the JSON collection column
-                var items = await ctx.Entrys
+                // Project only needed fields. Filter by owner username to return only entries for the logged-in user.
+                var results = await ctx.Entrys
                     .AsNoTracking()
+                    .Where(e => e.Owner != null && e.Owner.Username == username)
                     .Select(e => new InfoItem
                     {
                         Title = e.Title,
-                        Description = e.Username // or e.Email
+                        Description = e.Username // change to e.Email or e.Note if desired
                     })
                     .ToListAsync();
 
                 await Application.Current.Dispatcher.InvokeAsync(() =>
                 {
                     Items.Clear();
-                    foreach (var it in items)
+                    foreach (var it in results)
                     {
                         Items.Add(it);
                     }
@@ -88,21 +103,12 @@ namespace PAWB.WPF.Views
 
         private void DetailButton_Click(object sender, RoutedEventArgs e)
         {
-            /*
-            Button btn = sender as Button;
-            InfoItem item = btn.DataContext as InfoItem;
-
-            DetailWindow window = new DetailWindow(item);
-            window.ShowDialog();
-            */
-
             var item = (sender as FrameworkElement)?.DataContext as InfoItem;
             if (item != null)
             {
                 var win = new DetailWindow(item);
                 win.ShowDialog();
             }
-
         }
 
         private void OnToggleButtonChecked(object sender, RoutedEventArgs e)

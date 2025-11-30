@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PAWB.WPF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f86eaa57f5f9a2dcad5d623aeb70e056e1e5bdd7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25d825a07c6ffab2009c3a7d180401e952d2ec1b")]
 [assembly: System.Reflection.AssemblyProductAttribute("PAWB.WPF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PAWB.WPF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
