@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\source\\repos\\ironwolftameruccs\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PAWB/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
@@ -64,10 +68,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{39D43BBD-751F-41AA-963A-F2C183037289}|PAWB.EntityFramework\\PAWB.EntityFramework.csproj|c:\\users\\caleb\\source\\repos\\ironwolftameruccs\\pawb_cs3300_group_project_fall2025\\pawb.entityframework\\pawbdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39D43BBD-751F-41AA-963A-F2C183037289}|PAWB.EntityFramework\\PAWB.EntityFramework.csproj|solutionrelative:pawb.entityframework\\pawbdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\source\\repos\\ironwolftameruccs\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\caleb\\source\\repos\\ironwolftameruccs\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -161,7 +161,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -174,42 +174,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "SignUpModel.cs",
-              "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\SignUpModel.cs",
-              "RelativeDocumentMoniker": "PAWB.WPF\\ViewModels\\SignUpModel.cs",
-              "ToolTip": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\SignUpModel.cs",
-              "RelativeToolTip": "PAWB.WPF\\ViewModels\\SignUpModel.cs",
-              "ViewState": "AgIAAEsAAAAAMjMzMzMTwFkAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T00:44:08.057Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "dbo.Users [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PAWB/True/SqlTable/dbo.Users.sql",
-              "ToolTip": "dbo.Users [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-11-30T00:23:39.468Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AuthenticationService.cs",
-              "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\Services\\AuthenticationServices\\AuthenticationService.cs",
-              "RelativeDocumentMoniker": "PAWB.Domain\\Services\\AuthenticationServices\\AuthenticationService.cs",
-              "ToolTip": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\Services\\AuthenticationServices\\AuthenticationService.cs",
-              "RelativeToolTip": "PAWB.Domain\\Services\\AuthenticationServices\\AuthenticationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T22:29:26.021Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\App.xaml.cs",
               "RelativeDocumentMoniker": "PAWB.WPF\\App.xaml.cs",
@@ -217,8 +181,7 @@
               "RelativeToolTip": "PAWB.WPF\\App.xaml.cs",
               "ViewState": "AgIAAC8AAAAAAAAAAABkvUEAAAByAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T22:29:26.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-06T22:29:26.042Z"
             },
             {
               "$type": "Document",
@@ -234,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "UpdateCurrentViewModelCommand.cs",
               "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Commands\\UpdateCurrentViewModelCommand.cs",
               "RelativeDocumentMoniker": "PAWB.WPF\\Commands\\UpdateCurrentViewModelCommand.cs",
@@ -246,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "HomeView.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\HomeView.xaml.cs",
               "RelativeDocumentMoniker": "PAWB.WPF\\Views\\HomeView.xaml.cs",
@@ -258,7 +221,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PAWB.WPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PAWB.WPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwPRgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T22:38:10.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\Services\\AuthenticationServices\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "PAWB.Domain\\Services\\AuthenticationServices\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\Services\\AuthenticationServices\\AuthenticationService.cs",
+              "RelativeToolTip": "PAWB.Domain\\Services\\AuthenticationServices\\AuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T22:29:26.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.Users.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PAWB/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PAWB/True/SqlTable/dbo.Users.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-30T00:23:39.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SignUpModel.cs",
+              "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\SignUpModel.cs",
+              "RelativeDocumentMoniker": "PAWB.WPF\\ViewModels\\SignUpModel.cs",
+              "ToolTip": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\SignUpModel.cs",
+              "RelativeToolTip": "PAWB.WPF\\ViewModels\\SignUpModel.cs",
+              "ViewState": "AgIAAEsAAAAAMjMzMzMTwFkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T00:44:08.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "HomeView.xaml",
               "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\HomeView.xaml",
               "RelativeDocumentMoniker": "PAWB.WPF\\Views\\HomeView.xaml",
@@ -269,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "DetailWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\DetailWindow.xaml",
               "RelativeDocumentMoniker": "PAWB.WPF\\Views\\DetailWindow.xaml",
@@ -280,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "RenavigateCommand.cs",
               "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Commands\\RenavigateCommand.cs",
               "RelativeDocumentMoniker": "PAWB.WPF\\Commands\\RenavigateCommand.cs",
@@ -288,12 +298,11 @@
               "RelativeToolTip": "PAWB.WPF\\Commands\\RenavigateCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T23:35:45.158Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-29T23:35:45.158Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "LoginCommand.cs",
               "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Commands\\LoginCommand.cs",
               "RelativeDocumentMoniker": "PAWB.WPF\\Commands\\LoginCommand.cs",
@@ -305,7 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ViewModelDelegateRenavigator.cs",
               "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Navigators\\ViewModelDelegateRenavigator.cs",
               "RelativeDocumentMoniker": "PAWB.WPF\\State\\Navigators\\ViewModelDelegateRenavigator.cs",
@@ -317,19 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "PAWB.WPF\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\MainWindow.xaml.cs",
-              "RelativeToolTip": "PAWB.WPF\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAUwCYAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T22:38:10.333Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "SignUp.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\SignUp.xaml.cs",
               "RelativeDocumentMoniker": "PAWB.WPF\\Views\\SignUp.xaml.cs",
@@ -341,7 +338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "whitegreycursorpaw.cur - Cursor [32x32, 32 bit, BMP]",
               "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Cursors\\whitegreycursorpaw.cur",
               "RelativeDocumentMoniker": "PAWB.WPF\\Cursors\\whitegreycursorpaw.cur",
@@ -353,7 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "PAWBDbContextFactory.cs",
               "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\PAWBDbContextFactory.cs",
               "RelativeDocumentMoniker": "PAWB.EntityFramework\\PAWBDbContextFactory.cs",
@@ -365,7 +362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "LoginView.xaml",
               "DocumentMoniker": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\LoginView.xaml",
               "RelativeDocumentMoniker": "PAWB.WPF\\Views\\LoginView.xaml",

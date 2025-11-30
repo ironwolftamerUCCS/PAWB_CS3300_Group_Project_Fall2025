@@ -17,12 +17,12 @@
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
 
-        <Grid Grid.Row="0">
+        <Grid Grid.Row="0" Visibility="Collapsed">
             <Grid.Style>
                 <Style TargetType="Grid">
                     <Style.Triggers>
                         <DataTrigger Binding="{Binding Authenticator.IsLoggedIn}" Value="True">
-                            <Setter Property="Visibility" Value="Collapsed"/>
+                            
                         </DataTrigger>
                     </Style.Triggers>
                 </Style>
