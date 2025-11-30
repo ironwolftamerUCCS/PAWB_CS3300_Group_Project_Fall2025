@@ -40,15 +40,15 @@ namespace PAWB.WPF.Commands
             }
             catch (UserNotFoundException)
             {
-                _loginViewModel.Message = 
+                _loginViewModel.ErrorMessage = "Username does not exist.";
             }
             catch (InvalidPasswordException)
             {
-
+                _loginViewModel.ErrorMessage = "Password is incorrect.";
             }
             catch (Exception)
             {
-
+                _loginViewModel.ErrorMessage = "Login failed.";
             }
         }
     }

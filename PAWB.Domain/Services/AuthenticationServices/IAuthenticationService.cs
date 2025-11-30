@@ -17,6 +17,14 @@ namespace PAWB.Domain.Services.AuthenticationServices
     public interface IAuthenticationService
     {
         Task<RegistrationResult> Resister(string email, string username, string password, string confirmPassword);
+        /// <summary>
+        /// Get an acount for a user's credentials
+        /// </summary>
+        /// <param name="username"></param>
+        /// <param name="password"></param>
+        /// <exception cref="UserNotFoundException">Thrown if the user does not exist</exception>
+        /// <exception cref="InvalidPasswordException">Thrown if the password is invalid</exception>
+        /// <exception cref="Exception">Thrown if the login fails</exception>
         Task<Account> Login(string username, string password);
     }
 }

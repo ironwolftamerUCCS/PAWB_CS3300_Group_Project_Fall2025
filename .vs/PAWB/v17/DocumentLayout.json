@@ -1,10 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\bstampe2\\Github\\PAWB_CS3300_Group_Project_Fall2025\\",
+  "WorkspaceRootPath": "D:\\Github\\PAWB\\PAWB_CS3300_Group_Project_Fall2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|c:\\users\\bstampe2\\github\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\commands\\renavigatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\commands\\renavigatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|d:\\github\\pawb\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\commands\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\commands\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|d:\\github\\pawb\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C053A8A-1F53-425C-B79C-0E9AADF6969F}|PAWB.Domain\\PAWB.Domain.csproj|d:\\github\\pawb\\pawb_cs3300_group_project_fall2025\\pawb.domain\\services\\authenticationservices\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C053A8A-1F53-425C-B79C-0E9AADF6969F}|PAWB.Domain\\PAWB.Domain.csproj|solutionrelative:pawb.domain\\services\\authenticationservices\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|d:\\github\\pawb\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\state\\authenticators\\authenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\state\\authenticators\\authenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|d:\\github\\pawb\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\state\\authenticators\\iauthenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\state\\authenticators\\iauthenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C053A8A-1F53-425C-B79C-0E9AADF6969F}|PAWB.Domain\\PAWB.Domain.csproj|d:\\github\\pawb\\pawb_cs3300_group_project_fall2025\\pawb.domain\\services\\authenticationservices\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C053A8A-1F53-425C-B79C-0E9AADF6969F}|PAWB.Domain\\PAWB.Domain.csproj|solutionrelative:pawb.domain\\services\\authenticationservices\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,20 +37,81 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\Github\\PAWB\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "PAWB.WPF\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "D:\\Github\\PAWB\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "PAWB.WPF\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T06:05:37.661Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RenavigateCommand.cs",
-              "DocumentMoniker": "C:\\Users\\bstampe2\\Github\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Commands\\RenavigateCommand.cs",
-              "RelativeDocumentMoniker": "PAWB.WPF\\Commands\\RenavigateCommand.cs",
-              "ToolTip": "C:\\Users\\bstampe2\\Github\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Commands\\RenavigateCommand.cs",
-              "RelativeToolTip": "PAWB.WPF\\Commands\\RenavigateCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Title": "LoginCommand.cs",
+              "DocumentMoniker": "D:\\Github\\PAWB\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Commands\\LoginCommand.cs",
+              "RelativeDocumentMoniker": "PAWB.WPF\\Commands\\LoginCommand.cs",
+              "ToolTip": "D:\\Github\\PAWB\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Commands\\LoginCommand.cs",
+              "RelativeToolTip": "PAWB.WPF\\Commands\\LoginCommand.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCIAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T23:35:45.158Z",
+              "WhenOpened": "2025-11-30T06:05:09.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAuthenticationService.cs",
+              "DocumentMoniker": "D:\\Github\\PAWB\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\Services\\AuthenticationServices\\IAuthenticationService.cs",
+              "RelativeDocumentMoniker": "PAWB.Domain\\Services\\AuthenticationServices\\IAuthenticationService.cs",
+              "ToolTip": "D:\\Github\\PAWB\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\Services\\AuthenticationServices\\IAuthenticationService.cs",
+              "RelativeToolTip": "PAWB.Domain\\Services\\AuthenticationServices\\IAuthenticationService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T05:58:44.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "D:\\Github\\PAWB\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\Services\\AuthenticationServices\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "PAWB.Domain\\Services\\AuthenticationServices\\AuthenticationService.cs",
+              "ToolTip": "D:\\Github\\PAWB\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\Services\\AuthenticationServices\\AuthenticationService.cs",
+              "RelativeToolTip": "PAWB.Domain\\Services\\AuthenticationServices\\AuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T05:58:43.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAuthenticator.cs",
+              "DocumentMoniker": "D:\\Github\\PAWB\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Authenticators\\IAuthenticator.cs",
+              "RelativeDocumentMoniker": "PAWB.WPF\\State\\Authenticators\\IAuthenticator.cs",
+              "ToolTip": "D:\\Github\\PAWB\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Authenticators\\IAuthenticator.cs",
+              "RelativeToolTip": "PAWB.WPF\\State\\Authenticators\\IAuthenticator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T05:58:33.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Authenticator.cs",
+              "DocumentMoniker": "D:\\Github\\PAWB\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Authenticators\\Authenticator.cs",
+              "RelativeDocumentMoniker": "PAWB.WPF\\State\\Authenticators\\Authenticator.cs",
+              "ToolTip": "D:\\Github\\PAWB\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\State\\Authenticators\\Authenticator.cs",
+              "RelativeToolTip": "PAWB.WPF\\State\\Authenticators\\Authenticator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T05:58:32.761Z",
               "EditorCaption": ""
             }
           ]

@@ -41,7 +41,16 @@
 
         <Image Source="/Images/LoginPawble.png" Width="280" Grid.Column="1" Margin="524,236,0,-244" Grid.Row="2"/>
 
-        <TextBlock Grid.Row="2" Text="{Binding Message}" HorizontalAlignment="Left" Foreground="DarkRed" Grid.Column="1" Width="auto"  TextAlignment="Center" Margin="389,429,0,-204" Visibility="{Binding HasMessage, Converter={StaticResource BooleanToVisibilityConverter}}"/>
+        <TextBlock 
+            Grid.Row="2" 
+            Text="{Binding Message}" 
+            HorizontalAlignment="Left" 
+            Foreground="DarkRed" 
+            Grid.Column="1" 
+            Width="auto"  
+            TextAlignment="Center" 
+            Margin="389,429,0,-204" 
+            Visibility="{Binding HasMessage, Converter={StaticResource BooleanToVisibilityConverter}}"/>
 
     </Grid>
 </UserControl>
