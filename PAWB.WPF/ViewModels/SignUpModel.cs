@@ -1,12 +1,16 @@
-﻿using PAWB.Domain.Model;
+﻿using Microsoft.EntityFrameworkCore;
+using PAWB.Domain.Model;
 using PAWB.EntityFramework;
 using PAWB.EntityFramework.Services;
 using PAWB.WPF.Commands;
+using PAWB.WPF.State.Navigators;
 using System;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Input;
 using Microsoft.EntityFrameworkCore;
+using PAWB.WPF.ViewModels;
+using PAWB.WPF.State.Navigators;
 
 namespace PAWB.WPF.ViewModels
 {
@@ -72,6 +76,15 @@ namespace PAWB.WPF.ViewModels
                 var userCount = await ctx.Users.CountAsync();
 
                 StatusMessage = $"Account created (Id={created.Id}). Users in DB: {userCount}.";
+
+
+                // Redirect to the Login view by invoking the MainViewModel's navigation command.
+                var mainVm = Application.Current?.MainWindow?.DataContext as MainViewModel;
+                
+                // Use the existing command to switch views
+                mainVm.UpdateCurrentViewModelCommand.Execute(ViewType.Login);
+                
+
             }
             catch (Exception ex)
             {
