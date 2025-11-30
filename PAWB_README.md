@@ -18,7 +18,7 @@ This README provides step-by-step instructions for installing, configuring, runn
 - Operating System: Windows 11
 - IDE: Visual Studio 2022
 - Required Libraries (Included in Repository):
-  - Microsoft.EntityFrameworkCore.Design
+  - Microsoft.EntityFrameworkCore
   - .NET Desktop Development workload
 
 ## 3. Installation Instructions
@@ -46,9 +46,10 @@ https://github.com/ironwolftamerUCCS/PAWB_CS3300_Group_Project_Fall2025.git
 If not automatic, Navigate to the following:
 - Tools → NuGet Package Manager → Restore NuGet Packages
 
-## 4. Configuration
-
-No additional configuration is required. Database structures load automatically.
+## 4. Database First Time Setup
+1.	Navigate to tools -> NuGet Package manager -> Package Manager Console
+2.	Change default project to “PAWB.EntityFramework" in the Package Manager Console
+3.	Execute the command “update-database” in the Package Manager Console
 
 ## 5. Executing the Software
 
