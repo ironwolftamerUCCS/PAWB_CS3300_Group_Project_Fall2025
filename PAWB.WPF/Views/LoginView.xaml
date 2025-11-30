@@ -10,7 +10,7 @@
     <UserControl.Resources>
         <BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter"/>
     </UserControl.Resources>
-    
+
     <Grid Background="#FFB8FFCE">
 
         <Grid.RowDefinitions>
@@ -44,12 +44,13 @@
         <TextBlock 
             Grid.Row="2" 
             Text="{Binding Message}" 
-            HorizontalAlignment="Left" 
+            DataContext="{Binding ErrorMessageViewModel}"
+            HorizontalAlignment="Center" 
             Foreground="DarkRed" 
             Grid.Column="1" 
             Width="auto"  
             TextAlignment="Center" 
-            Margin="389,429,0,-204" 
+            Margin="-20,293,0,-67" 
             Visibility="{Binding HasMessage, Converter={StaticResource BooleanToVisibilityConverter}}"/>
 
     </Grid>

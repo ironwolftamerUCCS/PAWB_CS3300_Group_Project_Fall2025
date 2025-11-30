@@ -37,6 +37,8 @@ namespace PAWB.WPF.ViewModels
 
         public LoginViewModel(IAuthenticator authenticator, IRenavigator renavigator)
         {
+            ErrorMessageViewModel = new MessageViewModel();
+
             LoginCommand = new LoginCommand(this, authenticator, renavigator);
         }
     }
