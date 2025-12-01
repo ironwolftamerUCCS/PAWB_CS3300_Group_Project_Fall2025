@@ -1401,3 +1401,4 @@ D:\Github\PAWB\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-wind
 D:\Github\PAWB\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.pdb
 D:\Github\PAWB\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.genruntimeconfig.cache
 D:\Github\PAWB\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\ref\PAWB.WPF.dll
+D:\Github\PAWB\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\PasswordBoxMVVM.dll

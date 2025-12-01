@@ -1,0 +1,13 @@
+D:\Github\PAWB\PAWB_CS3300_Group_Project_Fall2025\PAWB.Domain\bin\Debug\net9.0-windows\PAWB.Domain.deps.json
+D:\Github\PAWB\PAWB_CS3300_Group_Project_Fall2025\PAWB.Domain\bin\Debug\net9.0-windows\PAWB.Domain.dll
+D:\Github\PAWB\PAWB_CS3300_Group_Project_Fall2025\PAWB.Domain\bin\Debug\net9.0-windows\PAWB.Domain.pdb
+D:\Github\PAWB\PAWB_CS3300_Group_Project_Fall2025\PAWB.Domain\obj\Debug\net9.0-windows\PAWB.Domain.csproj.AssemblyReference.cache
+D:\Github\PAWB\PAWB_CS3300_Group_Project_Fall2025\PAWB.Domain\obj\Debug\net9.0-windows\PAWB.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\PAWB\PAWB_CS3300_Group_Project_Fall2025\PAWB.Domain\obj\Debug\net9.0-windows\PAWB.Domain.AssemblyInfoInputs.cache
+D:\Github\PAWB\PAWB_CS3300_Group_Project_Fall2025\PAWB.Domain\obj\Debug\net9.0-windows\PAWB.Domain.AssemblyInfo.cs
+D:\Github\PAWB\PAWB_CS3300_Group_Project_Fall2025\PAWB.Domain\obj\Debug\net9.0-windows\PAWB.Domain.csproj.CoreCompileInputs.cache
+D:\Github\PAWB\PAWB_CS3300_Group_Project_Fall2025\PAWB.Domain\obj\Debug\net9.0-windows\PAWB.Domain.sourcelink.json
+D:\Github\PAWB\PAWB_CS3300_Group_Project_Fall2025\PAWB.Domain\obj\Debug\net9.0-windows\PAWB.Domain.dll
+D:\Github\PAWB\PAWB_CS3300_Group_Project_Fall2025\PAWB.Domain\obj\Debug\net9.0-windows\refint\PAWB.Domain.dll
+D:\Github\PAWB\PAWB_CS3300_Group_Project_Fall2025\PAWB.Domain\obj\Debug\net9.0-windows\PAWB.Domain.pdb
+D:\Github\PAWB\PAWB_CS3300_Group_Project_Fall2025\PAWB.Domain\obj\Debug\net9.0-windows\ref\PAWB.Domain.dll

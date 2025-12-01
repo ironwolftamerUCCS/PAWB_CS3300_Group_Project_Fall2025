@@ -988,6 +988,18 @@
           "buildTransitive/Mono.TextTemplating.targets": {}
         }
       },
+      "PasswordBoxMVVM/1.0.5": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/PasswordBoxMVVM.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/PasswordBoxMVVM.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
       "System.ClientModel/1.0.0": {
         "type": "package",
         "dependencies": {
@@ -3540,6 +3552,18 @@
         "readme.md"
       ]
     },
+    "PasswordBoxMVVM/1.0.5": {
+      "sha512": "NeUoGEBKjrYotXuLdSmEsglUhofPNgf6Hd6g7R64R+Iail4+ANzkNRsrcq/euYMlurFkC7MUtUJvesdU20Cycg==",
+      "type": "package",
+      "path": "passwordboxmvvm/1.0.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netcoreapp3.1/PasswordBoxMVVM.dll",
+        "passwordboxmvvm.1.0.5.nupkg.sha512",
+        "passwordboxmvvm.nuspec"
+      ]
+    },
     "System.ClientModel/1.0.0": {
       "sha512": "I3CVkvxeqFYjIVEP59DnjbeoGNfo/+SZrCLpRz2v/g0gpCHaEMPtWSY0s9k/7jR1rAsLNg2z2u1JRB76tPjnIw==",
       "type": "package",
@@ -4742,7 +4766,8 @@
       "Microsoft.EntityFrameworkCore.Design >= 9.0.11",
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.10",
       "PAWB.Domain >= 1.0.0",
-      "PAWB.EntityFramework >= 1.0.0"
+      "PAWB.EntityFramework >= 1.0.0",
+      "PasswordBoxMVVM >= 1.0.5"
     ]
   },
   "packageFolders": {
@@ -4811,6 +4836,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
             "version": "[9.0.10, )"
+          },
+          "PasswordBoxMVVM": {
+            "target": "Package",
+            "version": "[1.0.5, )"
           }
         },
         "imports": [

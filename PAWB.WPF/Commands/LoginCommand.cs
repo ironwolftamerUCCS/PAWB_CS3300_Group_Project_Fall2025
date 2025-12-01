@@ -34,9 +34,13 @@ namespace PAWB.WPF.Commands
 
         public async void Execute(object? parameter)
         {
+            _loginViewModel.ErrorMessage = String.Empty;
+
             try
             {
                 await _authenticator.Login(_loginViewModel.Username, parameter.ToString());
+
+                _renavigator.Renavigate();
             }
             catch (UserNotFoundException)
             {

@@ -1,11 +1,10 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore;
 using PAWB.Domain.Model;
 using PAWB.Domain.Services.AuthenticationServices;
 using PAWB.EntityFramework;
 using PAWB.EntityFramework.Services;
 using PAWB.WPF.Commands;
-using PAWB.WPF.State.Navigators;
+using PAWB.WPF.State.Authenticators;
 using PAWB.WPF.State.Navigators;
 using PAWB.WPF.ViewModels;
 using System;
@@ -17,81 +16,78 @@ namespace PAWB.WPF.ViewModels
 {
     public class SignUpModel : ViewModelBase
     {
-        private readonly IAuthenticationService _authenticationService;
+        private string _email;
+        public string Email 
+        { 
+            get 
+            { 
+                return _email; 
+            } 
+            set 
+            { 
+                _email = value; 
+                OnPropertyChanged(nameof(Email));
+            } 
+        }
 
-        private string _statusMessage = string.Empty;
-        public string StatusMessage
+        private string _username;
+        public string Username
         {
-            get => _statusMessage;
+            get 
+            {
+                return _username; 
+            }
+            set 
+            { 
+                _username = value; 
+                OnPropertyChanged(nameof(Username)); 
+            }
+        }
+
+        private string _password;
+        public string Password
+        {
+            get
+            {
+                return _password;
+            }
             set
             {
-                _statusMessage = value;
-                OnPropertyChanged(nameof(StatusMessage));
+                _password = value;
+                OnPropertyChanged(nameof(Password));
+            }
+        }
+
+        private string _confirmPassword;
+        public string ConfirmPassword
+        {
+            get
+            {
+                return _confirmPassword;
+            }
+            set
+            {
+                _confirmPassword = value;
+                OnPropertyChanged(nameof(ConfirmPassword));
             }
         }
 
         public ICommand SignUpCommand { get; }
 
-        public SignUpModel(IAuthenticationService authenticationService)
+        public ICommand ViewLoginCommand { get; }
+
+        public MessageViewModel ErrorMessageViewModel { get; }
+        public string ErrorMessage
         {
-            // Simple command that expects the SignUp UserControl to call with object[] { email, username, password }
-
-            _authenticationService = authenticationService ?? throw new ArgumentNullException(nameof(authenticationService));
-
-            SignUpCommand = new DelegateCommand(ExecuteSignUpAsync);
+            set => ErrorMessageViewModel.Message = value;
         }
 
-        private async Task ExecuteSignUpAsync(object parameter)
+        public SignUpModel(IAuthenticator authenticator, IRenavigator signUpRenavigator, IRenavigator loginRenavigator)
         {
-            try
-            {
-                StatusMessage = string.Empty;
+            ErrorMessageViewModel = new MessageViewModel();
 
-                if (parameter is not object[] payload || payload.Length < 3)
-                {
-                    StatusMessage = "Invalid signup payload.";
-                    return;
-                }
-
-                string email = payload[0] as string ?? string.Empty;
-                string username = payload[1] as string ?? string.Empty;
-                string password = payload[2] as string ?? string.Empty;
-
-                if (string.IsNullOrWhiteSpace(username) || string.IsNullOrWhiteSpace(email) || string.IsNullOrWhiteSpace(password))
-                {
-                    StatusMessage = "All fields are required.";
-                    return;
-                }
-
-                // Use AuthenticationService.Resister to create the Account/User
-                var result = await _authenticationService.Resister(email, username, password, password);
-
-                switch (result)
-                {
-                    case RegistrationResult.Success:
-                        StatusMessage = "Account created. Redirecting to login...";
-                        // navigate to login using MainViewModel like before
-                        var mainVm = System.Windows.Application.Current?.MainWindow?.DataContext as MainViewModel;
-                        mainVm?.UpdateCurrentViewModelCommand.Execute(ViewType.Login);
-                        break;
-                    case RegistrationResult.PasswordsDoNotMatch:
-                        StatusMessage = "Passwords do not match.";
-                        break;
-                    case RegistrationResult.EmailAlreadyExists:
-                        StatusMessage = "Email already exists.";
-                        break;
-                    case RegistrationResult.UsernameAlreadyExists:
-                        StatusMessage = "Username already exists.";
-                        break;
-                    default:
-                        StatusMessage = "Registration failed.";
-                        break;
-                }
-            }
-            catch (Exception ex)
-            {
-                StatusMessage = $"Failed to create account: {ex.GetType().Name}: {ex.Message}";
-            }
+            SignUpCommand = new SignUpCommand(this, authenticator, signUpRenavigator);
+            ViewLoginCommand = new RenavigateCommand(loginRenavigator);
         }
     }
 }

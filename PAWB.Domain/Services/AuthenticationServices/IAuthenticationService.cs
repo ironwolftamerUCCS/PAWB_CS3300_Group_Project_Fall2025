@@ -17,7 +17,7 @@ namespace PAWB.Domain.Services.AuthenticationServices
     }
     public interface IAuthenticationService
     {
-        Task<RegistrationResult> Resister(string email, string username, string password, string confirmPassword);
+        Task<RegistrationResult> Register(string email, string username, string password, string confirmPassword);
         /// <summary>
         /// Get an acount for a user's credentials
         /// </summary>

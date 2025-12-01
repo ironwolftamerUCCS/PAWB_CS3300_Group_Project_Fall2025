@@ -49,7 +49,7 @@ namespace PAWB.WPF.State.Authenticators
 
         public async Task<RegistrationResult> Register(string email, string username, string password, string confirmPassword)
         {
-            return await _authenticationService.Resister(email, username, password, confirmPassword);
+            return await _authenticationService.Register(email, username, password, confirmPassword);
         }
     }
 }

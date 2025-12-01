@@ -731,6 +731,14 @@
           }
         }
       },
+      "PasswordBoxMVVM/1.0.5": {
+        "runtime": {
+          "lib/netcoreapp3.1/PasswordBoxMVVM.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "System.ClientModel/1.0.0": {
         "dependencies": {
           "System.Memory.Data": "1.0.2",
@@ -1436,6 +1444,13 @@
       "sha512": "sha512-YqueG52R/Xej4VVbKuRIodjiAhV0HR/XVbLbNrJhCZnzjnSjgMJ/dCdV0akQQxavX6hp/LC6rqLGLcXeQYU7XA==",
       "path": "mono.texttemplating/3.0.0",
       "hashPath": "mono.texttemplating.3.0.0.nupkg.sha512"
+    },
+    "PasswordBoxMVVM/1.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NeUoGEBKjrYotXuLdSmEsglUhofPNgf6Hd6g7R64R+Iail4+ANzkNRsrcq/euYMlurFkC7MUtUJvesdU20Cycg==",
+      "path": "passwordboxmvvm/1.0.5",
+      "hashPath": "passwordboxmvvm.1.0.5.nupkg.sha512"
     },
     "System.ClientModel/1.0.0": {
       "type": "package",

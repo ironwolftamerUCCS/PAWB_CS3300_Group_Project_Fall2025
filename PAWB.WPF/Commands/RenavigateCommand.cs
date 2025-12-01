@@ -8,11 +8,11 @@ using System.Windows.Input;
 
 namespace PAWB.WPF.Commands
 {
-    public class RegnavigateCommand : ICommand
+    public class RenavigateCommand : ICommand
     {
         private readonly IRenavigator _renavigator;
 
-        public RegnavigateCommand(IRenavigator renavigator)
+        public RenavigateCommand(IRenavigator renavigator)
         {
             _renavigator = renavigator;
         }
