@@ -16,7 +16,7 @@ namespace PAWB.WPF.ViewModels
 {
     public class SignUpModel : ViewModelBase
     {
-        private string _email;
+        private string _email; 
         public string Email 
         { 
             get 

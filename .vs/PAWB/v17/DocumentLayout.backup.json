@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Github\\PAWB\\PAWB_CS3300_Group_Project_Fall2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|d:\\github\\pawb\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\views\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\views\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|d:\\github\\pawb\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\viewmodels\\signupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\viewmodels\\signupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|d:\\github\\pawb\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\commands\\signupcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\commands\\signupcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|d:\\github\\pawb\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\views\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|solutionrelative:pawb.wpf\\views\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1CCFA1A7-D06F-48CB-9BE8-D726ABF55C74}|PAWB.WPF\\PAWB.WPF.csproj|d:\\github\\pawb\\pawb_cs3300_group_project_fall2025\\pawb.wpf\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 231,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -68,26 +68,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "SignUpCommand.cs",
               "DocumentMoniker": "D:\\Github\\PAWB\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Commands\\SignUpCommand.cs",
               "RelativeDocumentMoniker": "PAWB.WPF\\Commands\\SignUpCommand.cs",
               "ToolTip": "D:\\Github\\PAWB\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Commands\\SignUpCommand.cs",
               "RelativeToolTip": "PAWB.WPF\\Commands\\SignUpCommand.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-01T04:16:20.365Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "SignUpModel.cs",
               "DocumentMoniker": "D:\\Github\\PAWB\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\SignUpModel.cs",
               "RelativeDocumentMoniker": "PAWB.WPF\\ViewModels\\SignUpModel.cs",
               "ToolTip": "D:\\Github\\PAWB\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\SignUpModel.cs",
               "RelativeToolTip": "PAWB.WPF\\ViewModels\\SignUpModel.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAlwDsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-01T04:08:35.711Z",
               "EditorCaption": ""
@@ -107,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "SignUp.xaml",
               "DocumentMoniker": "D:\\Github\\PAWB\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\SignUp.xaml",
               "RelativeDocumentMoniker": "PAWB.WPF\\Views\\SignUp.xaml",

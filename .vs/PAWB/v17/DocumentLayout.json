@@ -50,8 +50,7 @@
               "RelativeToolTip": "PAWB.WPF\\State\\Authenticators\\Authenticator.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAiwCkAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T04:18:23.877Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T04:18:23.877Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "PAWB.Domain\\Services\\AuthenticationServices\\IAuthenticationService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAiwBMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T04:17:51.841Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T04:17:51.841Z"
             },
             {
               "$type": "Document",
@@ -76,8 +74,7 @@
               "RelativeToolTip": "PAWB.WPF\\Commands\\SignUpCommand.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T04:16:20.365Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T04:16:20.365Z"
             },
             {
               "$type": "Document",
@@ -87,7 +84,7 @@
               "RelativeDocumentMoniker": "PAWB.WPF\\ViewModels\\SignUpModel.cs",
               "ToolTip": "D:\\Github\\PAWB\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\ViewModels\\SignUpModel.cs",
               "RelativeToolTip": "PAWB.WPF\\ViewModels\\SignUpModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-01T04:08:35.711Z",
               "EditorCaption": ""
@@ -102,8 +99,7 @@
               "RelativeToolTip": "PAWB.Domain\\Services\\AuthenticationServices\\AuthenticationService.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T03:45:25.437Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T03:45:25.437Z"
             },
             {
               "$type": "Document",
@@ -114,8 +110,7 @@
               "ToolTip": "D:\\Github\\PAWB\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\SignUp.xaml",
               "RelativeToolTip": "PAWB.WPF\\Views\\SignUp.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-01T03:23:06.065Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T03:23:06.065Z"
             },
             {
               "$type": "Document",
@@ -126,8 +121,7 @@
               "ToolTip": "D:\\Github\\PAWB\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\Views\\LoginView.xaml",
               "RelativeToolTip": "PAWB.WPF\\Views\\LoginView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-01T04:24:01.873Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T04:24:01.873Z"
             }
           ]
         }
