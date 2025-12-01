@@ -85,10 +85,24 @@
         <!-- Add Entry Button -->
         <Button Content="Add Account" Click="OpenAddEntryPopup_Click" Background="Beige" Foreground="Black" BorderBrush="#69a17a" Width="99" Height="30" Margin="200,12,501,408" FontFamily="Arial Rounded MT Bold" HorizontalAlignment="Left" VerticalAlignment="Top">
             <Button.Template>
+                <!-- Rounded Corners -->
                 <ControlTemplate TargetType="Button">
-                    <Border CornerRadius="12" Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" TextElement.Foreground="{TemplateBinding Foreground}">
+                    <Border x:Name="border" CornerRadius="12" Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" TextElement.Foreground="{TemplateBinding Foreground}">
                         <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
                     </Border>
+
+                    <!-- Hover Color Button Effects -->
+                    <ControlTemplate.Triggers>
+                        <!-- MouseOver trigger, color becomes lighter-->
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter TargetName="border" Property="Background" Value="#FFD9CFA6"/>
+                        </Trigger>
+
+                        <!-- Click trigger, color is darker -->
+                        <Trigger Property="IsPressed" Value="True">
+                            <Setter TargetName="border" Property="Background" Value="#FFCFA67A"/>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
                 </ControlTemplate>
             </Button.Template>
         </Button>
@@ -97,9 +111,23 @@
         <Button Content="Logout" Click="OpenLoginScreen_Click" Background="Beige" Foreground="#FFE17A82" BorderBrush="#69a17a" Width="99" Height="30" FontFamily="Showcard Gothic" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,5,10,5">
             <Button.Template>
                 <ControlTemplate TargetType="Button">
-                    <Border CornerRadius="12" Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" TextElement.Foreground="{TemplateBinding Foreground}">
+                    <!-- Rounded Corners -->
+                    <Border x:Name="border" CornerRadius="12" Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" TextElement.Foreground="{TemplateBinding Foreground}">
                         <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
                     </Border>
+
+                    <!-- Hover Color Button Effects -->
+                    <ControlTemplate.Triggers>
+                        <!-- MouseOver trigger, color becomes lighter-->
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter TargetName="border" Property="Background" Value="#FFD9CFA6"/>
+                        </Trigger>
+
+                        <!-- Click trigger, color is darker -->
+                        <Trigger Property="IsPressed" Value="True">
+                            <Setter TargetName="border" Property="Background" Value="#FFCFA67A"/>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
                 </ControlTemplate>
             </Button.Template>
         </Button>
