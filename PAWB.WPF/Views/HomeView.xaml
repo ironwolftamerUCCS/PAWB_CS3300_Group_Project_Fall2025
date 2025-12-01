@@ -9,14 +9,15 @@
              d:DesignHeight="450" d:DesignWidth="800">
 
 
+
     <Grid Grid.Row="1">
 
         <!-- Cursor -->
         <WrapPanel Margin="0,410,0,0" HorizontalAlignment="Left" VerticalAlignment="Bottom">
-            <Button Content="Grey Paw" Margin="5 10" Background="Beige" x:Name="btnGrey" Click="btnGrey_Click" FontFamily="Arial Rounded MT Bold" BorderBrush="#69a17a"/>
-            <Button Content="Brown Paw" Margin="5 10" Background="Beige" x:Name="btnBrown" Click="btnBrown_Click" FontFamily="Arial Rounded MT Bold" BorderBrush="#69a17a"/>
-            <Button Content="WhiteGrey Paw" Margin="5 10" Background="Beige" x:Name="btnWhiteGrey" Click="btnWhiteGrey_Click" FontFamily="Arial Rounded MT Bold" BorderBrush="#69a17a"/>
-            <Button Content="TriGrey Paw" Margin="5 10" Background="Beige" x:Name="btnTriGrey" Click="btnTriGrey_Click" FontFamily="Arial Rounded MT Bold" BorderBrush="#69a17a"/>
+            <Button Content="Grey Paw" Margin="5 10" Background="Beige" x:Name="btnGrey" Click="btnGrey_Click"/>
+            <Button Content="Brown Paw" Margin="5 10" Background="Beige" x:Name="btnBrown" Click="btnBrown_Click"/>
+            <Button Content="WhiteGrey Paw" Margin="5 10" Background="Beige" x:Name="btnWhiteGrey" Click="btnWhiteGrey_Click"/>
+            <Button Content="TriGrey Paw" Margin="5 10" Background="Beige" x:Name="btnTriGrey" Click="btnTriGrey_Click"/>
         </WrapPanel>
 
         <!-- Code for toggle button and changing themes -->
@@ -81,17 +82,6 @@
                 </DataTemplate>
             </ListView.ItemTemplate>
         </ListView>
-
-        <!-- Add Entry Button -->
-        <Button Content="Add Account" Click="OpenAddEntryPopup_Click" Background="Beige" Foreground="Black" BorderBrush="#69a17a" Width="99" Height="30" Margin="200,10,501,410" FontFamily="Arial Rounded MT Bold">
-            <Button.Template>
-                <ControlTemplate TargetType="Button">
-                    <Border CornerRadius="12" Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" TextElement.Foreground="{TemplateBinding Foreground}">
-                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
-                    </Border>
-                </ControlTemplate>
-            </Button.Template>
-        </Button>
 
     </Grid>
 </UserControl>
