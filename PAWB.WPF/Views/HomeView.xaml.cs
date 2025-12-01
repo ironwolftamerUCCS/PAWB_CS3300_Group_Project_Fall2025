@@ -37,19 +37,18 @@ namespace PAWB.WPF.Views
         public HomeView()
         {
             // Custom Cursor
-            //string cursorDirectory = Directory.GetParent(Environment.CurrentDirectory).Parent.FullName + "\\Cursors";
             Grey = new Cursor(Application.GetResourceStream(new Uri("Cursors/pawcursordefault.cur", UriKind.Relative)).Stream);
             Brown = new Cursor(Application.GetResourceStream(new Uri("Cursors/browncursorpaw.cur", UriKind.Relative)).Stream);
             WhiteGrey = new Cursor(Application.GetResourceStream(new Uri("Cursors/whitegreycursorpaw.cur", UriKind.Relative)).Stream);
             TriGrey = new Cursor(Application.GetResourceStream(new Uri("Cursors/greywhitecursorpaw.cur", UriKind.Relative)).Stream);
 
             InitializeComponent();
-            //DataContext = dataContext;
 
             DataContext = this;
 
             this.Loaded += async (_, __) => await LoadEntrysAsync();
-        
+
+            
         }
 
         private async Task LoadEntrysAsync()
@@ -89,14 +88,6 @@ namespace PAWB.WPF.Views
 
         private void DetailButton_Click(object sender, RoutedEventArgs e)
         {
-            /*
-            Button btn = sender as Button;
-            InfoItem item = btn.DataContext as InfoItem;
-
-            DetailWindow window = new DetailWindow(item);
-            window.ShowDialog();
-            */
-
             var item = (sender as FrameworkElement)?.DataContext as InfoItem;
             if (item != null)
             {
@@ -195,5 +186,29 @@ namespace PAWB.WPF.Views
                 this.Cursor = TriGrey;
             }
         }
+
+        //Add entry button
+        
+        private void OpenAddEntryPopup_Click(object sender, RoutedEventArgs e)
+        {
+            // For add entry button
+            AddEntry addEntry = new AddEntry();
+            bool? result = addEntry.ShowDialog();
+
+            if (result == true)
+            {
+                string newAccountEntry = addEntry.NewEntryAccount;
+                string newUsernameEntry = addEntry.NewEntryUsername;
+                string newPasswordEntry = addEntry.NewEntryPassword;
+                // Add newEntry to data source here
+                //Items.Add(newAccountEntry);
+                MessageBox.Show($"New entry added: {newAccountEntry}");
+                
+            }
+
+        }
+        
+        
+        
     }
 }
