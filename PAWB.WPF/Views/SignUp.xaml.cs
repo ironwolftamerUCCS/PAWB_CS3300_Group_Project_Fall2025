@@ -18,9 +18,32 @@ namespace PAWB.WPF.Views
 
     public partial class SignUp : UserControl
     {
+        public static readonly DependencyProperty SignUpCommandProperty =
+            DependencyProperty.Register("SignUpCommand", typeof(ICommand), typeof(SignUp), new PropertyMetadata(null));
+
+        public ICommand SignUpCommand
+        {
+            get { return (ICommand)GetValue(SignUpCommandProperty); }
+            set { SetValue(SignUpCommandProperty, value); }
+        }
+
         public SignUp()
         {
             InitializeComponent();
         }
+
+        private void SignUp_Click(object sender, RoutedEventArgs e)
+        {
+            if (SignUpCommand != null)
+            {
+                string email = tbEmail.Text;
+                string username = tbUsername.Text;
+                string password = pbPassword.Password;
+
+                object[] payload = new object[] { email, username, password };
+                SignUpCommand.Execute(payload);
+            }
+        }
     }
+
 }

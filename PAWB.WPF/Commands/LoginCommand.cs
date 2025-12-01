@@ -1,11 +1,9 @@
-﻿using PAWB.Domain.Exceptions;
-using PAWB.WPF.State.Authenticators;
+﻿using PAWB.WPF.State.Authenticators;
 using PAWB.WPF.State.Navigators;
 using PAWB.WPF.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Reflection.Metadata;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Input;
@@ -34,25 +32,11 @@ namespace PAWB.WPF.Commands
 
         public async void Execute(object? parameter)
         {
-            _loginViewModel.ErrorMessage = String.Empty;
+            bool success = await _authenticator.Login(_loginViewModel.Username, parameter.ToString());
 
-            try
+            if (success)
             {
-                await _authenticator.Login(_loginViewModel.Username, parameter.ToString());
-
                 _renavigator.Renavigate();
-            }
-            catch (UserNotFoundException)
-            {
-                _loginViewModel.ErrorMessage = "Username does not exist.";
-            }
-            catch (InvalidPasswordException)
-            {
-                _loginViewModel.ErrorMessage = "Password is incorrect.";
-            }
-            catch (Exception)
-            {
-                _loginViewModel.ErrorMessage = "Login failed.";
             }
         }
     }

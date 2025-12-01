@@ -22,11 +22,7 @@
             <DataTemplate DataType="{x:Type viewmodels:LoginViewModel}">
                 <views:LoginView LoginCommand="{Binding LoginCommand}"/>
             </DataTemplate>
-
-            <DataTemplate DataType="{x:Type viewmodels:SignUpModel}">
-                <views:SignUp/>
-            </DataTemplate>
-
+            
         </ResourceDictionary>
     </Application.Resources>
 </Application>

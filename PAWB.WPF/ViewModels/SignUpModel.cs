@@ -1,16 +1,11 @@
-﻿using Microsoft.EntityFrameworkCore;
-using PAWB.Domain.Model;
+﻿using PAWB.Domain.Models;
 using PAWB.Domain.Services.AuthenticationServices;
-using PAWB.EntityFramework;
-using PAWB.EntityFramework.Services;
-using PAWB.WPF.Commands;
 using PAWB.WPF.State.Authenticators;
-using PAWB.WPF.State.Navigators;
-using PAWB.WPF.ViewModels;
 using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
 using System.Threading.Tasks;
-using System.Windows;
-using System.Windows.Input;
 
 namespace PAWB.WPF.ViewModels
 {
@@ -84,10 +79,7 @@ namespace PAWB.WPF.ViewModels
 
         public SignUpModel(IAuthenticator authenticator, IRenavigator signUpRenavigator, IRenavigator loginRenavigator)
         {
-            ErrorMessageViewModel = new MessageViewModel();
 
-            SignUpCommand = new SignUpCommand(this, authenticator, signUpRenavigator);
-            ViewLoginCommand = new RenavigateCommand(loginRenavigator);
         }
     }
 }

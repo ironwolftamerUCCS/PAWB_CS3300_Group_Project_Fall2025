@@ -94,7 +94,7 @@ namespace PAWB.Domain.Tests.Services.AuthenticationServices
             RegistrationResult expected = RegistrationResult.PasswordsDoNotMatch;
 
             //Act
-            RegistrationResult actual = await _authenticationService.Register(It.IsAny<string>(), It.IsAny<string>(), password, confirmPassword);
+            RegistrationResult actual = await _authenticationService.Resister(It.IsAny<string>(), It.IsAny<string>(), password, confirmPassword);
 
             //Assert
             Microsoft.VisualStudio.TestTools.UnitTesting.Assert.AreEqual(expected, actual);
@@ -111,7 +111,7 @@ namespace PAWB.Domain.Tests.Services.AuthenticationServices
             RegistrationResult expected = RegistrationResult.EmailAlreadyExists;
 
             //Act
-            RegistrationResult actual = await _authenticationService.Register(email, It.IsAny<string>(), It.IsAny<string>(), It.IsAny<string>());
+            RegistrationResult actual = await _authenticationService.Resister(email, It.IsAny<string>(), It.IsAny<string>(), It.IsAny<string>());
 
             //Assert
             Microsoft.VisualStudio.TestTools.UnitTesting.Assert.AreEqual(expected, actual);
@@ -128,7 +128,7 @@ namespace PAWB.Domain.Tests.Services.AuthenticationServices
             RegistrationResult expected = RegistrationResult.UsernameAlreadyExists;
 
             //Act
-            RegistrationResult actual = await _authenticationService.Register(It.IsAny<string>(), username, It.IsAny<string>(), It.IsAny<string>());
+            RegistrationResult actual = await _authenticationService.Resister(It.IsAny<string>(), username, It.IsAny<string>(), It.IsAny<string>());
 
             //Assert
             Microsoft.VisualStudio.TestTools.UnitTesting.Assert.AreEqual(expected, actual);
@@ -142,7 +142,7 @@ namespace PAWB.Domain.Tests.Services.AuthenticationServices
             //Arrange
             RegistrationResult expected = RegistrationResult.Success;
             //Act
-            RegistrationResult actual = await _authenticationService.Register(It.IsAny<string>(), It.IsAny<string>(), It.IsAny<string>(), It.IsAny<string>());
+            RegistrationResult actual = await _authenticationService.Resister(It.IsAny<string>(), It.IsAny<string>(), It.IsAny<string>(), It.IsAny<string>());
 
             //Assert
             Microsoft.VisualStudio.TestTools.UnitTesting.Assert.AreEqual(expected, actual);
