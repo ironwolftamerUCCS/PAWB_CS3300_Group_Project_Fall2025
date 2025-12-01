@@ -46,16 +46,20 @@ https://github.com/ironwolftamerUCCS/PAWB_CS3300_Group_Project_Fall2025.git
 If not automatic, Navigate to the following:
 - Tools → NuGet Package Manager → Restore NuGet Packages
 
-## 4. Configuration
+## 4. Database Configuration
 
-No additional configuration is required. Database structures load automatically.
+1.	Open Visual Studio 2022. Select Open a Project or Solution. Open `PAWB.sln`
+2.	In the top menu, navigate to tools -> NuGet Package manager -> Package Manager Console
+3.	In the package manager console, change the default project to `PAWB.EntityFramework`
+4.	Execute the command `update-database` in the Package Manager Console
+5.	The database is now configured. This process only needs to be completed on the program's first startup
 
 ## 5. Executing the Software
 
 ### 5.1 Launching the Application
 1. Set startup project to `PAWB.WPF` if not already done so.
 2. Right click `PAWB.WPF` in the solution explorer and click `Set as Startup Project`
-3. Click *Start (▶)*.
+3. Click *Start (▶)* PAWB.WPF in the upper menu.
 4. Wait for the project window to open.
 
 ### 5.2 Account Setup and Login
@@ -72,10 +76,10 @@ No additional configuration is required. Database structures load automatically.
 ## 6. User Interface Guide
 
 ### 6.1 Home Page Features
-- **View Stored Entries** – click an entry to view details  
+- **View Stored Entries** – click an entry to view its details  
 - **Add Entry** – add new credential  
 - **Delete Entry** – remove saved credentials  
-- **Theme Options** – switch light/dark mode, change cursor  
+- **Theme Options** – switch light/dark mode with toggle, change cursor
 - **Logout** – return to login screen  
 
 ## 7. Troubleshooting
@@ -89,8 +93,8 @@ No additional configuration is required. Database structures load automatically.
 | UI blank | Wrong startup project | Set `PAWB.WPF` as startup project, see section 5.1|
 
 ### Error Messages
-- “Cannot restore packages” → Restore via NuGet  
-- “Database locked” → Close duplicate database instances  
+- "Username does not exist" -> Attempt another username or create a new account
+- 
 
 ## 8. Support Information
 
