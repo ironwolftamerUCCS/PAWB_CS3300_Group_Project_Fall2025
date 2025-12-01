@@ -1240,3 +1240,5 @@ D:\Github\PAWB\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-wind
 D:\Github\PAWB\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.csproj.Up2Date
 D:\Github\PAWB\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\PAWB.WPF.genruntimeconfig.cache
 D:\Github\PAWB\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\ref\PAWB.WPF.dll
+C:\Users\Caleb\source\repos\ironwolftamerUCCS\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Views\AddEntry.g.cs
+C:\Users\Caleb\source\repos\ironwolftamerUCCS\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Views\AddEntry.baml
