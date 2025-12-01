@@ -10,6 +10,9 @@
 *.userosscache
 *.sln.docstates
 *.env
+*.dtbcache.v2
+*.futdcache.v2
+
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -267,10 +270,6 @@ ClientBin/
 *.jfm
 *.pfx
 *.publishsettings
-*.dtbcache.v2
-*.futdcache.v2
-*.vsidx
-*.suo
 orleans.codegen.cs
 
 # Including strong name files can present a security risk
@@ -380,7 +379,6 @@ OpenCover/
 ASALocalRun/
 
 # MSBuild Binary and Structured Log
-*.bin
 *.binlog
 MSBuild_Logs/
 
@@ -431,5 +429,3 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
-.vs/PAWB/v17/.suo
-/.vs/PAWB/v17
