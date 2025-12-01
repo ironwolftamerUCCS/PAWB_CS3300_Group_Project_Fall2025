@@ -3,9 +3,14 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:components="clr-namespace:PasswordBoxMVVM.Components;assembly=PasswordBoxMVVM"
              xmlns:local="clr-namespace:PAWB.WPF.Views"
              mc:Ignorable="d"
              d:DesignHeight="450" d:DesignWidth="800">
+
+    <UserControl.Resources>
+        <BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter"/>
+    </UserControl.Resources>
 
     <Grid Background="#FFB8FFCE">
 
@@ -20,26 +25,50 @@
             <ColumnDefinition Width="auto"/>
         </Grid.ColumnDefinitions>
 
-        <TextBlock x:Name ="tbUsername" Grid.Row="2" Grid.Column="1" Text="Username" Margin="231,134,222,86"/>
-        <TextBox Grid.Row="2" Grid.Column="1" Margin="228,199,133,13" Background="#FFFFF5F5"/>
+        <TextBlock x:Name ="Username" Grid.Row="2" Grid.Column="1" Text="Username" Margin="230,154,225,-105"/>
+        <TextBox Text="{Binding Username, UpdateSourceTrigger=PropertyChanged}" x:Name="tbUsername" Grid.Row="2" Grid.Column="1" Margin="230,175,220,43" Background="#FFFFF5F5"/>
 
-        <TextBlock x:Name ="tbEmail" Grid.Row="2" Grid.Column="1" Text="Email" Margin="230,183,225,37"/>
-        <TextBox Grid.Row="2" Grid.Column="1" Margin="228,150,133,62" Background="#FFFFF5F5"/>
+        <TextBlock x:Name ="Email" Grid.Row="2" Grid.Column="1" Text="Email" Margin="230,208,225,-113"/>
+        <TextBox Text="{Binding Email, UpdateSourceTrigger=PropertyChanged}" x:Name ="tbEmail" Grid.Row="2" Grid.Column="1" Margin="230,224,224,-6" Background="#FFFFF5F5"/>
 
-        <TextBlock x:Name ="tbPassword" Grid.Row="2" Grid.Column="1" Text="Password" Margin="231,229,223,-9"/>
-        <PasswordBox x:Name="pbPassword" Grid.Row="2" Grid.Column="1" Margin="228,245,133,-33" Background="#FFFFF5F5"/>
+        <TextBlock x:Name ="Password" Grid.Row="2" Grid.Column="1" Text="Password" Margin="230,255,226,-160"/>
+        <components:BindablePasswordBox Password="{Binding Password}" Grid.Row="2" Grid.Column="1" Margin="230,275,224,-57" Background="#FFFFF5F5"/>
+
+        <TextBlock x:Name ="ConfirmPassword" Grid.Row="2" Grid.Column="1" Text="Confirm Password" Margin="230,306,223,-119"/>
+        <components:BindablePasswordBox Password="{Binding ConfirmPassword}" Grid.Row="2" Grid.Column="1" Margin="228,324,229,-111" Background="#FFFFF5F5"/>
+        <Image Source="/Images/BrokenLoginBar.png" Width="115" Grid.Column="1" Margin="491,292,213,-166" Grid.Row="2"/>
 
 
-        <TextBlock Grid.Row="2" Grid.Column="1" Text="Welcome to Pawble" Margin="136,43,0,125" Foreground="#FFFF7A78" FontFamily="Showcard Gothic" FontSize="50" HorizontalAlignment="Left"/>
+        <TextBlock Grid.Row="2" Grid.Column="1" Text="Welcome to Pawble" Margin="136,71,0,97" Foreground="#FFFF7A78" FontFamily="Showcard Gothic" FontSize="50" HorizontalAlignment="Left"/>
 
+
+        <Button Grid.Row="2" Grid.Column="1" HorizontalAlignment="Center"
+                IsDefault="True"
+                Content="Sign Up"
+                Command="{Binding SignUpCommand}" 
+                Margin="0,374,0,-170"
+                FontFamily="Showcard Gothic" FontSize="19" Foreground="#FFE17A82" Width="86"/>
 
         <Button Grid.Row="2" Grid.Column="1" HorizontalAlignment="Left"
-                IsDefault="True"
-                Content="Sign-up"
-                Click="SignUp_Click" Margin="370,316,0,-113" RenderTransformOrigin="0.458,0.535" FontFamily="Showcard Gothic" FontSize="19" Foreground="#FFE17A82"/>
+               IsDefault="True"
+               Content="Already have an account?"
+               Command="{Binding ViewLoginCommand}"
+               Margin="0,428,0,-208"
+               FontFamily="Arial Rounded MT Bold" FontSize="12" Foreground="Blue" Background="Transparent" BorderThickness="0"/>
 
-        <Image Source="/Images/BlueCollarLogin.png" Width="130" Grid.Column="1" Margin="648,233,-84,-241" Grid.Row="2" Stretch="Uniform"/>
-        <Image Source="/Images/FixedSignUpBar.png" Grid.Column="1" Grid.Row="2" Height="25" Margin="541,245,133,-33"/>
+        <Image Source="/Images/LoginPawble.png" Width="280" Grid.Column="1" Margin="524,236,0,-244" Grid.Row="2"/>
+
+        <TextBlock 
+            Grid.Row="2" 
+            Text="{Binding Message}" 
+            DataContext="{Binding ErrorMessageViewModel}"
+            HorizontalAlignment="Center" 
+            Foreground="DarkRed" 
+            Grid.Column="1"  
+            TextAlignment="Center" 
+            Margin="0,355,0,-129" 
+            Visibility="{Binding HasMessage, Converter={StaticResource BooleanToVisibilityConverter}}"/>
+
 
     </Grid>
 </UserControl>
