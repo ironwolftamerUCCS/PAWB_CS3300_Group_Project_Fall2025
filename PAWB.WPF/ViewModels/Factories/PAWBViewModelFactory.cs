@@ -4,7 +4,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using PAWB.WPF.ViewModels; // for SignUpModel, LoginViewModel, HomeViewModel
 
 //Initilization of each view model
 namespace PAWB.WPF.ViewModels.Factories
@@ -14,31 +13,25 @@ namespace PAWB.WPF.ViewModels.Factories
         //Creating variables representing each view model
         private readonly CreateViewModel<LoginViewModel> _createLoginViewModel;
         private readonly CreateViewModel<HomeViewModel> _createHomeViewModel;
-        private readonly CreateViewModel<SignUpModel> _createSignUpViewModel;
 
         //Initializing each variable
-        public PAWBViewModelFactory(
-            CreateViewModel<LoginViewModel> createLoginViewModel,
-            CreateViewModel<HomeViewModel> createHomeViewModel,
-            CreateViewModel<SignUpModel> createSignUpViewModel)
+        public PAWBViewModelFactory(CreateViewModel<LoginViewModel> createLoginViewModel,
+            CreateViewModel<HomeViewModel> createHomeViewModel)
         {
             _createLoginViewModel = createLoginViewModel;
             _createHomeViewModel = createHomeViewModel;
-            _createSignUpViewModel = createSignUpViewModel;
         }
-
         public ViewModelBase CreateViewModel(ViewType viewType)
         {
-            switch (viewType)
+            //Method matching the ViewType is returned
+            switch(viewType)
             {
                 case ViewType.Login:
                     return _createLoginViewModel();
                 case ViewType.Home:
                     return _createHomeViewModel();
-                case ViewType.SignUp:
-                    return _createSignUpViewModel();
                 default:
-                    throw new ArgumentException("This ViewType does not have a ViewModel.", nameof(viewType));
+                    throw new ArgumentException("This ViewType does not have a ViewModel.", "viewType");
             }
         }
     }

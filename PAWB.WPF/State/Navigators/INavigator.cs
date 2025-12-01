@@ -11,8 +11,7 @@ namespace PAWB.WPF.State.Navigators
     public enum ViewType
     {
         Login,
-        Home,
-        SignUp
+        Home
     }
     public interface INavigator
     {

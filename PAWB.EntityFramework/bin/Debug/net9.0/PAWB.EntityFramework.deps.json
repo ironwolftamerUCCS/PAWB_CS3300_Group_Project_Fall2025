@@ -1005,8 +1005,7 @@
       },
       "PAWB.Domain/1.0.0": {
         "dependencies": {
-          "Microsoft.AspNet.Identity.Core": "2.2.4",
-          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.10"
+          "Microsoft.AspNet.Identity.Core": "2.2.4"
         },
         "runtime": {
           "PAWB.Domain.dll": {

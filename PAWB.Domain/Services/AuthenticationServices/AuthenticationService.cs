@@ -43,7 +43,7 @@ namespace PAWB.Domain.Services.AuthenticationServices
         }
 
         //Registers a new user account with an email, username, and password
-        public async Task<RegistrationResult> Register(string email, string username, string password, string confirmPassword)
+        public async Task<RegistrationResult> Resister(string email, string username, string password, string confirmPassword)
         {
             RegistrationResult result = RegistrationResult.Success;
 

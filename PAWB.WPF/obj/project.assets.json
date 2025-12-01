@@ -988,18 +988,6 @@
           "buildTransitive/Mono.TextTemplating.targets": {}
         }
       },
-      "PasswordBoxMVVM/1.0.5": {
-        "type": "package",
-        "compile": {
-          "lib/netcoreapp3.1/PasswordBoxMVVM.dll": {}
-        },
-        "runtime": {
-          "lib/netcoreapp3.1/PasswordBoxMVVM.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.WindowsDesktop.App.WPF"
-        ]
-      },
       "System.ClientModel/1.0.0": {
         "type": "package",
         "dependencies": {
@@ -1622,8 +1610,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
-          "Microsoft.AspNet.Identity.Core": "2.2.4",
-          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.10"
+          "Microsoft.AspNet.Identity.Core": "2.2.4"
         },
         "compile": {
           "bin/placeholder/PAWB.Domain.dll": {}
@@ -3552,18 +3539,6 @@
         "readme.md"
       ]
     },
-    "PasswordBoxMVVM/1.0.5": {
-      "sha512": "NeUoGEBKjrYotXuLdSmEsglUhofPNgf6Hd6g7R64R+Iail4+ANzkNRsrcq/euYMlurFkC7MUtUJvesdU20Cycg==",
-      "type": "package",
-      "path": "passwordboxmvvm/1.0.5",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/netcoreapp3.1/PasswordBoxMVVM.dll",
-        "passwordboxmvvm.1.0.5.nupkg.sha512",
-        "passwordboxmvvm.nuspec"
-      ]
-    },
     "System.ClientModel/1.0.0": {
       "sha512": "I3CVkvxeqFYjIVEP59DnjbeoGNfo/+SZrCLpRz2v/g0gpCHaEMPtWSY0s9k/7jR1rAsLNg2z2u1JRB76tPjnIw==",
       "type": "package",
@@ -4764,30 +4739,28 @@
   "projectFileDependencyGroups": {
     "net9.0-windows7.0": [
       "Microsoft.EntityFrameworkCore.Design >= 9.0.11",
-      "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.10",
       "PAWB.Domain >= 1.0.0",
-      "PAWB.EntityFramework >= 1.0.0",
-      "PasswordBoxMVVM >= 1.0.5"
+      "PAWB.EntityFramework >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Brock\\.nuget\\packages\\": {},
+    "C:\\Users\\Caleb\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Github\\PAWB\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\PAWB.WPF.csproj",
+      "projectUniqueName": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\PAWB.WPF.csproj",
       "projectName": "PAWB.WPF",
-      "projectPath": "D:\\Github\\PAWB\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\PAWB.WPF.csproj",
-      "packagesPath": "C:\\Users\\Brock\\.nuget\\packages\\",
-      "outputPath": "D:\\Github\\PAWB\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\obj\\",
+      "projectPath": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\PAWB.WPF.csproj",
+      "packagesPath": "C:\\Users\\Caleb\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Brock\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Caleb\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4796,17 +4769,18 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net9.0-windows7.0": {
           "targetAlias": "net9.0-windows",
           "projectReferences": {
-            "D:\\Github\\PAWB\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\PAWB.Domain.csproj": {
-              "projectPath": "D:\\Github\\PAWB\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\PAWB.Domain.csproj"
+            "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\PAWB.Domain.csproj": {
+              "projectPath": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\PAWB.Domain.csproj"
             },
-            "D:\\Github\\PAWB\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\PAWB.EntityFramework.csproj": {
-              "projectPath": "D:\\Github\\PAWB\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\PAWB.EntityFramework.csproj"
+            "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\PAWB.EntityFramework.csproj": {
+              "projectPath": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.EntityFramework\\PAWB.EntityFramework.csproj"
             }
           }
         }
@@ -4832,14 +4806,6 @@
             "suppressParent": "All",
             "target": "Package",
             "version": "[9.0.11, )"
-          },
-          "Microsoft.EntityFrameworkCore.SqlServer": {
-            "target": "Package",
-            "version": "[9.0.10, )"
-          },
-          "PasswordBoxMVVM": {
-            "target": "Package",
-            "version": "[1.0.5, )"
           }
         },
         "imports": [
