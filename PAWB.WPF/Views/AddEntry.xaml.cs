@@ -21,8 +21,10 @@ namespace PAWB.WPF.Views
     {
 
         public string NewEntryAccount { get; set; }
+        public string NewEntryEmail { get; set; }
         public string NewEntryUsername { get; set; }
         public string NewEntryPassword { get; set; }
+        public string NewEntryNotes { get; set; }
 
         public AddEntry()
         {
@@ -32,9 +34,10 @@ namespace PAWB.WPF.Views
         private void AddButton_Click(object sender, RoutedEventArgs e)
         {
             NewEntryAccount = AccountTextBox.Text;
+            NewEntryEmail = EmailTextBox.Text;
             NewEntryUsername = UsernameTextBox.Text;
             NewEntryPassword = PasswordTextBox.Text;
-
+            NewEntryNotes = NotesTextBox.Text;
 
             DialogResult = true;
             Close();

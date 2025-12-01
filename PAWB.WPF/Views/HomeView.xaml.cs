@@ -198,10 +198,12 @@ namespace PAWB.WPF.Views
             if (result == true)
             {
                 string newAccountEntry = addEntry.NewEntryAccount;
+                string newEmailEntry = addEntry.NewEntryEmail;
                 string newUsernameEntry = addEntry.NewEntryUsername;
                 string newPasswordEntry = addEntry.NewEntryPassword;
+                string newNotesEntry = addEntry.NewEntryNotes;
                 // Add newEntry to data source here
-                //Items.Add(newAccountEntry);
+                //Items.Add(newAccountEntry); ??????????
                 MessageBox.Show($"New entry added: {newAccountEntry}");
                 
             }
