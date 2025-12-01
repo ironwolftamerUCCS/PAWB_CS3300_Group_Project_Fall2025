@@ -7,6 +7,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading.Channels;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
@@ -209,9 +210,9 @@ namespace PAWB.WPF.Views
 
         }
 
-        private void OpenLogin_Click(object sender, RoutedEventArgs e)
+        private void OpenLoginScreen_Click(object sender, RoutedEventArgs e)
         {
-            Uri loginPage = new Uri("LoginView.xaml", UriKind.Relative);
+            MainFrame.Navigate(new LoginView());
             
         }
         

@@ -104,5 +104,7 @@
             </Button.Template>
         </Button>
 
+        <Frame Grid.Row="1" x:Name="MainFrame" NavigationUIVisibility="Hidden"/>
+
     </Grid>
 </UserControl>
