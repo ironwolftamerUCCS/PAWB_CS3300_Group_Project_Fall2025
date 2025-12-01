@@ -188,7 +188,6 @@ namespace PAWB.WPF.Views
         }
 
         //Add entry button
-        
         private void OpenAddEntryPopup_Click(object sender, RoutedEventArgs e)
         {
             // For add entry button
@@ -209,8 +208,12 @@ namespace PAWB.WPF.Views
             }
 
         }
-        
-        
+
+        private void OpenLogin_Click(object sender, RoutedEventArgs e)
+        {
+            Uri loginPage = new Uri("LoginView.xaml", UriKind.Relative);
+            
+        }
         
     }
 }
