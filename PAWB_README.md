@@ -65,12 +65,12 @@ If not automatic, Navigate to the following:
 ### 5.2 Account Setup and Login
 
 #### Sign Up
-- Click *Sign Up*
-- Enter user information
-- Click *Complete Sign Up*
+- Click *Sign-Up here*
+- Enter user account information
+- Click *Sign Up*. You will be redirected back to the login screen.
 
 #### Login
-- Enter credentials
+- Enter user credentials
 - Click *Login*
 
 ## 6. User Interface Guide
