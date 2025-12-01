@@ -12,6 +12,7 @@ namespace PAWB.Domain.Model
         public string Username { get; set; }
         public string Password { get; set; }
         public string Email { get; set; }
+        public int OwnerId { get; set; }
         public User Owner { get; set; }
         public string? Note { get; set; }
         public DateTime LastUpdated { get; set; }

@@ -1,8 +1,10 @@
 ﻿using Microsoft.EntityFrameworkCore.Metadata.Internal;
+using Microsoft.Extensions.DependencyInjection;
 using PAWB.Domain.Model;
 using PAWB.EntityFramework;
 using PAWB.EntityFramework.Services;
 using PAWB.WPF.Models;
+using PAWB.WPF.State.Authenticators;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -191,8 +193,24 @@ namespace PAWB.WPF.Views
         //Add entry button
         private void OpenAddEntryPopup_Click(object sender, RoutedEventArgs e)
         {
-            // For add entry button
-            AddEntry addEntry = new AddEntry();
+            // Resolve the authenticator from the app service provider
+            if (App.ServiceProvider == null)
+            {
+                MessageBox.Show("Service provider not available.", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+                return;
+            }
+
+            var authenticator = App.ServiceProvider.GetRequiredService<IAuthenticator>();
+            int ownerId = authenticator?.CurrentAccount?.AccountHolder?.Id ?? 0;
+
+            if (ownerId == 0)
+            {
+                MessageBox.Show("No logged-in user found. Please log in before adding an entry.", "Not logged in", MessageBoxButton.OK, MessageBoxImage.Warning);
+                return;
+            }
+
+            // Pass the valid owner id to the AddEntry window
+            AddEntry addEntry = new AddEntry(ownerId);
             bool? result = addEntry.ShowDialog();
 
             if (result == true)
