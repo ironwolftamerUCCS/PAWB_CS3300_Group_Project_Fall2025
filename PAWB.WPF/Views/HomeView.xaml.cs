@@ -1,10 +1,13 @@
-﻿using Microsoft.EntityFrameworkCore.Metadata.Internal;
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using PAWB.Domain.Model;
 using PAWB.EntityFramework;
 using PAWB.EntityFramework.Services;
 using PAWB.WPF.Models;
+using PAWB.WPF.ViewModels;
 using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -52,58 +55,60 @@ namespace PAWB.WPF.Views
         
         }
 
+
         private async Task LoadEntrysAsync()
         {
             try
             {
-                var entrysService = new GenericDataService<User>(new PAWBDbContextFactory());
-                var entrys = await entrysService.GetAll();
-
-                // If service returned null, leave Items empty so UI displays nothing
-                if (entrys == null)
+                // Find the logged-in user's username via MainViewModel -> Authenticator -> CurrentAccount
+                var mainVm = Application.Current?.MainWindow?.DataContext as MainViewModel;
+                var currentAccount = mainVm?.Authenticator?.CurrentAccount;
+                if (currentAccount == null || currentAccount.AccountHolder == null)
                 {
+                    // Not logged in — clear items and return
                     await Application.Current.Dispatcher.InvokeAsync(() => Items.Clear());
                     return;
                 }
 
-                // Update collection on UI thread
+                string username = currentAccount.AccountHolder.Username;
+
+                var factory = new PAWBDbContextFactory();
+                using var ctx = factory.CreateDbContext();
+
+                // Project only needed fields. Filter by owner username to return only entries for the logged-in user.
+                var results = await ctx.Entrys
+                    .AsNoTracking()
+                    .Where(e => e.Owner != null && e.Owner.Username == username)
+                    .Select(e => new InfoItem
+                    {
+                        Title = e.Title,
+                        Description = e.Username // change to e.Email or e.Note if desired
+                    })
+                    .ToListAsync();
+
                 await Application.Current.Dispatcher.InvokeAsync(() =>
                 {
                     Items.Clear();
-                    foreach (var u in entrys)
+                    foreach (var it in results)
                     {
-                        Items.Add(new InfoItem
-                        {
-                            Title = u.Username,
-                            Description = u.Email
-                        });
+                        Items.Add(it);
                     }
                 });
             }
             catch (Exception ex)
             {
-                // Show a simple error - adjust logging as needed
                 MessageBox.Show($"Failed to load entries: {ex.Message}", "Load Error", MessageBoxButton.OK, MessageBoxImage.Error);
             }
         }
 
         private void DetailButton_Click(object sender, RoutedEventArgs e)
         {
-            /*
-            Button btn = sender as Button;
-            InfoItem item = btn.DataContext as InfoItem;
-
-            DetailWindow window = new DetailWindow(item);
-            window.ShowDialog();
-            */
-
             var item = (sender as FrameworkElement)?.DataContext as InfoItem;
             if (item != null)
             {
                 var win = new DetailWindow(item);
                 win.ShowDialog();
             }
-
         }
 
         private void OnToggleButtonChecked(object sender, RoutedEventArgs e)
