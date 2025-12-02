@@ -90,6 +90,7 @@ If not automatic, Navigate to the following:
 | Build fails | Missing dependencies | Restore NuGet packages, see section 3.4|
 | Login fails | Incorrect credentials | Create a new account |
 | UI blank | Wrong startup project | Set `PAWB.WPF` as startup project, see section 5.1|
+| Entry doesn't display| Database limitations | Wait a couple of minutes and the entry will populate|
 
 ### Error Messages
 - "Username does not exist" -> Attempt another username or create a new account
