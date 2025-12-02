@@ -47,10 +47,12 @@ namespace PAWB.WPF
 
             services.AddSingleton<IPasswordHasher, PasswordHasher>();
 
+            // PAWBViewModelFactory now requires a CreateViewModel<SignUpModel> as well
             services.AddSingleton<IPAWBViewModelFactory, PAWBViewModelFactory>();
 
-            //Registering factory methods for each viewmodel. Services required by each viewmodel's constructor are passed.
+            // Register factory methods for each viewmodel. Services required by each viewmodel's constructor are passed.
             services.AddSingleton<ViewModelDelegateRenavigator<HomeViewModel>>();
+
             services.AddSingleton<CreateViewModel<LoginViewModel>>(services =>
             {
                 return () => new LoginViewModel(
@@ -62,6 +64,26 @@ namespace PAWB.WPF
             services.AddSingleton<CreateViewModel<HomeViewModel>>(services =>
             {
                 return () => services.GetRequiredService<HomeViewModel>();
+            });
+
+            // Register SignUpModel and its CreateViewModel delegate
+
+            services.AddSingleton<ViewModelDelegateRenavigator<LoginViewModel>>();
+            services.AddSingleton<CreateViewModel<SignUpModel>>(sp =>
+            {
+                return () => new SignUpModel(
+                    sp.GetRequiredService<IAuthenticator>(),
+                    sp.GetRequiredService<ViewModelDelegateRenavigator<LoginViewModel>>(),
+                    sp.GetRequiredService<ViewModelDelegateRenavigator<LoginViewModel>>()
+                    );
+            });
+
+            services.AddSingleton<ViewModelDelegateRenavigator<SignUpModel>>();
+            services.AddSingleton<CreateViewModel<LoginViewModel>>(sp =>
+            {
+                return () => new LoginViewModel(
+                sp.GetRequiredService<IAuthenticator>(),
+                sp.GetRequiredService<ViewModelDelegateRenavigator<HomeViewModel>>());
             });
 
             services.AddScoped<INavigator, Navigator>();
