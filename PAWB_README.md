@@ -22,6 +22,16 @@ This README provides step-by-step instructions for installing, configuring, runn
   - Microsoft.EntityFrameworkCore.Design
   - .NET Desktop Development workload
 
+### 2.3 VS 2022 Packages ###
+Ensure the following pacakges are installed in VS 2022:
+- Azure Data Lake and Stream Analytics Tools
+- CLR data types for SQL Server
+- Data sources for SQL Server Support
+- SQL Server Command Line Utilities
+- SQL Server Data Tools
+- SQL Server Express 2019 LocalDB
+- SQL Server OBDC Driver
+
 ## 3. Installation Instructions
 
 ### 3.1 Pre-Installation Checklist
@@ -92,6 +102,7 @@ If not automatic, Navigate to the following:
 | Login fails | Incorrect credentials | Create a new account |
 | UI blank | Wrong startup project | Set `PAWB.WPF` as startup project, see section 5.1|
 | Entry doesn't display| Database limitations | Wait a couple of minutes and the entry will populate|
+| Cannot re-login| Login bug | Navigate to and from the sign-up page and login again|
 
 ### Error Messages
 - "Username does not exist" -> Attempt another username or create a new account
