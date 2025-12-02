@@ -17,6 +17,7 @@ This README provides step-by-step instructions for installing, configuring, runn
 ### 2.2 Software Requirements
 - Operating System: Windows 11
 - IDE: Visual Studio 2022
+- .NET 9.0.11
 - Required Libraries (Included in Repository):
   - Microsoft.EntityFrameworkCore.Design
   - .NET Desktop Development workload
