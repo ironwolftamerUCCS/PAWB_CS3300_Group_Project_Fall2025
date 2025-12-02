@@ -51,7 +51,7 @@ https://github.com/ironwolftamerUCCS/PAWB_CS3300_Group_Project_Fall2025.git
 ### 3.3 Open in Visual Studio
 1. Open Visual Studio 2022.
 2. Select *Open a Project or Solution*.
-3. Open `PAWB.WPF.sln`.
+3. Open `PAWB.sln`.
 
 ### 3.4 Restore Dependencies
 If not automatic, Navigate to the following:
