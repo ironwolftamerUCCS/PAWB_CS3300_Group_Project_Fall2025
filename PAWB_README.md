@@ -57,16 +57,15 @@ If not automatic, Navigate to the following:
 ## 5. Executing the Software
 
 ### 5.1 Launching the Application
-1. Set startup project to `PAWB.WPF` if not already done so.
-2. Right click `PAWB.WPF` in the solution explorer and click `Set as Startup Project`
+1. Set startup project to `PAWB.WPF` if not already done so by right clicking `PAWB.WPF` in the solution explorer and selecting `Set as Startup Project`
 3. Click *Start (▶)* PAWB.WPF in the upper menu.
-4. Wait for the project window to open.
+4. Wait for the build to complete and for the project window to open.
 
 ### 5.2 Account Setup and Login
 
 #### Sign Up
 - Click *Sign-Up here*
-- Enter user account information
+- Fill in the account information
 - Click *Sign Up*. You will be redirected back to the login screen.
 
 #### Login
@@ -76,11 +75,12 @@ If not automatic, Navigate to the following:
 ## 6. User Interface Guide
 
 ### 6.1 Home Page Features
-- **View Stored Entries** – click an entry to view its details  
-- **Add Entry** – add new credential  
+- **View Stored Entries** – Entry names are automatically displayed on the homepage. To view details, click the *Details* button.  
+- **Add Entry** – Entries can be added though the *Add Account* button at the top of the screen 
 - **Delete Entry** – remove saved credentials  
-- **Theme Options** – switch light/dark mode with toggle, change cursor
-- **Logout** – return to login screen  
+- **Theme Options** – Light and spooky mode can be toggled using the slider at the top of the home page
+- **Cursor Options** - Several cursor options can be chosen using the selections at the bottom of the home page
+- **Logout** – To logout, click the *Logout* button in the bottom right corner of the screen 
 
 ## 7. Troubleshooting
 
