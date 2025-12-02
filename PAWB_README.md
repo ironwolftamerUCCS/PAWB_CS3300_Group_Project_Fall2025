@@ -93,7 +93,13 @@ If not automatic, Navigate to the following:
 
 ### Error Messages
 - "Username does not exist" -> Attempt another username or create a new account
-- 
+- "Password is incorrect" -> Retry with another password or create a new account
+- "Login Failed" -> Reattempt login or create a new account
+- "Passwords do not match" -> Ensure the same password is entered in each box
+- "Username already exists" -> Enter another username
+- "Email already exists" -> Enter another email
+- "One or more of the fields are empty, please fill out all fields" -> Ensure all fields are filled out
+- "Registration Failed" -> Reattempt signup
 
 ## 8. Support Information
 
