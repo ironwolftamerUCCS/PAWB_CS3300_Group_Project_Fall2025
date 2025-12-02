@@ -53,6 +53,10 @@
             "Microsoft.AspNet.Identity.Core": {
               "target": "Package",
               "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.10, )"
             }
           },
           "imports": [
@@ -218,6 +222,14 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "PasswordBoxMVVM": {
+              "target": "Package",
+              "version": "[1.0.5, )"
             }
           },
           "imports": [

@@ -11,7 +11,12 @@
     <Grid Margin="10" Background="#FFF5F4">
         <StackPanel>
             <TextBlock Text="{Binding Title}" FontSize="18" FontWeight="Bold"/>
-            <TextBlock Text="{Binding Description}" TextWrapping="Wrap" Margin="0,10,0,0"/>
+            <TextBlock Text="{Binding Email, StringFormat=Email: {0}}" FontSize="12" FontWeight="Bold" TextWrapping="Wrap" Margin="0,10,0,0"/>
+            <TextBlock Text="{Binding Username, StringFormat=Username: {0}}" FontSize="12" FontWeight="Bold" TextWrapping="Wrap" Margin="0,10,0,0"/>
+            <TextBlock Text="{Binding Password, StringFormat=Password: {0}}" FontSize="12" FontWeight="Bold" TextWrapping="Wrap" Margin="0,10,0,0"/>
+            <TextBlock Text="{Binding Description, StringFormat=Notes: {0}}" FontSize="12" FontWeight="Bold" TextWrapping="Wrap" Margin="0,10,0,0"/>
+
+
         </StackPanel>
 
         <Image Source="/Images/BlueCollarPawble.png" Margin="152,-14,-70,-40"/>

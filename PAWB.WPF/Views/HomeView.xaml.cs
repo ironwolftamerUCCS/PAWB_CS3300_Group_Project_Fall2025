@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore.Metadata.Internal;
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using Microsoft.Extensions.DependencyInjection;
 using PAWB.Domain.Model;
 using PAWB.EntityFramework;
@@ -83,7 +84,12 @@ namespace PAWB.WPF.Views
                     .Select(e => new InfoItem
                     {
                         Title = e.Title,
-                        Description = e.Username // change to e.Email or e.Note if desired
+                        Email = e.Email,
+                        Username = e.Username,
+                        Password = e.Password,
+                        Description = e.Note, // change to e.Email or e.Note if desired
+                        
+
                     })
                     .ToListAsync();
 
@@ -235,6 +241,7 @@ namespace PAWB.WPF.Views
                 // Add newEntry to data source here
                 //Items.Add(newAccountEntry); ??????????
                 MessageBox.Show($"New entry added: {newAccountEntry}");
+                LoadEntrysAsync();
                 
             }
 

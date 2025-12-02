@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3gQwDEd4w0Q=",
+  "dgSpecHash": "+xdwIcC6h+c=",
   "success": true,
   "projectFilePath": "C:\\GithubRepos\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.WPF\\PAWB.WPF.csproj",
   "expectedPackageFiles": [
@@ -49,6 +49,7 @@
     "C:\\Users\\trini\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\trini\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\trini\\.nuget\\packages\\mono.texttemplating\\3.0.0\\mono.texttemplating.3.0.0.nupkg.sha512",
+    "C:\\Users\\trini\\.nuget\\packages\\passwordboxmvvm\\1.0.5\\passwordboxmvvm.1.0.5.nupkg.sha512",
     "C:\\Users\\trini\\.nuget\\packages\\system.clientmodel\\1.0.0\\system.clientmodel.1.0.0.nupkg.sha512",
     "C:\\Users\\trini\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
     "C:\\Users\\trini\\.nuget\\packages\\system.collections.immutable\\7.0.0\\system.collections.immutable.7.0.0.nupkg.sha512",

@@ -1616,7 +1616,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
-          "Microsoft.AspNet.Identity.Core": "2.2.4"
+          "Microsoft.AspNet.Identity.Core": "2.2.4",
+          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.10"
         },
         "compile": {
           "bin/placeholder/PAWB.Domain.dll": {}
