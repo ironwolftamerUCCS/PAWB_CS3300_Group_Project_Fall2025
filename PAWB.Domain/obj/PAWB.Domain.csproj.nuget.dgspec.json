@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\PAWB.Domain.csproj": {}
+    "C:\\GithubRepos\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\PAWB.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\PAWB.Domain.csproj": {
+    "C:\\GithubRepos\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\PAWB.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\PAWB.Domain.csproj",
+        "projectUniqueName": "C:\\GithubRepos\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\PAWB.Domain.csproj",
         "projectName": "PAWB.Domain",
-        "projectPath": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\PAWB.Domain.csproj",
-        "packagesPath": "C:\\Users\\Caleb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Caleb\\source\\repos\\ironwolftamerUCCS\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\obj\\",
+        "projectPath": "C:\\GithubRepos\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\PAWB.Domain.csproj",
+        "packagesPath": "C:\\Users\\trini\\.nuget\\packages\\",
+        "outputPath": "C:\\GithubRepos\\PAWB_CS3300_Group_Project_Fall2025\\PAWB.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Caleb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\trini\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -72,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

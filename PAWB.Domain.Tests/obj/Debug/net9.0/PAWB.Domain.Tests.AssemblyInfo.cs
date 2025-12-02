@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PAWB.Domain.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c233131ab91fb1174702719273fa685fe673d63")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e26c02e7e2f39953c8aa116affd621174afb6d55")]
 [assembly: System.Reflection.AssemblyProductAttribute("PAWB.Domain.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PAWB.Domain.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

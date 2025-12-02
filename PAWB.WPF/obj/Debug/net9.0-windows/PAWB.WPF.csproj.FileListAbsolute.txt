@@ -809,11 +809,9 @@ C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-wind
 C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.Composition.Hosting.dll
 C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.Composition.Runtime.dll
 C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.Composition.TypedParts.dll
-C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.Formats.Asn1.dll
 C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
 C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.Memory.Data.dll
 C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.Runtime.Caching.dll
-C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\System.Text.Json.dll
 C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
 C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.resources.dll
 C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.resources.dll
@@ -1242,3 +1240,11 @@ D:\Github\PAWB\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-wind
 D:\Github\PAWB\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\ref\PAWB.WPF.dll
 C:\Users\Caleb\source\repos\ironwolftamerUCCS\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Views\AddEntry.g.cs
 C:\Users\Caleb\source\repos\ironwolftamerUCCS\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Views\AddEntry.baml
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Themes\Default.baml
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Themes\ScaryPawble.baml
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Views\AddEntry.g.cs
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Views\DetailWindow.g.cs
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Views\SignUp.g.cs
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Views\AddEntry.baml
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Views\DetailWindow.baml
+C:\GithubRepos\PAWB_CS3300_Group_Project_Fall2025\PAWB.WPF\obj\Debug\net9.0-windows\Views\SignUp.baml
