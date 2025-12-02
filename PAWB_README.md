@@ -76,8 +76,7 @@ If not automatic, Navigate to the following:
 
 ### 6.1 Home Page Features
 - **View Stored Entries** – Entry names are automatically displayed on the homepage. To view details, click the *Details* button.  
-- **Add Entry** – Entries can be added though the *Add Account* button at the top of the screen 
-- **Delete Entry** – remove saved credentials  
+- **Add Entry** – Entries can be added though the *Add Account* button at the top of the screen
 - **Theme Options** – Light and spooky mode can be toggled using the slider at the top of the home page
 - **Cursor Options** - Several cursor options can be chosen using the selections at the bottom of the home page
 - **Logout** – To logout, click the *Logout* button in the bottom right corner of the screen 
