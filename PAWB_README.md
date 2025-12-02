@@ -23,7 +23,7 @@ This README provides step-by-step instructions for installing, configuring, runn
   - .NET Desktop Development workload
 
 ### 2.3 VS 2022 Packages ###
-Ensure the following pacakges are installed in VS 2022:
+Ensure the following packages are installed in VS 2022:
 - Azure Data Lake and Stream Analytics Tools
 - CLR data types for SQL Server
 - Data sources for SQL Server Support
