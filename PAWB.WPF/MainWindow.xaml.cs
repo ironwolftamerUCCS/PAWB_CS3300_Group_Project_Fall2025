@@ -19,11 +19,13 @@ namespace PAWB.WPF
     public partial class MainWindow : Window
     {
 
+        /// <summary>
+        /// Constructor
+        /// </summary>
         public MainWindow(object dataContext)
         {
             InitializeComponent();
             DataContext = dataContext;
-            
         }
 
     }

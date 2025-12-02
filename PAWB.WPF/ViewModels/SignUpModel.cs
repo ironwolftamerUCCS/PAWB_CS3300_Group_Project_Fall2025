@@ -14,8 +14,12 @@ using System.Windows.Input;
 
 namespace PAWB.WPF.ViewModels
 {
+    /// <summary>
+    /// Initializes SignUpViewModel
+    /// </summary>
     public class SignUpModel : ViewModelBase
     {
+        // Vars
         private string _email; 
         public string Email 
         { 
@@ -77,11 +81,18 @@ namespace PAWB.WPF.ViewModels
         public ICommand ViewLoginCommand { get; }
 
         public MessageViewModel ErrorMessageViewModel { get; }
+        
         public string ErrorMessage
         {
             set => ErrorMessageViewModel.Message = value;
         }
 
+        /// <summary>
+        /// Constructor
+        /// </summary>
+        /// <param name="authenticator"></param>
+        /// <param name="signUpRenavigator"></param>
+        /// <param name="loginRenavigator"></param>
         public SignUpModel(IAuthenticator authenticator, IRenavigator signUpRenavigator, IRenavigator loginRenavigator)
         {
             ErrorMessageViewModel = new MessageViewModel();

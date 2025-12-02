@@ -15,9 +15,14 @@ using System.Windows.Shapes;
 
 namespace PAWB.WPF.Views
 {
-
+    /// <summary>
+    /// Interaction logic for the signup.xaml
+    /// </summary>
     public partial class SignUp : UserControl
     {
+        /// <summary>
+        /// Constructor
+        /// </summary>
         public SignUp()
         {
             InitializeComponent();

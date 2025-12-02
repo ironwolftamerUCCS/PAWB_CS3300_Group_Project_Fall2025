@@ -8,12 +8,19 @@ using System.Windows.Input;
 
 namespace PAWB.WPF.State.Navigators
 {
+    /// <summary>
+    /// Enum for view type
+    /// </summary>
     public enum ViewType
     {
         Login,
         Home,
         SignUp
     }
+
+    /// <summary>
+    /// An interface declaring a method to change the current viewmodel using the navigation bar
+    /// </summary>
     public interface INavigator
     {
         //Current ViewModel of the application

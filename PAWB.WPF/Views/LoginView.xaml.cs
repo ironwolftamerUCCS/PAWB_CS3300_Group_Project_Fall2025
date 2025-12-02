@@ -22,19 +22,29 @@ namespace PAWB.WPF.Views
     /// </summary>
     public partial class LoginView : UserControl
     {
+        // Vars
         public static readonly DependencyProperty LoginCommandProperty =
             DependencyProperty.Register("LoginCommand", typeof(ICommand), typeof(LoginView), new PropertyMetadata(null));
+       
         public ICommand LoginCommand
         {
             get { return (ICommand)GetValue(LoginCommandProperty); }
             set { SetValue(LoginCommandProperty, value); }
         }
         
+        /// <summary>
+        /// Constructor
+        /// </summary>
         public LoginView()
         {
             InitializeComponent();
         }
 
+        /// <summary>
+        /// Handles log in button click
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void Login_Click(object sender, RoutedEventArgs e)
         {
             if(LoginCommand != null)
@@ -44,7 +54,12 @@ namespace PAWB.WPF.Views
             }
             
         }
-        // Navigate to SignUp view when "Sign-up here" is clicked
+        
+        /// <summary>
+        /// Navigate to SignUp view when "Sign-up here" is clicked
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void SignUpPage_Click(object sender, RoutedEventArgs e)
         {
             // Use MainViewModel's command 

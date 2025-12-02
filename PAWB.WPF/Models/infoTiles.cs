@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace PAWB.WPF.Models
 {
+    /// <summary>
+    /// Get/set information for account entries 
+    /// </summary>
     public class InfoItem
     {
        

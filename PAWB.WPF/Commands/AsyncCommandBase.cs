@@ -7,8 +7,12 @@ using System.Windows.Input;
 
 namespace PAWB.WPF.Commands
 {
+    /// <summary>
+    /// Class to handle async commands
+    /// </summary>
     public abstract class AsyncCommandBase : ICommand
     {
+        // Vars
         private bool _isExecuting;
         public bool IsExecuting
         {
@@ -27,6 +31,10 @@ namespace PAWB.WPF.Commands
             return !IsExecuting;
         }
 
+        /// <summary>
+        /// Executes the command normally
+        /// </summary>
+        /// <param name="parameter"></param>
         public async void Execute(object parameter)
         {
             IsExecuting = true;
@@ -36,6 +44,11 @@ namespace PAWB.WPF.Commands
             IsExecuting = false;
         }
 
+        /// <summary>
+        /// Executes the command async style
+        /// </summary>
+        /// <param name="parameter"></param>
+        /// <returns></returns>
         public abstract Task ExecuteAsync(object parameter);
     }
 }

@@ -10,8 +10,12 @@ using System.Windows.Input;
 
 namespace PAWB.WPF.ViewModels
 {
+    /// <summary>
+    /// Initializes  the LoginViewModel
+    /// </summary>
     public class LoginViewModel : ViewModelBase
     {
+        // Vars
         private string _username;
         public string Username
         {
@@ -35,6 +39,11 @@ namespace PAWB.WPF.ViewModels
 
         public ICommand LoginCommand { get; }
 
+        /// <summary>
+        /// Constructor
+        /// </summary>
+        /// <param name="authenticator"></param>
+        /// <param name="renavigator"></param>
         public LoginViewModel(IAuthenticator authenticator, IRenavigator renavigator)
         {
             ErrorMessageViewModel = new MessageViewModel();
