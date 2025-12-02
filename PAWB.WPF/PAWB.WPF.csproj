@@ -13,9 +13,11 @@
     <None Remove="Cursors\greywhitecursorpaw.cur" />
     <None Remove="Cursors\pawcursordefault.cur" />
     <None Remove="Cursors\whitegreycursorpaw.cur" />
+    <None Remove="Images\BlueCollarLogin.png" />
     <None Remove="Images\BlueCollarPawble.png" />
     <None Remove="Images\BrokenLoginBar.png" />
     <None Remove="Images\Default Login Pawble.png" />
+    <None Remove="Images\FixedSignUpBar.png" />
     <None Remove="Images\LoginPawble.png" />
     <None Remove="Images\ScaryPawble.png" />
     <None Remove="Images\Template Pawble.png" />
@@ -49,8 +51,14 @@
     <Resource Include="Cursors\whitegreycursorpaw.cur">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Resource>
+    <Content Include="Images\BlueCollarLogin.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Resource Include="Images\BlueCollarPawble.png" />
     <Resource Include="Images\BrokenLoginBar.png" />
+    <Content Include="Images\FixedSignUpBar.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Resource Include="Images\LoginPawble.png" />
     <Resource Include="Images\ScaryPawble.png" />
     <Resource Include="Images\TemplatePawble.png" />

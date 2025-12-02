@@ -1,15 +1,18 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
+using Microsoft.Extensions.DependencyInjection;
 using PAWB.Domain.Model;
 using PAWB.EntityFramework;
 using PAWB.EntityFramework.Services;
 using PAWB.WPF.Models;
+using PAWB.WPF.State.Authenticators;
 using PAWB.WPF.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
+using System.Threading.Channels;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
@@ -54,7 +57,8 @@ namespace PAWB.WPF.Views
             DataContext = this;
 
             this.Loaded += async (_, __) => await LoadEntrysAsync();
-        
+
+            
         }
 
         /// <summary>
@@ -87,7 +91,12 @@ namespace PAWB.WPF.Views
                     .Select(e => new InfoItem
                     {
                         Title = e.Title,
-                        Description = e.Username // change to e.Email or e.Note if desired
+                        Email = e.Email,
+                        Username = e.Username,
+                        Password = e.Password,
+                        Description = e.Note, // change to e.Email or e.Note if desired
+                        
+
                     })
                     .ToListAsync();
 
@@ -215,5 +224,51 @@ namespace PAWB.WPF.Views
                 this.Cursor = TriGrey;
             }
         }
+
+        //Add entry button
+        private void OpenAddEntryPopup_Click(object sender, RoutedEventArgs e)
+        {
+            // Resolve the authenticator from the app service provider
+            if (App.ServiceProvider == null)
+            {
+                MessageBox.Show("Service provider not available.", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+                return;
+            }
+
+            var authenticator = App.ServiceProvider.GetRequiredService<IAuthenticator>();
+            int ownerId = authenticator?.CurrentAccount?.AccountHolder?.Id ?? 0;
+
+            if (ownerId == 0)
+            {
+                MessageBox.Show("No logged-in user found. Please log in before adding an entry.", "Not logged in", MessageBoxButton.OK, MessageBoxImage.Warning);
+                return;
+            }
+
+            // Pass the valid owner id to the AddEntry window
+            AddEntry addEntry = new AddEntry(ownerId);
+            bool? result = addEntry.ShowDialog();
+
+            if (result == true)
+            {
+                string newAccountEntry = addEntry.NewEntryAccount;
+                string newEmailEntry = addEntry.NewEntryEmail;
+                string newUsernameEntry = addEntry.NewEntryUsername;
+                string newPasswordEntry = addEntry.NewEntryPassword;
+                string newNotesEntry = addEntry.NewEntryNotes;
+                // Add newEntry to data source here
+                //Items.Add(newAccountEntry); ??????????
+                MessageBox.Show($"New entry added: {newAccountEntry}");
+                LoadEntrysAsync();
+                
+            }
+
+        }
+
+        private void OpenLoginScreen_Click(object sender, RoutedEventArgs e)
+        {
+            MainFrame.Navigate(new LoginView());
+            
+        }
+
     }
 }
