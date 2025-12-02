@@ -20,9 +20,15 @@ namespace PAWB.WPF
     /// </summary>
     public partial class App : Application
     {
+        // Expose the built service provider so views can resolve services when necessary
+        public static IServiceProvider ServiceProvider { get; private set; }
+
         protected override void OnStartup(StartupEventArgs e)
         {
             IServiceProvider serviceProvider = CreateServiceProvider();
+
+            // store provider for global resolution
+            ServiceProvider = serviceProvider;
 
             //Creating main view model using the service providers
             Window window = serviceProvider.GetRequiredService<MainWindow>();

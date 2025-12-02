@@ -9,15 +9,14 @@
              d:DesignHeight="450" d:DesignWidth="800">
 
 
-
     <Grid Grid.Row="1">
 
         <!-- Cursor -->
         <WrapPanel Margin="0,410,0,0" HorizontalAlignment="Left" VerticalAlignment="Bottom">
-            <Button Content="Grey Paw" Margin="5 10" Background="Beige" x:Name="btnGrey" Click="btnGrey_Click"/>
-            <Button Content="Brown Paw" Margin="5 10" Background="Beige" x:Name="btnBrown" Click="btnBrown_Click"/>
-            <Button Content="WhiteGrey Paw" Margin="5 10" Background="Beige" x:Name="btnWhiteGrey" Click="btnWhiteGrey_Click"/>
-            <Button Content="TriGrey Paw" Margin="5 10" Background="Beige" x:Name="btnTriGrey" Click="btnTriGrey_Click"/>
+            <Button Content="Grey Paw" Margin="5 10" Background="Beige" x:Name="btnGrey" Click="btnGrey_Click" FontFamily="Arial Rounded MT Bold" BorderBrush="#69a17a"/>
+            <Button Content="Brown Paw" Margin="5 10" Background="Beige" x:Name="btnBrown" Click="btnBrown_Click" FontFamily="Arial Rounded MT Bold" BorderBrush="#69a17a"/>
+            <Button Content="WhiteGrey Paw" Margin="5 10" Background="Beige" x:Name="btnWhiteGrey" Click="btnWhiteGrey_Click" FontFamily="Arial Rounded MT Bold" BorderBrush="#69a17a"/>
+            <Button Content="TriGrey Paw" Margin="5 10" Background="Beige" x:Name="btnTriGrey" Click="btnTriGrey_Click" FontFamily="Arial Rounded MT Bold" BorderBrush="#69a17a"/>
         </WrapPanel>
 
         <!-- Code for toggle button and changing themes -->
@@ -28,7 +27,7 @@
                        FontSize="40" FontFamily="Showcard Gothic"/>
         <ToggleButton Width="60" Height="30"
                           Checked="OnToggleButtonChecked"
-                          Unchecked="OnToggleButtonChecked" Margin="730,10,10,410" VerticalAlignment="Top">
+                          Unchecked="OnToggleButtonChecked" Margin="730,10,10,410" VerticalAlignment="Top" HorizontalAlignment="Right">
 
             <ToggleButton.Template>
                 <ControlTemplate>
@@ -58,7 +57,7 @@
         <Image Source="{DynamicResource CornerImg}" Height="122" Width="132"
                    HorizontalAlignment="Right"
                    VerticalAlignment="Bottom"
-                   Margin="20, 20, 0, 0"/>
+                   Margin="0,0,-2,19"/>
 
         <!-- Code for list view tiles that pop up with info boxes -->
         <ListView ItemsSource="{Binding Items}" Background="Transparent" Margin="58,83,61,127">
@@ -82,6 +81,58 @@
                 </DataTemplate>
             </ListView.ItemTemplate>
         </ListView>
+
+        <!-- Add Entry Button -->
+        <Button Content="Add Account" Click="OpenAddEntryPopup_Click" Background="Beige" Foreground="Black" BorderBrush="#69a17a" Width="99" Height="30" Margin="200,12,501,408" FontFamily="Arial Rounded MT Bold" HorizontalAlignment="Left" VerticalAlignment="Top">
+            <Button.Template>
+                <!-- Rounded Corners -->
+                <ControlTemplate TargetType="Button">
+                    <Border x:Name="border" CornerRadius="12" Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" TextElement.Foreground="{TemplateBinding Foreground}">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Border>
+
+                    <!-- Hover Color Button Effects -->
+                    <ControlTemplate.Triggers>
+                        <!-- MouseOver trigger, color becomes lighter-->
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter TargetName="border" Property="Background" Value="#FFD9CFA6"/>
+                        </Trigger>
+
+                        <!-- Click trigger, color is darker -->
+                        <Trigger Property="IsPressed" Value="True">
+                            <Setter TargetName="border" Property="Background" Value="#FFCFA67A"/>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        
+        <!-- Logout Button -->
+        <Button Content="Logout" Click="OpenLoginScreen_Click" Background="Beige" Foreground="#FFE17A82" BorderBrush="#69a17a" Width="99" Height="30" FontFamily="Showcard Gothic" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,5,10,5">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <!-- Rounded Corners -->
+                    <Border x:Name="border" CornerRadius="12" Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" TextElement.Foreground="{TemplateBinding Foreground}">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Border>
+
+                    <!-- Hover Color Button Effects -->
+                    <ControlTemplate.Triggers>
+                        <!-- MouseOver trigger, color becomes lighter-->
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter TargetName="border" Property="Background" Value="#FFD9CFA6"/>
+                        </Trigger>
+
+                        <!-- Click trigger, color is darker -->
+                        <Trigger Property="IsPressed" Value="True">
+                            <Setter TargetName="border" Property="Background" Value="#FFCFA67A"/>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+
+        <Frame Grid.Row="1" x:Name="MainFrame" NavigationUIVisibility="Hidden"/>
 
     </Grid>
 </UserControl>
