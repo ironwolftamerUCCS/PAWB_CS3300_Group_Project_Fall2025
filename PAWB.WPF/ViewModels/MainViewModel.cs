@@ -11,13 +11,23 @@ using System.Windows.Input;
 
 namespace PAWB.WPF.ViewModels
 {
+    /// <summary>
+    /// Initializes the MainViewModel
+    /// </summary>
     public class MainViewModel : ViewModelBase
     {
+        // Vars
         private readonly IPAWBViewModelFactory _viewModelFactory;
         public INavigator Navigator { get; set; }
         public IAuthenticator Authenticator { get; }
         public ICommand UpdateCurrentViewModelCommand { get; }
 
+        /// <summary>
+        /// Constructor
+        /// </summary>
+        /// <param name="navigator"></param>
+        /// <param name="authenticator"></param>
+        /// <param name="viewModelFactory"></param>
         public MainViewModel(INavigator navigator, IAuthenticator authenticator, IPAWBViewModelFactory viewModelFactory)
         {
             Navigator = navigator;

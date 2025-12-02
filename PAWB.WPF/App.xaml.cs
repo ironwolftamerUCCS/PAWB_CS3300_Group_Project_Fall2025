@@ -72,6 +72,7 @@ namespace PAWB.WPF
                     );
             });
 
+            // Login ViewModel and Navigation initializations
             services.AddSingleton<ViewModelDelegateRenavigator<SignUpModel>>();
             services.AddSingleton<CreateViewModel<LoginViewModel>>(sp =>
             {

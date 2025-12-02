@@ -6,8 +6,12 @@ using System.Threading.Tasks;
 
 namespace PAWB.WPF.ViewModels
 {
+    /// <summary>
+    /// Initializes an error message
+    /// </summary>
     public class MessageViewModel : ViewModelBase
     {
+        // Vars
         private string _message;
         public string Message
         {

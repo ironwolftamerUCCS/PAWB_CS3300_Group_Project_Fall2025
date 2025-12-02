@@ -9,6 +9,10 @@ using PAWB.WPF.ViewModels; // for SignUpModel, LoginViewModel, HomeViewModel
 //Initilization of each view model
 namespace PAWB.WPF.ViewModels.Factories
 {
+    /// <summary>
+    /// Implements IPAWBViewModelFactory.cs
+    /// Creates view models
+    /// </summary>
     public class PAWBViewModelFactory : IPAWBViewModelFactory
     {
         //Creating variables representing each view model
@@ -27,6 +31,12 @@ namespace PAWB.WPF.ViewModels.Factories
             _createSignUpViewModel = createSignUpViewModel;
         }
 
+        /// <summary>
+        /// Creates the view models
+        /// </summary>
+        /// <param name="viewType"></param>
+        /// <returns></returns>
+        /// <exception cref="ArgumentException"></exception>
         public ViewModelBase CreateViewModel(ViewType viewType)
         {
             switch (viewType)

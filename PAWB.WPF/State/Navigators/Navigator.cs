@@ -10,9 +10,18 @@ using System.Windows.Input;
 
 namespace PAWB.WPF.State.Navigators
 {
+    /// <summary>
+    /// Implements INavigator.cs
+    /// Navigates to new view models
+    /// </summary>
     public class Navigator : ObservableObjects, INavigator
     {
+        // Vars
         private ViewModelBase _currentViewModel;
+
+        /// <summary>
+        /// Constructor
+        /// </summary>
         public ViewModelBase CurrentViewModel
         {
             get

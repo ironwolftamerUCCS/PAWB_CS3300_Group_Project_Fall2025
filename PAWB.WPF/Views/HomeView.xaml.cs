@@ -28,7 +28,7 @@ namespace PAWB.WPF.Views
     /// </summary>
     public partial class HomeView : UserControl
     {
-
+        // Vars
         private bool _isDefaultTheme = true;
 
         public List<InfoItem> Items { get; set; } = new List<InfoItem>();
@@ -37,17 +37,19 @@ namespace PAWB.WPF.Views
         private Cursor Brown;   
         private Cursor WhiteGrey;
         private Cursor TriGrey;
+
+        /// <summary>
+        /// Constructor
+        /// </summary>
         public HomeView()
         {
             // Custom Cursor
-            //string cursorDirectory = Directory.GetParent(Environment.CurrentDirectory).Parent.FullName + "\\Cursors";
             Grey = new Cursor(Application.GetResourceStream(new Uri("Cursors/pawcursordefault.cur", UriKind.Relative)).Stream);
             Brown = new Cursor(Application.GetResourceStream(new Uri("Cursors/browncursorpaw.cur", UriKind.Relative)).Stream);
             WhiteGrey = new Cursor(Application.GetResourceStream(new Uri("Cursors/whitegreycursorpaw.cur", UriKind.Relative)).Stream);
             TriGrey = new Cursor(Application.GetResourceStream(new Uri("Cursors/greywhitecursorpaw.cur", UriKind.Relative)).Stream);
 
             InitializeComponent();
-            //DataContext = dataContext;
 
             DataContext = this;
 
@@ -55,7 +57,10 @@ namespace PAWB.WPF.Views
         
         }
 
-
+        /// <summary>
+        /// Loads the entries for the logged in user and populates them in the view
+        /// </summary>
+        /// <returns></returns>
         private async Task LoadEntrysAsync()
         {
             try
@@ -101,6 +106,11 @@ namespace PAWB.WPF.Views
             }
         }
 
+        /// <summary>
+        /// Handles interaction for detail button
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void DetailButton_Click(object sender, RoutedEventArgs e)
         {
             var item = (sender as FrameworkElement)?.DataContext as InfoItem;
@@ -111,6 +121,11 @@ namespace PAWB.WPF.Views
             }
         }
 
+        /// <summary>
+        /// Handles interaction with dark mode toggle
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void OnToggleButtonChecked(object sender, RoutedEventArgs e)
         {
             _isDefaultTheme = !_isDefaultTheme;

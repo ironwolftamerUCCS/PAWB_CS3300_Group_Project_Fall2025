@@ -9,8 +9,12 @@ using System.Threading.Tasks;
 
 namespace PAWB.EntityFramework
 {
+    /// <summary>
+    /// Defines get/set for users, accounts, and entries in the database
+    /// </summary>
     public class PAWBDbContext : DbContext
     {
+        // Vars
         public DbSet<User> Users { get; set; }
         public DbSet<Account> Accounts { get; set; }
         public DbSet<Entry> Entrys { get; set; }

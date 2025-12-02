@@ -10,11 +10,23 @@ using System.Threading.Tasks;
 
 namespace PAWB.WPF.State.Authenticators
 {
+    /// <summary>
+    /// An interface declaring methods to change the login status of a given account
+    /// </summary>
     public interface IAuthenticator
     {
+        // Vars
         Account CurrentAccount { get; }
         bool IsLoggedIn { get; }
-
+        
+        /// <summary>
+        /// Registers a new user
+        /// </summary>
+        /// <param name="email"></param>
+        /// <param name="username"></param>
+        /// <param name="password"></param>
+        /// <param name="confirmPassword"></param>
+        /// <returns></returns>
         Task<RegistrationResult> Register(string email, string username, string password, string confirmPassword);
 
         /// <summary>
@@ -26,6 +38,10 @@ namespace PAWB.WPF.State.Authenticators
         /// <exception cref="InvalidPasswordException">Thrown if the password is invalid</exception>
         /// <exception cref="Exception">Thrown if the login fails</exception>
         Task Login(string username, string password);
+        
+        /// <summary>
+        /// Logs out user
+        /// </summary>
         void Logout();
     }
 }

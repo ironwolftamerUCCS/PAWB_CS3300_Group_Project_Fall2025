@@ -21,6 +21,10 @@ namespace PAWB.WPF.Views
     /// </summary>
     public partial class DetailWindow : Window
     {
+        /// <summary>
+        /// Constructor
+        /// </summary>
+        /// <param name="item"></param>
         public DetailWindow(InfoItem item)
         {
             InitializeComponent();

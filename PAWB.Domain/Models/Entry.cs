@@ -6,8 +6,12 @@ using System.Threading.Tasks;
 
 namespace PAWB.Domain.Model
 {
+    /// <summary>
+    /// Defines a model “Entry” containing information attached to a credential entry
+    /// </summary>
     public class Entry : DomainObject
     {
+        // Vars
         public string Title { get; set; }
         public string Username { get; set; }
         public string Password { get; set; }
