@@ -41,12 +41,12 @@
         <TextBlock Grid.Row="2" Grid.Column="1" Text="Welcome to Pawble" Margin="136,43,0,125" Foreground="#FFFF7A78" FontFamily="Showcard Gothic" FontSize="50" HorizontalAlignment="Left"/>
 
 
-        <Button Grid.Row="2" Grid.Column="1" HorizontalAlignment="Center"
+        <Button Grid.Row="2" Grid.Column="1" HorizontalAlignment="Left"
                 IsDefault="True"
                 Content="Sign Up"
                 Command="{Binding SignUpCommand}" 
-                Margin="0,374,0,-170"
-                FontFamily="Showcard Gothic" FontSize="19" Foreground="#FFE17A82" Width="86"/>
+                Margin="357,375,0,-171"
+                FontFamily="Showcard Gothic" FontSize="19" Foreground="#FFE17A82" Width="86" RenderTransformOrigin="1.559,0.638"/>
 
         <Button Grid.Row="2" Grid.Column="1" HorizontalAlignment="Left"
                IsDefault="True"
@@ -55,7 +55,7 @@
                Margin="0,428,0,-208"
                FontFamily="Arial Rounded MT Bold" FontSize="12" Foreground="Blue" Background="Transparent" BorderThickness="0"/>
 
-        
+
 
         <TextBlock 
             Grid.Row="2" 
