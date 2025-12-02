@@ -7,24 +7,21 @@ using System.Threading.Tasks;
 
 namespace PAWB.Domain.Exceptions
 {
+    /// <summary>
+    /// Defines custom exception for a user entering an invalid username
+    /// </summary>
     public class UserNotFoundException : Exception
     {
+        // Vars
         public string Username { get; set; }
+
+        /// <summary>
+        /// Constructor
+        /// </summary>
+        /// <param name="username"></param>
         public UserNotFoundException(string username)
         {
             Username = username;
         }
-
-        public UserNotFoundException(string? message, string username) : base(message)
-        {
-            Username = username;
-        }
-
-        public UserNotFoundException(string? message, Exception? innerException, string username) : base(message, innerException)
-        {
-            Username = username;
-        }
-
-
     }
 }

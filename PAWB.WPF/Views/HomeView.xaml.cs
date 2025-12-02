@@ -31,7 +31,7 @@ namespace PAWB.WPF.Views
     /// </summary>
     public partial class HomeView : UserControl
     {
-
+        // Vars
         private bool _isDefaultTheme = true;
 
         public List<InfoItem> Items { get; set; } = new List<InfoItem>();
@@ -40,6 +40,10 @@ namespace PAWB.WPF.Views
         private Cursor Brown;   
         private Cursor WhiteGrey;
         private Cursor TriGrey;
+
+        /// <summary>
+        /// Constructor
+        /// </summary>
         public HomeView()
         {
             // Custom Cursor
@@ -57,7 +61,10 @@ namespace PAWB.WPF.Views
             
         }
 
-
+        /// <summary>
+        /// Loads the entries for the logged in user and populates them in the view
+        /// </summary>
+        /// <returns></returns>
         private async Task LoadEntrysAsync()
         {
             try
@@ -108,6 +115,11 @@ namespace PAWB.WPF.Views
             }
         }
 
+        /// <summary>
+        /// Handles interaction for detail button
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void DetailButton_Click(object sender, RoutedEventArgs e)
         {
             var item = (sender as FrameworkElement)?.DataContext as InfoItem;
@@ -118,6 +130,11 @@ namespace PAWB.WPF.Views
             }
         }
 
+        /// <summary>
+        /// Handles interaction with dark mode toggle
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void OnToggleButtonChecked(object sender, RoutedEventArgs e)
         {
             _isDefaultTheme = !_isDefaultTheme;

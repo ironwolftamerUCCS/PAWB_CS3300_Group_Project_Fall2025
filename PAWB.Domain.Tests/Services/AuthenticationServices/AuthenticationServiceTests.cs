@@ -14,6 +14,9 @@ using System.Threading.Tasks;
 //Tests done for methods in AuthenticationServices
 namespace PAWB.Domain.Tests.Services.AuthenticationServices
 {
+    /// <summary>
+    /// Unit testing for login and signup functions using C# test fixtures
+    /// </summary>
     [TestFixture]
     public class AuthenticationServiceTests
     {

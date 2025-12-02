@@ -11,6 +11,10 @@ namespace PAWB.WPF.ViewModels
 {
     //Encapsulates a method that creates a ViewModel of type TViewModel, where TViewModel is a ViewModel.
     public delegate TViewModel CreateViewModel<TViewModel>() where TViewModel : ViewModelBase;
+
+    /// <summary>
+    /// Initializes the ViewModelBase
+    /// </summary>
     public class ViewModelBase : ObservableObjects
     {
     

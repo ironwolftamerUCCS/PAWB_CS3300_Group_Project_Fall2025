@@ -9,6 +9,9 @@ using System.Threading.Tasks;
 
 namespace PAWB.WPF.ViewModels
 {
+    /// <summary>
+    /// Initializes the HomeViewModel
+    /// </summary>
     public class HomeViewModel : ViewModelBase
     {
         public HomeViewModel()

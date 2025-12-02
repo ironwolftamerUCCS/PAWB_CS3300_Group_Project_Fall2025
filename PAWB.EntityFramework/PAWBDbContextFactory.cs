@@ -11,13 +11,20 @@ using Microsoft.EntityFrameworkCore.Design;
 
 namespace PAWB.EntityFramework
 {
+    /// <summary>
+    /// Creates a local database context using a provided database connection string
+    /// </summary>
     public class PAWBDbContextFactory : IDesignTimeDbContextFactory<PAWBDbContext>
     {
+        /// <summary>
+        /// Constructor
+        /// </summary>
+        /// <param name="args"></param>
+        /// <returns></returns>
         public PAWBDbContext CreateDbContext(string[] args = null)
         {
+            // Connect to local SQL DB
             var options = new DbContextOptionsBuilder<PAWBDbContext>();
-            // TODO insert connection string to sequel server into this command below
-            //options.UseSqlServer("");
             options.UseSqlServer(
                 "Server=(localdb)\\mssqllocaldb;Database=PAWB;Trusted_Connection=True;MultipleActiveResultSets=true",
                 sqlOptions => sqlOptions.EnableRetryOnFailure(maxRetryCount: 3, maxRetryDelay: TimeSpan.FromSeconds(10), errorNumbersToAdd: new List<int> { 40613 })

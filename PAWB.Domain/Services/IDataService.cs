@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace PAWB.Domain.Services
 {
+    /// <summary>
+    ///     Defines a generic interface with methods declared to get, create, update, and delete database entries 
+    /// </summary>
+    /// <typeparam name="T"></typeparam>
     public interface IDataService<T>
     {
         Task<IEnumerable<T>> GetAll();

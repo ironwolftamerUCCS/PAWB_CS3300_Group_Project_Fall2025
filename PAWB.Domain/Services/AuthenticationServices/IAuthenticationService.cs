@@ -8,6 +8,9 @@ using System.Threading.Tasks;
 
 namespace PAWB.Domain.Services.AuthenticationServices
 {
+    /// <summary>
+    /// Enum for registration results
+    /// </summary>
     public enum RegistrationResult
     {
         Success,
@@ -15,6 +18,11 @@ namespace PAWB.Domain.Services.AuthenticationServices
         EmailAlreadyExists,
         UsernameAlreadyExists
     }
+
+    /// <summary>
+    /// Authentication service interface
+    /// Defines an interface declaring methods for login and signup
+    /// </summary>
     public interface IAuthenticationService
     {
         Task<RegistrationResult> Register(string email, string username, string password, string confirmPassword);

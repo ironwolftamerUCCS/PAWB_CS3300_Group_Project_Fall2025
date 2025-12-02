@@ -10,14 +10,29 @@ using System.Threading.Tasks;
 
 namespace PAWB.EntityFramework.Services.Common
 {
+    /// <summary>
+    /// Defines non-query methods where data is not returned. Includes create, delete, and update methods
+    /// </summary>
+    /// <typeparam name="T"></typeparam>
     public class NonQueryDataService<T> where T : DomainObject
     {
+        // Vars
         private readonly PAWBDbContextFactory _dbContextFactory;
 
+        /// <summary>
+        /// Constructor
+        /// </summary>
+        /// <param name="dbContextFactory"></param>
         public NonQueryDataService(PAWBDbContextFactory dbContextFactory)
         {
             _dbContextFactory = dbContextFactory;
         }
+
+        /// <summary>
+        /// Creat a new item in the DB
+        /// </summary>
+        /// <param name="entity"></param>
+        /// <returns></returns>
         public async Task<T> Create(T entity)
         {
             using (PAWBDbContext context = _dbContextFactory.CreateDbContext())
@@ -29,6 +44,11 @@ namespace PAWB.EntityFramework.Services.Common
             }
         }
 
+        /// <summary>
+        /// Delete an item in the DB
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
         public async Task<bool> Delete(int id)
         {
             using (PAWBDbContext context = _dbContextFactory.CreateDbContext())
@@ -40,6 +60,13 @@ namespace PAWB.EntityFramework.Services.Common
                 return true;
             }
         }
+
+        /// <summary>
+        /// Update an existing item in the DB
+        /// </summary>
+        /// <param name="id"></param>
+        /// <param name="entity"></param>
+        /// <returns></returns>
         public async Task<T> Update(int id, T entity)
         {
             using (PAWBDbContext context = _dbContextFactory.CreateDbContext())

@@ -10,11 +10,21 @@ using System.Threading.Tasks;
 
 namespace PAWB.Domain.Services.AuthenticationServices
 {
+    /// <summary>
+    /// Handles the authentication proceedures for logging in and registering to the application
+    /// Implements IAuthenticationService.cs 
+    /// </summary>
     public class AuthenticationService : IAuthenticationService
     {
+        // Vars
         private readonly IAccountService _accountService;
         private readonly IPasswordHasher _passwordHasher;
 
+        /// <summary>
+        /// Constructor
+        /// </summary>
+        /// <param name="accountService"></param>
+        /// <param name="passwordHasher"></param>
         public AuthenticationService(IAccountService accountService, IPasswordHasher passwordHasher)
         {
             _accountService = accountService;
